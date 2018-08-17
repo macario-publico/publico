@@ -1,0 +1,39 @@
+header {
+    width: 100%;
+    height: 70vh;
+}
+
+.separador30VH {
+    height: 30vh;
+}
+
+.h1-responsive {
+    font-size: 3rem;
+}
+
+#membresias {
+    background-color: #fff;
+}
+
+.alturasMapa {
+    height: 250px;
+}
+
+.view2 {
+    height: 65vh;
+}
+
+@media only screen and (min-width:768px) {
+    .alturasMapa {
+        height: 400px;
+    }
+    .view2 {
+    height: 65vh;
+    }
+}
+
+@media only screen and (min-width:992px){
+    .view2 {
+    height: 95vh;
+    }
+}
