@@ -30,7 +30,7 @@
     
     .logoBlack {
         position: absolute;
-        top: 18px;
+        top: 10px;
         left: 50px; 
         z-index: 1;
         display: none;

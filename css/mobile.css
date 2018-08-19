@@ -28,8 +28,8 @@ header{
 
 .view {
     margin: 0 auto;
-    width: 95%;
-    height: 95vh;
+    width: 97%;
+    height: 97vh;
 }
 
 
@@ -102,7 +102,11 @@ ul.menuWhite{
 }
 
 .navbar:not(.top-nav-collapse) {
-    background: black !important;
+    background: transparent ;
+}
+
+.backgroundColor{
+  background:#000 !important;
 }
 
 .navbar:not(.top-nav-collapse) .menu-item  i {
@@ -121,11 +125,14 @@ ul.menuWhite{
     display: none;
 }
 
+/*
 @media (max-width: 991px) {
     .navbar:not(.top-nav-collapse) {
-        background: black !important;
+        background: transparent !important;
     }
 }
+*/
+
 
 h6 {
     line-height: 1.7;
@@ -167,6 +174,7 @@ h6 {
 }
 .logoBlack2 {
     position: absolute;
+    top: 10px;
     left: 50%;
     margin-left: -70px;
     z-index: 1;

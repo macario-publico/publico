@@ -1,13 +1,29 @@
 new WOW().init();
+
 $("nav.fixed-top").autoHidingNavbar();
 
-  // Hide/show animation hamburger function
-  $('.navbar-toggler').on('click', function () {
+// Hide/show animation hamburger function
+$('.navbar-toggler').on('click', function () {
 
     // Take this line to first hamburger animations
     $('.animated-icon1').toggleClass('open');
+    toggleMenu();
+});
 
-  });
+//$('#hamburguesa').click(function () {
+//    toggleMenu();
+//
+//});
+
+function toggleMenu() {
+    var menu = $('.navbar');
+    if (!menu.hasClass('top-nav-collapse')) {
+        //alert('No Tiene la clase');
+        $('.navbar').toggleClass('backgroundColor');
+    }
+}
+
+
 
 
 $(window).scroll(function () {
@@ -31,16 +47,16 @@ function toogleClass() {
 }
 
 
-$(window).scroll(function(){
-   var top = $(this).scrollTop();
-   var menu = $('#menuRedes');    
-    
-    if(top >= 200){
+$(window).scroll(function () {
+    var top = $(this).scrollTop();
+    var menu = $('#menuRedes');
+
+    if (top >= 200) {
         menu.fadeIn(350);
-       }else{
-           menu.fadeOut(350);
-       }
-    
+    } else {
+        menu.fadeOut(350);
+    }
+
 });
 
 $(".owl-services").owlCarousel({
@@ -163,52 +179,70 @@ $(".owl-aliados").owlCarousel({
     }
 });
 
-$(window).on('load', function() {
-    $('#slider').nivoSlider(); 
+$(window).on('load', function () {
+    $('#slider').nivoSlider();
 });
 
 /*====================================
 =          Botton Plus         =
 ====================================*/
 
-$(function(){
+$(function () {
     var btnPlus = $('#float-social');
 
-    $(window).scroll(function(){
-        if($(this).scrollTop()>150){
+    $(window).scroll(function () {
+        if ($(this).scrollTop() > 150) {
             btnPlus.addClass('movePlus');
             btnPlus.removeClass('movePlus2');
-        }
-        else{
+        } else {
             btnPlus.removeClass('movePlus');
             btnPlus.addClass('movePlus2');
-          
+
         }
-    });   
-});     
+    });
+});
 
 var tl = new TimelineMax();
 
-tl.to('#face', .35, {top:'-50',opacity:1, ease: Expo.easeOut})
-.to('#twitter', .35, {top:'-100',opacity:1, ease: Expo.easeOut},"-=0.15")
-.to('#linkedin', .35, {top:'-150',opacity:1, ease: Expo.easeOut},"-=0.15")
-.to('#instagram', .35, {top:'-200',opacity:1, ease: Expo.easeOut},"-=0.15")
-.to('#spotify', .35, {top:'-250',opacity:1, ease: Expo.easeOut},"-=0.15");
+tl.to('#face', .35, {
+        top: '-50',
+        opacity: 1,
+        ease: Expo.easeOut
+    })
+    .to('#twitter', .35, {
+        top: '-100',
+        opacity: 1,
+        ease: Expo.easeOut
+    }, "-=0.15")
+    .to('#linkedin', .35, {
+        top: '-150',
+        opacity: 1,
+        ease: Expo.easeOut
+    }, "-=0.15")
+    .to('#instagram', .35, {
+        top: '-200',
+        opacity: 1,
+        ease: Expo.easeOut
+    }, "-=0.15")
+    .to('#spotify', .35, {
+        top: '-250',
+        opacity: 1,
+        ease: Expo.easeOut
+    }, "-=0.15");
 
 tl.pause();
 
-$('#plus').click(function(){
- toggleRedes();
+$('#plus').click(function () {
+    toggleRedes();
 });
 
-function toggleRedes(){
-  if($('#plus').hasClass('showRedes')){
-    $('#plus').removeClass('showRedes');
-    tl.reverse();
-    
-  }else{
-    $('#plus').addClass('showRedes');
-    tl.play();
-  }
-}
+function toggleRedes() {
+    if ($('#plus').hasClass('showRedes')) {
+        $('#plus').removeClass('showRedes');
+        tl.reverse();
 
+    } else {
+        $('#plus').addClass('showRedes');
+        tl.play();
+    }
+}
