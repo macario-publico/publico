@@ -90,10 +90,9 @@ $(".owl-testimonial").owlCarousel({
     items: 4,
     slideBy: 2,
     loop: true,
-    margin: 30,
     autoplay: true,
-    margin: 50,
-    stagePadding: 20,
+    margin: 20,
+    stagePadding: 15,
     autoplayTimeout: 3500,
     autoplayHoverPause: true,
     responsive: {
