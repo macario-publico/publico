@@ -66,8 +66,14 @@ header {
 /* Estilos de Mega Menu */
 
 .navbar a:hover{
-    color: #0056b3;
+    color: #cb8070;
 }
+
+/*
+.navbar .top-nav-collapse a.menu-item:hover  .menu-item{
+    color: #cb8070 !important;
+}
+*/
 
 ul.menuWhite {
     color: #000;
@@ -103,7 +109,7 @@ ul.menuWhite {
 }
 
 .top-nav-collapse .menu-item {
-    color: #666 !important;
+    color: #666 ;
 }
 
 .top-nav-collapse ul.menuWhite {
@@ -233,27 +239,43 @@ h6 {
     background-size: cover;
     background-repeat: no-repeat;
     background-repeat: no-repeat;
+    -webkit-transition: all 0.35s ease-in;
+    transition: all 0.35s ease-in;
 }
 
 #red1 {
     background-image: url(../img/iconos/redes/negro/linkedin_n.svg);
 }
-
+#red1:hover {
+    background-image: url(../img/iconos/redes/blanco/linkedin_b.svg);
+}
 #red2 {
     background-image: url(../img/iconos/redes/negro/ig_n.svg);
 }
-
+#red2:hover {
+    background-image: url(../img/iconos/redes/blanco/ig_b.svg);
+}
 #red3 {
     background-image: url(../img/iconos/redes/negro/facebook_n.svg);
+}
+#red3:hover {
+    background-image: url(../img/iconos/redes/blanco/facebook_b.svg);
 }
 
 #red4 {
     background-image: url(../img/iconos/redes/negro/twitter_n.svg);
 }
+#red4:hover {
+    background-image: url(../img/iconos/redes/blanco/twitter_b.svg);
+}
 
 #red5 {
     background-image: url(../img/iconos/redes/negro/spotify_n.svg);
 }
+#red5:hover {
+    background-image: url(../img/iconos/redes/blanco/spotify_b.svg);
+}
+
 
 header {
     background-color: #fff;
@@ -286,7 +308,7 @@ header {
     height: 15px;
     margin: 5px 7px;
     background: #fff;
-    border: solid 2px #000;
+    border: solid 1px #000;
     display: block;
     -webkit-backface-visibility: visible;
     backface-visibility: visible;
@@ -305,15 +327,29 @@ header {
 }
 
 .btn-outline-black {
-    border: 2px solid #000 !important;
+    border: 1px solid #000 !important;
     background-color: transparent !important;
     color: #000 !important;
+    box-shadow: none;
+}
+.btn-outline-black:hover {
+    border: 1px solid #000 !important;
+    background-color: black !important;
+    color: #fff !important;
+    box-shadow: none;
 }
 
 .btn-outline-green {
-    border: 2px solid #507a52 !important;
+    border: 1px solid #507a52 !important;
     background-color: transparent !important;
     color: #507a52 !important;
+    box-shadow: none;
+}
+.btn-outline-green:hover {
+    border: 1px solid #507a52 !important;
+    background-color: #507a52 !important;
+    color: #fff !important;
+    box-shadow: none;
 }
 
 .separador {

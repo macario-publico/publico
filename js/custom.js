@@ -152,7 +152,8 @@ $(".owl-aliados").owlCarousel({
     animateOut: 'fadeOut',
     animateIn: 'fadeInRight',
     loop: true,
-    margin: 30,
+    margin: 10,
+    stagePadding: 10,
     autoplay: true,
     margin: 50,
     stagePadding: 20,
@@ -161,10 +162,10 @@ $(".owl-aliados").owlCarousel({
     smartSpeed: 750,
     responsive: {
         0: {
-            items: 3
+            items: 2
         },
         576: {
-            items: 3
+            items: 2
         },
         768: {
             items: 4
@@ -204,27 +205,27 @@ $(function () {
 var tl = new TimelineMax();
 
 tl.to('#face', .35, {
-        top: '-50',
+        top: '-60',
         opacity: 1,
         ease: Expo.easeOut
     })
     .to('#twitter', .35, {
-        top: '-100',
+        top: '-120',
         opacity: 1,
         ease: Expo.easeOut
     }, "-=0.15")
     .to('#linkedin', .35, {
-        top: '-150',
+        top: '-180',
         opacity: 1,
         ease: Expo.easeOut
     }, "-=0.15")
     .to('#instagram', .35, {
-        top: '-200',
+        top: '-240',
         opacity: 1,
         ease: Expo.easeOut
     }, "-=0.15")
     .to('#spotify', .35, {
-        top: '-250',
+        top: '-300',
         opacity: 1,
         ease: Expo.easeOut
     }, "-=0.15");
