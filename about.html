@@ -24,73 +24,181 @@
 
 <body>
 
+
+    <div id='float-social' class="d-none d-md-block">
+        <a class="btn-floating btn-lg " id='plus'>
+            <i class="fa fa-share-alt"></i>
+        </a>
+        <a class="btn-floating red btn-black-social btn-lg" id='face' href="http://open.spotify.com/user/2a50j4lqb7f6as970wagzkky1?si=M7ounsSERE665Y-tPKBj-w" target="_blank">
+            <i class="fa fa-spotify"></i>
+        </a>
+        <a class="btn-floating red btn-black btn-lg" id='twitter' href="http://twitter.com/publicotrabajo" target="_blank">  
+           <i class="fa fa-twitter"></i>
+        </a>
+        <a class="btn-floating red btn-black btn-lg" id='linkedin' href="http://facebook.com/PUBLICOtrabajo" target="_blank">
+            <i class="fa fa-facebook"></i>
+        </a>
+        <a class="btn-floating red btn-black btn-lg" id='instagram' href="http://instagram.com/publi.co" target="_blank">  
+            <i class="fa fa-instagram"></i>
+        </a>
+        <a class="btn-floating red btn-black btn-lg" id='spotify' href="http:/instagram.com/publi.co" target="_blank">  
+            <i class="fa fa-linkedin"></i>
+        </a>
+    </div>
+
     <header>
-        <nav class="navbar navbar-dark elegant-color-dark fixed-top scrolling-navbar">
+        <nav class="navbar navbar-dark  fixed-top scrolling-navbar">
             <div class="container-fluid">
+
                 <a class="navbar-brand" href="index.html">
-                    <img src="img/logoWhite.png" class="logoWhite logoSize" alt="publi.co">
-                </a>
-                <a class="navbar-brand" href="index.html">
-                    <img src="img/logoBlack.png" class="logoBlack logoSize" alt="publi.co">
+                    <img src="img/logoBlack.png" class="logoBlack d-block d-md-none logoSize" alt="publi.co">
+                    <img src="img/logoBlack2.svg" class="logoBlack d-none d-md-block" height="50" alt="">
                 </a>
 
-                <div class="col-4 col-md-2 offset-0 offset-md-3 offset-lg-5">
-                    <a href="contacto.html" class="btn btn-white btn-menu-contacto">Contacto</a>
+                <div class="col-9 col-md-10">
+                    <a href="contacto.html" class="btn btn-white btn-menu-contacto float-right">Contacto</a>
                 </div>
 
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-7" aria-controls="navbarSupportedContent-7" aria-expanded="false" aria-label="Toggle navigation">
-                <div class="animated-icon1 menubarra"><span></span><span></span><span></span></div>
-<!--                    <i class="fa fa-bars menubarra" aria-hidden="true"></i>-->
+                <div class="animated-icon1 menubarra" id="hamburguesa"><span></span><span></span><span></span></div>
                 </button>
 
                 <div class="collapse navbar-collapse" id="navbarSupportedContent-7">
-                    <ul class="navbar-nav ml-auto">
-                        <li class="nav-item">
-                            <a class="nav-link" data-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-haspopup="true" aria-controls="collapseExample">Espacios de trabajo<i class="fa fa-caret-down" aria-hidden="true"></i></a>
-                        </li>
-                        <li>
-                            <!-- Collapsible element -->
-                            <div class="collapse" id="collapseExample">
-                                <div class="mt-1">
-                                    <a class="dropdown-item" href="muzquiz.html">Muzquis</a>
-                                    <a class="dropdown-item" href="puebla.html">Puebla</a>
-                                    <a class="dropdown-item" href="molier.html">Molier</a>
-                                    <a class="dropdown-item" href="seneca.html">Seneca</a>
-                                    <a class="dropdown-item" href="hamburgo.html">Hamburgo</a>
-                                    <a class="dropdown-item" href="lomas.html">Lomas</a>
-                                </div>
-                            </div>
-                            <!-- / Collapsible element -->
-                        </li>
+                    <div class="row mt-5">
+                        <div class="col-md-6 col-xl-3 sub-menu mb-xl-0">
+                            <ul class="menuWhite">
+                                <li class="mb-md-5">
+                                    <a class="menu-item pl-0" href="muzquiz.html">
+                                            Muzquiz 15
+                                    </a>
+                                    <p class=''>San Miguel Chapultepec, CDMX.</p>
+                                </li>
+                                <li class="my-md-5">
+                                    <a class="menu-item pl-0" href="seneca.html">
+                                        Séneca 61
+                                      </a>
+                                    <p class=''>Polanco, CDMX.</p>
+                                </li>
+                                <li class="my-md-5">
+                                    <a class="menu-item pl-0" href="hamburgo.html">
+                                        Hamburgo 26
+                                      </a>
+                                    <p class=''>Juárez, CDMX.</p>
+                                </li>
+                            </ul>
+                        </div>
+                        
+                        <div class="col-md-6 col-xl-3 sub-menu mb-xl-0">
+                            <ul class="menuWhite">
+                                <li class="mb-md-5">
+                                    <a class="menu-item pl-0" href="molier.html">
+                                        Molier 50
+                                      </a>
+                                    <p class=''>Polanco, CDMX.</p>
+                                </li>
+                                <li class="my-md-5">
+                                    <a class="menu-item pl-0" href="puebla.html">
+                                        Puebla 403
+                                      </a>
+                                    <p class=''>Condesa, CDMX.</p>
+                                </li>
+                                <li class="my-md-5">
+                                    <a class="menu-item pl-0" href="lomas.html">
+                                        Lomas 123
+                                      </a>
+                                    <p class=''>Lomas de Chapultepec, CDMX.</p>
+                                </li>
+                            </ul>
+                        </div>
+                        
+                        <div class="col-md-6 col-xl-3 sub-menu mb-md-0 mb-xl-0">
+                            <ul class="menuWhite">
+                                <li class="mb-md-3">
+                                    <a class="menu-item pl-0" href="cowork.html">
+                                        Espacios de Trabajo
+                                    </a>
+                                </li>
+                                <li class="my-md-3">
+                                    <a class="menu-item pl-0" href="comedores.html">
+                                        Comedores
+                                      </a>
+                                </li>
+                                <li class="my-md-3">
+                                    <a class="menu-item pl-0" href="about.html">
+                                        About Us
+                                      </a>
+                                </li>
+                                <li class="my-md-3">
+                                    <a class="menu-item pl-0" href="publico-estudio-fotografico-cdmx.html">
+                                        Estudio de Foto
+                                      </a>
+                                </li>
+                                <li class="my-md-3">
+                                    <a class="menu-item pl-0" href="press.html">
+                                        Press
+                                      </a>
+                                </li>
+                                <li class="my-md-3">
+                                    <a class="menu-item pl-0" href="membresias.html">
+                                        Membresía
+                                      </a>
+                                </li>
+                                <li class="my-md-3">
+                                    <a class="menu-item pl-0" href="eventos.html">
+                                        Eventos
+                                      </a>
+                                </li>
+                                <li class="my-md-3">
+                                    <a class="menu-item pl-0" href="http://publi.co/blog">
+                                        Blog
+                                      </a>
+                                </li>
+                                <li class="my-md-3">
+                                    <a class="menu-item pl-0" href="colaboradores.html">
+                                        Colaboradores
+                                      </a>
+                                </li>
+                                <li class="my-md-3">
+                                    <a class="menu-item pl-0" href="contacto">
+                                        Contacto
+                                      </a>
+                                </li>
+                            </ul>
+                        </div>
+                        
+                        <div class="col-md-6 col-xl-3 justify-content-center sub-menu mb-0">
+                            <ul class="list-unstyled d-none d-md-block text-center">
+                                <li class="py-5 redesMenu">
+                                    <a class="menu-item pl-0" href="http://linkedin.com/company/publicotrabajo/" target="_blank">
+                                        <i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i>
+                                      </a>
+                                </li>
+                                <li class="pb-5 redesMenu">
+                                    <a class="menu-item pl-0" href="http://instagram.com/publi.co" target="_blank">
+                                      <i class="fa fa-instagram fa-2x" aria-hidden="true"></i>
+                                      </a>
+                                </li>
+                                <li class="pb-5 redesMenu">
+                                    <a class="menu-item pl-1" href="http://facebook.com/PUBLICOtrabajo" target="_blank">
+                                      <i class="fa fa-facebook fa-2x" aria-hidden="true"></i>
+                                      </a>
+                                </li>
+                                <li class="pb-5 redesMenu">
+                                    <a class="menu-item pl-0" href="http://twitter.com/publicotrabajo" target="_blank">
+                                      <i class="fa fa-twitter fa-2x" aria-hidden="true"></i>
+                                      </a>
+                                </li>
+                                <li class="pb-5 redesMenu">
+                                    <a class="menu-item pl-0" href="http://open.spotify.com/user/2a50j4lqb7f6as970wagzkky1?si=M7ounsSERE665Y-tPKBj-w" target="_blank">
+                                      <i class="fa fa-spotify fa-2x" aria-hidden="true"></i>
+                                    </a>
+                                </li>
+                            </ul>
 
-                        <li class="nav-item">
-                            <a class="nav-link" href="comedores.html">Comedores</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="about.html">About Us</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="estudio.html">Estudio de Foto</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="press.html">Press</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="membresia.html">Membresia</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="eventos.html">Eventos</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="blog.html">Blog</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="colaboradores.html">Colaboradores</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="contacto.html">Contacto</a>
-                        </li>
-                    </ul>
+                        </div>
+                        <div class="col-12 py-5"></div>
+                    </div>
+
                 </div>
             </div>
         </nav>
@@ -98,25 +206,26 @@
         <!-- Full Page Intro -->
         <div class="view slide">
             <!-- Mask & flexbox options-->
-            <div class="mask d-flex justify-content-center align-items-center">
+            <div class="mask rgba-gradient d-flex justify-content-center align-items-center">
                 <!-- Content -->
                 <div class="container-fluid">
                     <!--Grid row-->
-                    <div class="row justify-content-around">
+                    <div class="row justify-content-between">
                         <!--Grid column-->
                         <!--                        <div class="col-12 mt-5 py-5"></div>-->
-                        <div class="col-md-6 white-text text-center text-md-left mt-3 mb-5 wow fadeInLeft" data-wow-delay="0.3s">
-                            <h1 class="h1-responsive font-weight-bold mt-lg-5">Publico, <br> Espacios para Crear</h1>
-
+                        <div class="col-md-6 white-text text-center text-md-left mt-3 mb-5 pl-4 wow fadeInLeft" data-wow-delay="0.3s">
+                            <h1 class="display-4 font-weight-bold mt-lg-5">Publico,<br>espacios para crear</h1>
+                            <!--<hr class="hr-light">-->
+<!--                            <h3 class="mb-4">Renta de espacios de coworking y<br> oficinas privadas en la CDMX.</h3>-->
                         </div>
                         <!--Grid column-->
                         <!--Grid column-->
-                        <div class="col-md-6 col-xl-1 mt-xl-5 text-center wow fadeInRight" data-wow-delay="0.3s">
+                        <div class="col-md-2 col-xl-1 mt-xl-5 d-none d-md-block pr-2 text-center wow fadeInRight" data-wow-delay="0.3s">
                             <div class="d-flex flex-md-column justify-content-center float-md-right">
                                 <a href="http://linkedin.com/company/publicotrabajo/" target="_blank">
                                     <div class="redes" id="red1"></div>
                                 </a>
-                                <a href="http:/instagram.com/publi.co" target="_blank">
+                                <a href="http://instagram.com/publi.co" target="_blank">
                                     <div class="redes" id="red2"></div>
                                 </a>
                                 <a href="http://facebook.com/PUBLICOtrabajo" target="_blank">
@@ -133,15 +242,22 @@
 
                         <!--Grid column-->
                     </div>
-
+                    <!--Grid row-->
+                    <div class="row align-items-end justify-content-center">
+                        <div class="col-10 col-md-6 col-lg-3 text-center mt-5 bottom">
+                            <div class='icon-scroll'></div>
+                        </div>
+                    </div>
+                    <!-- Content -->
                 </div>
-                <!-- Content -->
+                <!-- Mask & flexbox options-->
             </div>
-            <!-- Mask & flexbox options-->
+            <!-- Full Page Intro -->
         </div>
-        <!-- Full Page Intro -->
     </header>
     <!-- Main navigation -->
+
+
 
     <div class="separador30VH"></div>
 
@@ -151,24 +267,19 @@
                 <div class="row">
                     <div class="col-12 col-md-10 offset-md-1">
                         <h2 class="titulos sans-bold">Acerca de Nosotros</h2>
-                        <p class="">
+                        <p class="subtitulo">
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus at atque aperiam consequatur debitis molestiae distinctio architecto inventore ipsa ratione error aspernatur delectus, doloremque, officiis, hic officia deleniti natus sequi.
                         </p>
-                        <p class="">
+                        <p class="subtitulo">
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit vel debitis veniam, distinctio nam impedit. Cupiditate nulla aut, veniam similique excepturi, error mollitia culpa libero pariatur dolores dolorem sequi esse.
                         </p>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="row justify-content-center">
-            <div class="col-12 col-md-10 mt-4 m-botton">
-                <iframe class="alturasMapa" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3763.007582716011!2d-99.19203055011823!3d19.41207834630378!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d201e1fd4fada3%3A0x3433fd6c1d0f7e61!2zUMO6YmxpY28!5e0!3m2!1ses-419!2smx!4v1533675330065" width="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
-            </div>
-        </div>
     </div>
 
-    <section id="membresias">
+    <section id="membresias" class="py-5">
         <div class="container-fluid">
             <div class="row mx-0 my-4">
                 <div class="col-12 col-md-10 col-lg-7">
@@ -183,7 +294,7 @@
             <div class="row justify-content-around">
                 <div class="col-12 col-lg-10">
                     <img src="img/credo.jpg" alt="" class="img-fluid">
-                    <ul class="mt-5">
+                    <ul class="text-body mt-5">
                         <li class="my-3"><span class="font-weight-bold">We belive</span> in collective and individual wellbeing. </li>
                         <li class="my-3"><span class="font-weight-bold">We belive</span> in ideas and in collaborating with creative minds. </li>
                         <li class="my-3"><span class="font-weight-bold">We belive</span> in challenging the status quo and in looking for better solutions.</li>
@@ -217,7 +328,7 @@
     </section>
 
 
-    <section id="servicios" class="pb-5">
+    <section id="aliados" class="mt-5 pb-5">
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="col-12 col-md-6 text-center">
@@ -277,8 +388,9 @@
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.5.4/js/mdb.min.js"></script>
     <script src="js/jquery.easing.1.3.min.js"></script>
     <script src="js/animatescroll.min.js"></script>
+    <script src="greensock/TweenMax.min.js"></script>
+    <script src="greensock/EasePack.min.js"></script>
     <script src="js/owl.carousel.min.js"></script>
-    <script src="js/animatescroll.min.js"></script>
     <script src="js/jquery.bootstrap-autohidingnavbar.js"></script>
     <script src="js/jquery.nivo.slider.js"></script>
     <script src="js/custom.js"></script>

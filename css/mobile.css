@@ -383,13 +383,14 @@ header {
     color: #757575;
 }
 .caja-select {
-    margin-top: 25px;
+    margin-top: 33px;
     border-bottom: 1px solid #d9d9d9;
     height: 30px;
     overflow: hidden;
-    width: 230px;
+    width: 100%;
     position: relative;
     color: #757575;
+    text-align: left;
 }
 
 select {
@@ -398,7 +399,7 @@ select {
     font-size: 14px;
     height: 30px;
     padding: 5px;
-    width: 250px;
+    width: 100%;
     color: #757575;
 }
 
@@ -407,7 +408,7 @@ select:focus {
 }
 
 .caja-select::after {
-    content: "\025be";
+    content: "";
     display: table-cell;
     padding-top: 7px;
     text-align: center;
@@ -417,7 +418,7 @@ select:focus {
     position: absolute;
     top: 0px;
     right: 0px;
-    pointer-events: none;
+    pointer-events: none !important;
     color: #757575;
 }
 
@@ -448,4 +449,14 @@ select:focus {
     height: auto;
     background-image: url(../img/pattern2.svg);
     background-size: 400px 400px;
+}
+
+#espacios {
+
+}
+
+.text-body {
+    color: #747373;
+    font-size: .9rem;
+    font-weight: 400;
 }
