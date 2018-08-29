@@ -403,3 +403,14 @@
     top: -1.5rem;
     left: 0;
 }
+
+.md-form input[type=text]:focus:not([readonly]), .md-form input[type=time]:focus:not([readonly]), .md-form input[type=url]:focus:not([readonly]), .md-form textarea.md-textarea:focus:not([readonly]) {
+    -webkit-box-shadow: 0 1px 0 0 #cb8071;
+    box-shadow: 0 1px 0 0 #cb8071;
+    border-bottom: 1px solid #cb8071;
+}
+
+
+.md-form label.active{
+    color: #cb8071 !important;
+}

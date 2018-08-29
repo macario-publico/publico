@@ -65,7 +65,7 @@ header {
 
 /* Estilos de Mega Menu */
 
-.navbar a:hover{
+.navbar a:hover {
     color: #cb8070;
 }
 
@@ -100,8 +100,9 @@ ul.menuWhite {
 .top-nav-collapse {
     background-color: white !important;
 }
-.top-nav-collapse .navbar{
-    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+
+.top-nav-collapse .navbar {
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
 }
 
 .top-nav-collapse .menu-item i {
@@ -109,7 +110,7 @@ ul.menuWhite {
 }
 
 .top-nav-collapse .menu-item {
-    color: #666 ;
+    color: #666;
 }
 
 .top-nav-collapse ul.menuWhite {
@@ -127,7 +128,7 @@ ul.menuWhite {
 
 .navbar:not(.top-nav-collapse) {
     background: transparent;
-    box-shadow: 0 2px 5px 0 rgba(0,0,0,0), 0 2px 10px 0 rgba(0,0,0,0);
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0), 0 2px 10px 0 rgba(0, 0, 0, 0);
 }
 
 .backgroundColor {
@@ -135,7 +136,7 @@ ul.menuWhite {
 }
 
 .navbar:not(.top-nav-collapse) .menu-item i {
-    color: black!important;
+    color: black !important;
 }
 
 .navbar:not(.top-nav-collapse) .navbar-toggler .navbar-toggler-icon {
@@ -246,18 +247,23 @@ h6 {
 #red1 {
     background-image: url(../img/iconos/redes/negro/linkedin_n.svg);
 }
+
 #red1:hover {
     background-image: url(../img/iconos/redes/blanco/linkedin_b.svg);
 }
+
 #red2 {
     background-image: url(../img/iconos/redes/negro/ig_n.svg);
 }
+
 #red2:hover {
     background-image: url(../img/iconos/redes/blanco/ig_b.svg);
 }
+
 #red3 {
     background-image: url(../img/iconos/redes/negro/facebook_n.svg);
 }
+
 #red3:hover {
     background-image: url(../img/iconos/redes/blanco/facebook_b.svg);
 }
@@ -265,6 +271,7 @@ h6 {
 #red4 {
     background-image: url(../img/iconos/redes/negro/twitter_n.svg);
 }
+
 #red4:hover {
     background-image: url(../img/iconos/redes/blanco/twitter_b.svg);
 }
@@ -272,6 +279,7 @@ h6 {
 #red5 {
     background-image: url(../img/iconos/redes/negro/spotify_n.svg);
 }
+
 #red5:hover {
     background-image: url(../img/iconos/redes/blanco/spotify_b.svg);
 }
@@ -333,6 +341,7 @@ header {
     color: #000 !important;
     box-shadow: none;
 }
+
 .btn-outline-black:hover {
     border: 1px solid #000 !important;
     background-color: black !important;
@@ -346,6 +355,7 @@ header {
     color: #507a52 !important;
     box-shadow: none;
 }
+
 .btn-outline-green:hover {
     border: 1px solid #507a52 !important;
     background-color: #507a52 !important;
@@ -372,6 +382,7 @@ header {
 .lineHeight {
     line-height: 2rem;
 }
+
 .md-form label {
     position: absolute;
     top: .65rem;
@@ -382,6 +393,7 @@ header {
     cursor: text;
     color: #757575;
 }
+
 .caja-select {
     margin-top: 33px;
     border-bottom: 1px solid #d9d9d9;
@@ -451,12 +463,70 @@ select:focus {
     background-size: 400px 400px;
 }
 
-#espacios {
-
-}
-
 .text-body {
     color: #747373;
     font-size: .9rem;
     font-weight: 400;
+}
+
+/************************************
+    Estilos del Tab FAQ
+************************************/   
+
+.nav-pills .nav-link {
+    color: #000;
+    background-color: #fff;
+    border: solid 1px #000;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #000;
+}
+
+
+/************************************
+    Estilos del Acordeon
+************************************/
+
+.noShadow{
+  box-shadow:none;
+}
+.card-header{
+  padding: 0.75rem 0;
+  background-color:transparent;
+}
+
+#accordion-style-1 .btn-link {
+    font-weight: 400;
+    color: #000;
+    background-color: transparent;
+    text-decoration: none !important;
+    font-size: 16px;
+    font-weight: bold;
+	padding-left: 25px;
+}
+
+#accordion-style-1 .card-body {
+    border-top: 2px solid #000;
+}
+
+#accordion-style-1 .card-header .btn.collapsed .fa.main{
+	display:none;
+}
+
+#accordion-style-1 .card-header .btn .fa.main{
+	  background: #000;
+    padding: 7px 8px;
+    color: #ffffff;
+    font-size:1.7rem;
+    width: 42px;
+    height: 42px;
+    position: absolute;
+    left: -1px;
+    top: 5px;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+	  display:block;
 }

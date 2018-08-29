@@ -329,18 +329,18 @@
                         <!--Card content-->
                         <div class="card-body px-lg-5 pt-0">
                             <!-- Form -->
-                            <form class="" action="evento.php" method="post" style="color: #757575;">
+                            <form action="PHPMailer/eventos.php" method="post">
                                 <h2 class="titulos sans-bold mb-4"><span class="font-weight-bold">El espacio perfecto para tu evento:</span></h2>
                                 <div class="form-row mb-4">
                                     <!-- Name -->
                                     <div class="col md-form">
-                                        <input type="text" id="nombre" name="nombre" class="form-control">
+                                        <input type="text" id="nombre" name="nombre" class="form-control" required>
                                         <label for="nombre">Nombre</label>
                                     </div>
 
                                     <!-- Apellido -->
                                     <div class="col md-form">
-                                        <input type="text" id="apellido" name="apellido" class="form-control">
+                                        <input type="text" id="apellido" name="apellido" class="form-control" required>
                                         <label for="apellido">Apellido</label>
                                     </div>
                                 </div>
@@ -348,12 +348,12 @@
                                 <div class="form-row mb-4">
                                     <!-- E-mail -->
                                     <div class="col-12 col-md-6 md-form">
-                                        <input type="text" id="empresa" name="empresa" class="form-control">
+                                        <input type="text" id="empresa" name="empresa" class="form-control" required>
                                         <label for="empresa">Nombre de la empresa</label>
                                     </div>
                                     <!-- Name -->
                                     <div class="col-12 col-md-6 md-form">
-                                        <input type="tel" id="telefono" name="telefono" class="form-control">
+                                        <input type="tel" id="telefono" name="telefono" class="form-control" required>
                                         <label for="telefono">Teléfono</label>
                                     </div>
                                 </div>
@@ -361,26 +361,26 @@
                                 <div class="form-row mb-4">
                                     <!-- E-mail -->
                                     <div class="col-12 col-md-6 md-form">
-                                        <input type="email" id="materialContactFormEmail" name="email" class="form-control">
+                                        <input type="email" id="materialContactFormEmail" name="email" class="form-control" required>
                                         <label for="materialContactFormEmail">E-mail</label>
                                     </div>
                                     <!-- Name -->
                                     <div class="col-12 col-md-6">
                                         <div class="caja-select">
-                                            <select>
+                                            <select name="afiliado" required>
                                                 <option selected disabled>¿Tú empresa tiene oficina en Público?</option>
                                                 <option value="Soy parte de Público">Soy parte de Público</option>
                                                 <option value="No somos parte de Público">No somos parte de Público</option>
-                                              </select>
+                                            </select>
                                         </div>
                                     </div>
                                 </div>
-                                <h2 class="titulos sans-bold mb-4">Informe del evento</h2>
+                                <h2 class="titulos sans-bold mb-4"><span class="font-weight-bold">Informe del evento</span></h2>
                                 <div class="form-row mb-4">
                                     <!-- E-mail -->
                                     <div class="col-12 col-md-6 md-form">
                                        <label for="horario" class="labelHorario">Horario:</label>
-                                        <input type="time" id="horario" name="horario" min="09:00" max="20:00" value="09:00" class="form-control">
+                                        <input type="time" id="horario" name="horario" min="09:00" max="20:00" value="09:00" class="form-control" required>
                                         <!--
                                         <div class="caja-select">
                                             <select>
@@ -394,7 +394,7 @@
                                     <!-- Name -->
                                     <div class="col-12 col-md-6 md-form">
                                        <label for="fecha" class="labelHorario">Fecha:</label>
-                                        <input type="date" id="fecha" name="fecha" class="form-control">
+                                        <input type="date" id="fecha" name="fecha" class="form-control" required>
                                     </div>
                                 </div>
 
@@ -402,7 +402,7 @@
                                     <!--Invitados-->
                                     <div class="col-12 col-md-6">
                                         <div class="caja-select">
-                                            <select>
+                                            <select name="invitados" required>
                                                 <option selected disabled>Numero Invitados:</option>
                                                 <option value="1">1</option>
                                                 <option value="2">2</option>
@@ -420,7 +420,7 @@
                                     <!-- Tipo de Evento -->
                                     <div class="col-12 col-md-6">
                                         <div class="caja-select">
-                                            <select>
+                                            <select name="evento" required>
                                                 <option selected disabled>Tipo de Evento:</option>
                                                 <option value="Junta de Negocios">Junta de Negocios</option>
                                                 <option value="Reunion de equipo">Reunion de equipo</option>
@@ -433,7 +433,7 @@
                                     <!--Invitados-->
                                     <div class="col-12 col-md-6">
                                         <div class="caja-select">
-                                            <select>
+                                            <select name="publico" required>
                                                 <option selected disabled>Es para todo el publico?</option>
                                                 <option value="Estan todos invitados">Estan todos invitados!</option>
                                                 <option value="Es solo para el equipo">Es solo para el equipo!</option>
@@ -444,13 +444,13 @@
                                 <!--Message-->
                                 <div class="form-row mb-4">
                                     <div class="col-12 md-form">
-                                        <textarea type="text" id="materialContactFormMessage" class="form-control md-textarea" rows="3"></textarea>
+                                        <textarea type="text" id="materialContactFormMessage" class="form-control md-textarea" name="mensaje" rows="3" required></textarea>
                                         <label for="materialContactFormMessage">Mensaje</label>
                                     </div>
 
                                     <!-- Copy -->
                                     <div class="col-12 form-check">
-                                        <input type="checkbox" class="form-check-input" id="materialContactFormCopy">
+                                        <input type="checkbox" class="form-check-input" id="materialContactFormCopy" name="aviso" value="Acepto el Aviso de Privacidad" required>
                                         <label class="form-check-label" for="materialContactFormCopy">Acepto el Aviso de Privacidad</label>
                                     </div>
                                 </div>
