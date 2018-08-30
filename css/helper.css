@@ -1,3 +1,158 @@
+/*Preloader*/
+/*** Preloader ***/
+
+.preloader-container {
+    position: fixed;
+    height: 100vh;
+    width: 100vw;
+    background-color: #000;
+    z-index: 10000;
+}
+
+#loader {
+    width: 300px;
+    height: 300px;
+    padding-top: 8rem;
+    position: relative;
+    left: 50%;
+    top: 30%;
+    margin: -100px 0 0 -150px;
+}
+
+.logo {
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    margin-left: -60px;
+}
+
+#logoPre {
+    position: relative;
+    opacity: 0;
+    top: -100px;
+}
+
+.preloader.full-width {
+    width: 100%;
+    height: 120px;
+    margin-left: 0px;
+    margin-right: 0px;
+    overflow: hidden;
+}
+
+.preloader {
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+    width: 45%;
+    margin: 5%;
+    position: relative;
+}
+
+.description {
+    position: absolute;
+    bottom: 10px;
+    left: 12px;
+}
+
+.preloader-container {
+    cursor: default;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Preloader #1 */
+
+.preloader-dots {
+    height: 50px;
+    width: 100px;
+    margin-top: 20px;
+}
+
+.preloader-dots .dot {
+    display: inline-block;
+    background: #333;
+    height: 15px;
+    width: 15px;
+    opacity: 1;
+    animation: moveit 1.8s infinite;
+}
+
+.dot:nth-child(2) {
+    animation-delay: .15s;
+}
+
+.dot:nth-child(3) {
+    animation-delay: .3s;
+}
+
+.dot:nth-child(4) {
+    animation-delay: .45s;
+}
+
+.dot:nth-child(5) {
+    animation-delay: .6s;
+}
+
+@-webkit-keyframes moveit {
+    0% {
+        transform: translateY(0px);
+    }
+
+    35% {
+        transform: translateY(0px);
+        opacity: 0.3;
+    }
+
+    50% {
+        transform: translateY(-5px);
+        opacity: 0.8;
+    }
+
+    70% {
+        transform: translateY(3px);
+        opacity: 0.8;
+    }
+
+    85% {
+        transform: translateY(-3px);
+    }
+}
+
+@keyframes moveit {
+    0% {
+        transform: translateY(0px);
+    }
+
+    35% {
+        transform: translateY(0px);
+        opacity: 0.3;
+    }
+
+    50% {
+        transform: translateY(-5px);
+        opacity: 0.8;
+    }
+
+    70% {
+        transform: translateY(3px);
+        opacity: 0.8;
+    }
+
+    85% {
+        transform: translateY(-3px);
+    }
+}
+
+
+
+
 /* Icon 1 */
 
 .animated-icon1,
@@ -234,6 +389,7 @@
     0% {
         opacity: 1;
     }
+
     100% {
         opacity: 0;
         -webkit-transform: translateY(46px);
@@ -245,6 +401,7 @@
     0% {
         opacity: 1;
     }
+
     100% {
         opacity: 0;
         -webkit-transform: translateY(46px);
@@ -367,6 +524,7 @@
     0% {
         transform: translateX(0);
     }
+
     100% {
         transform: translateX(-130px);
     }
@@ -376,6 +534,7 @@
     0% {
         transform: translateX(0);
     }
+
     100% {
         transform: translateX(-130px);
     }
@@ -385,6 +544,7 @@
     0% {
         transform: translateX(-130px);
     }
+
     100% {
         transform: translateX(0px);
     }
@@ -394,6 +554,7 @@
     0% {
         transform: translateX(-130px);
     }
+
     100% {
         transform: translateX(0px);
     }
@@ -404,13 +565,16 @@
     left: 0;
 }
 
-.md-form input[type=text]:focus:not([readonly]), .md-form input[type=time]:focus:not([readonly]), .md-form input[type=url]:focus:not([readonly]), .md-form textarea.md-textarea:focus:not([readonly]) {
+.md-form input[type=text]:focus:not([readonly]),
+.md-form input[type=time]:focus:not([readonly]),
+.md-form input[type=url]:focus:not([readonly]),
+.md-form textarea.md-textarea:focus:not([readonly]) {
     -webkit-box-shadow: 0 1px 0 0 #cb8071;
     box-shadow: 0 1px 0 0 #cb8071;
     border-bottom: 1px solid #cb8071;
 }
 
 
-.md-form label.active{
+.md-form label.active {
     color: #cb8071 !important;
 }

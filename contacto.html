@@ -317,7 +317,7 @@
                                     <!-- E-mail -->
                                     <div class="col-12 col-md-6">
                                         <div class="caja-select">
-                                            <select>
+                                            <select name="invitados" required>
                                                 <option selected disabled>¿Para cuantas personas?</option>
                                                 <option value="1">1</option>
                                                 <option value="2">2</option>
@@ -336,7 +336,7 @@
                                     <!-- Name -->
                                     <div class="col-12 col-md-6">
                                         <div class="caja-select">
-                                            <select>
+                                            <select name="sucursal" required>
                                                 <option selected disabled>¿Qué sucursal te interesa?</option>
                                                 <option value="Muzquiz">Muzquiz</option>
                                                 <option value="Seneca">Seneca</option>
@@ -351,7 +351,7 @@
                                     <!-- E-mail -->
                                     <div class="col-12 col-md-6">
                                         <div class="caja-select">
-                                            <select>
+                                            <select name="intereses" required>
                                                 <option selected disabled>En que estas interesado?</option>
                                                 <option value="Oficinas Privadas">Oficinas Privadas</option>
                                                 <option value="Cowork">Cowork</option>
@@ -359,22 +359,9 @@
                                             </select>
                                         </div>
                                     </div>
-                                    <!-- Name -->
-                                    <div class="col-12 col-md-6 md-form">
-                                        <select>
-                                            <option selected disabled>En que estas interesado?</option>
-                                            <option value="Oficinas Privadas">Oficinas Privadas</option>
-                                            <option value="Cowork">Cowork</option>
-                                            <option value="Estudio de Fotografía">Estudio de Fotografía</option>
-                                        </select>
-                                    </div>
-                                </div>
-
-                                <div class="form-row mb-4">
-                                    <!--Invitados-->
-                                    <div class="col-12 col-md-6">
+                                     <div class="col-12 col-md-6">
                                         <div class="caja-select">
-                                            <select>
+                                            <select name="esatdo" required>
                                                 <option selected disabled>De donde nos visitas?</option>
                                                 <option value="">Estado1</option>
                                                 <option value="">Estado2</option>
@@ -384,6 +371,12 @@
                                             </select>
                                         </div>
                                     </div>
+                                    
+                                </div>
+
+                                <div class="form-row mb-4">
+                                    <!--Invitados-->
+                                   
                                     <!-- Tipo de Evento 
                                     <div class="col-12 col-md-6">
                                         <div class="caja-select">
