@@ -530,3 +530,10 @@ select:focus {
     border-bottom-right-radius: 7px;
 	  display:block;
 }
+
+.colorBtnCard {
+    color: #212529;
+}
+a.colorBtnCard:hover {
+    color: #212529;
+}
