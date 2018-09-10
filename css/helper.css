@@ -507,6 +507,12 @@
     background-color: white;
 }
 
+#youtube:hover,
+#youtube:hover i {
+    color: black;
+    background-color: white;
+}
+
 
 .movePlus {
     -webkit-animation: mymove 600ms cubic-bezier(0.23, 1, 0.32, 1) forwards;

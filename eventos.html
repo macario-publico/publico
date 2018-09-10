@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="shortcut icon" href="img/favicon.png" />
     <title>Publico</title>
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -23,7 +24,6 @@
 </head>
 
 <body>
-
     <div id='float-social' class="d-none d-md-block">
         <a class="btn-floating btn-lg " id='plus'>
             <i class="fa fa-share-alt"></i>
@@ -41,7 +41,10 @@
             <i class="fa fa-instagram"></i>
         </a>
         <a class="btn-floating red btn-black btn-lg" id='spotify' href="http://linkedin.com/company/publicotrabajo/" target="_blank">  
-            <i class="fa fa-linkedin"></i>
+            <i class="fa fa-linkedin"></i> 
+        </a>
+        <a class="btn-floating red btn-black btn-lg" id='youtube' href="https://www.youtube.com/channel/UCjE2rqVvUFTovcz7DQelftw/videos" target="_blank">
+            <i class="fa fa-youtube-play"></i>
         </a>
     </div>
 
@@ -90,8 +93,8 @@
                         <div class="col-md-6 col-xl-3 sub-menu mb-xl-0">
                             <ul class="menuWhite">
                                 <li class="mb-md-5">
-                                    <a class="menu-item pl-0" href="molier.html">
-                                        Molier 50
+                                    <a class="menu-item pl-0" href="moliere.html">
+                                        Moliere 50
                                       </a>
                                     <p class=''>Polanco, CDMX.</p>
                                 </li>
@@ -102,8 +105,8 @@
                                     <p class=''>Condesa, CDMX.</p>
                                 </li>
                                 <li class="my-md-5">
-                                    <a class="menu-item pl-0" href="lomas.html">
-                                        Lomas 123
+                                    <a class="menu-item pl-0" href="prado_norte.html">
+                                        Prado Norte 225
                                       </a>
                                     <p class=''>Lomas de Chapultepec, CDMX.</p>
                                 </li>
@@ -167,7 +170,7 @@
 
                         <div class="col-md-6 col-xl-3 justify-content-center sub-menu mb-0">
                             <ul class="list-unstyled d-none d-md-block text-center">
-                                <li class="py-5 redesMenu">
+                                <li class="pb-5 redesMenu">
                                     <a class="menu-item pl-0" href="http://linkedin.com/company/publicotrabajo/" target="_blank">
                                         <i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i>
                                       </a>
@@ -192,6 +195,11 @@
                                       <i class="fa fa-spotify fa-2x" aria-hidden="true"></i>
                                     </a>
                                 </li>
+                                <li class="pb-5 redesMenu">
+                                    <a class="menu-item pl-0" href="https://www.youtube.com/channel/UCjE2rqVvUFTovcz7DQelftw/videos" target="_blank">
+                                        <i class="fa fa-youtube-play fa-2x" aria-hidden="true"></i>
+                                    </a>
+                                </li>
                             </ul>
 
                         </div>
@@ -212,14 +220,14 @@
                     <div class="row justify-content-between">
                         <!--Grid column-->
                         <!--                        <div class="col-12 mt-5 py-5"></div>-->
-                        <div class="col-md-6 white-text text-center text-md-left mt-3 mb-5 pl-4 wow fadeInLeft" data-wow-delay="0.3s">
+                        <div class="col-md-8 white-text text-center text-md-left mt-3 mb-5 pl-4 wow fadeInLeft" data-wow-delay="0.3s">
                             <h1 class="display-4 font-weight-bold mt-lg-5">Eventos</h1>
                             <!--<hr class="hr-light">-->
-                            <!--                            <h3 class="mb-4">Renta de espacios de coworking y<br> oficinas privadas en la CDMX.</h3>-->
+<!--                            <h3 class="mb-4"><span class="font-weight-bold">Emprende en la Condesa.</span> Una mezcla de modernidad, tradición y riqueza histórica en la <span class="font-weight-bold">Condesa.</span></h3>-->
                         </div>
                         <!--Grid column-->
                         <!--Grid column-->
-                        <div class="col-md-2 col-xl-1 mt-xl-5 d-none d-md-block pr-2 text-center wow fadeInRight" data-wow-delay="0.3s">
+                        <div class="col-md-2 col-xl-1 mt-xl-3 d-none d-md-block pr-2 text-center wow fadeInRight" data-wow-delay="0.3s">
                             <div class="d-flex flex-md-column justify-content-center float-md-right">
                                 <a href="http://linkedin.com/company/publicotrabajo/" target="_blank">
                                     <div class="redes" id="red1"></div>
@@ -235,6 +243,9 @@
                                 </a>
                                 <a href="http://open.spotify.com/user/2a50j4lqb7f6as970wagzkky1?si=M7ounsSERE665Y-tPKBj-w" target="_blank">
                                     <div class="redes" id="red5"></div>
+                                </a>
+                                 <a href="https://www.youtube.com/channel/UCjE2rqVvUFTovcz7DQelftw/videos" target="_blank">
+                                    <div class="redes" id="red6"></div>
                                 </a>
                             </div>
                         </div>
@@ -254,6 +265,7 @@
             <!-- Full Page Intro -->
         </div>
     </header>
+     
     <!-- Main navigation -->
 
     <div class="separador30VH"></div>
@@ -407,6 +419,7 @@
                                                 <option value="5-10">5-10</option>
                                                 <option value="11-20">11-20</option>
                                                 <option value="21-50">21-50</option>
+                                                <option value="21-50">50-150</option>
                                             </select>
                                         </div>
                                     </div>
@@ -415,8 +428,11 @@
                                         <div class="caja-select">
                                             <select name="evento" required>
                                                 <option selected disabled>Tipo de Evento:</option>
-                                                <option value="Junta de Negocios">Junta de Negocios</option>
-                                                <option value="Reunion de equipo">Reunion de equipo</option>
+                                                <option value="Evento privado">Evento privado</option>
+                                                <option value="Evento empresarial">Evento empresarial</option>
+                                                <option value="Evento cultural">Evento cultural</option>
+                                                <option value="Evento para tu marca">Evento para tu marca</option>
+                                                <option value="Evento para la comunidad">Evento para la comunidad</option>
                                               </select>
                                         </div>
                                     </div>
@@ -428,8 +444,9 @@
                                         <div class="caja-select">
                                             <select name="publico" required>
                                                 <option selected disabled>Es para todo el publico?</option>
-                                                <option value="Estan todos invitados">Estan todos invitados!</option>
-                                                <option value="Es solo para el equipo">Es solo para el equipo!</option>
+                                                <option value="Para la comunidad de PUBLICO">Para la comunidad de PÚBLICO!</option>
+                                                <option value="Abierto al publico en general">Abierto al publico en general</option>
+                                                <option value="Habra una lista de invitados">Habra una lista de invitados</option>
                                             </select>
                                         </div>
                                     </div>

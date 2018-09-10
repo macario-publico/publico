@@ -228,6 +228,11 @@ tl.to('#face', .35, {
         top: '-300',
         opacity: 1,
         ease: Expo.easeOut
+    }, "-=0.15")
+    .to('#youtube', .35, {
+        top: '-360',
+        opacity: 1,
+        ease: Expo.easeOut
     }, "-=0.15");
 
 tl.pause();

@@ -284,6 +284,15 @@ h6 {
     background-image: url(../img/iconos/redes/blanco/spotify_b.svg);
 }
 
+#red6 {
+    background-image: url(../img/iconos/redes/negro/youtube_n.svg);
+}
+
+#red6:hover {
+    background-image: url(../img/iconos/redes/blanco/youtube_b.svg);
+}
+
+
 
 header {
     background-color: #fff;
@@ -536,4 +545,11 @@ select:focus {
 }
 a.colorBtnCard:hover {
     color: #212529;
+}
+
+.bottom2 {
+    position: absolute;
+    z-index: 100;
+    bottom: 50px;
+    right: 30px;
 }
