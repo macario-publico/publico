@@ -35,7 +35,7 @@ header {
 
 
 .slide {
-    background-image: url(../img/primerslide_foto.jpg);
+    background-image: url(../img/fotos/home/primerslide_foto.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -552,4 +552,68 @@ a.colorBtnCard:hover {
     z-index: 100;
     bottom: 50px;
     right: 30px;
+}
+
+#slideHome {
+    background-image: url(../img/fotos/home/publico_coworking_primerslide.jpg);
+}
+
+#slide-cowork {
+    background-image: url(../img/fotos/publico_coworking_COLABORADORES_primerslide.jpg);
+}
+
+#slide-comedores {
+    background-image: url(../img/fotos/comedores/primerslide_comedores.jpg);
+}
+
+#slide-about {
+    background-image: url(../img/fotos/about/publico_coworking_ABOUT-US-primerslide.jpg);
+}
+
+#slide-estudio {
+    background-image: url(../img/fotos/estudio/publico_coworking_ESTUDIO-DE-FOTOGRAFIA_primerslide.jpg);
+}
+
+#slide-press {
+    background-image: url(../img/fotos/press/publico_coworking_press.jpg);
+}
+
+#slide-membresias {
+    background-image: url(../img/fotos/membresias/publico_coworking_MEMBRESIA_primerslide.jpg);
+}
+
+#slide-eventos {
+    background-image: url(../img/fotos/eventos/publico_coworking_EVENTOS_primerslide.jpg);
+}
+
+#slide-colaboradores {
+    background-image: url(../img/fotos/colaboradores/publico_coworking_COLABORADORES_primerslide.jpg);
+}
+
+#slide-contacto {
+    background-image: url(../img/fotos/home/publico_coworking_primerslide.jpg);
+}
+
+#slide-muzquiz {
+    background-image: url(../img/fotos/muzquiz/publico_coworking_MUZQUIZ_primerslide.jpg);
+}
+
+#slide-moliere {
+    background-image: url(../img/fotos/moliere/publico_coworking_MUZQUIZ_primerslide.jpg);
+}
+
+#slide-puebla {
+    background-image: url(../img/fotos/puebla/publico_coworking_PUEBLA_primerslide.jpg);
+}
+
+#slide-seneca {
+    background-image: url(../img/fotos/seneca/publico_coworking_SENECA_primerslide.jpg);
+}
+
+#slide-hamburgo {
+    background-image: url(../img/fotos/hamburgo/publico_coworking_HAMBURGO_primerslide.jpg);
+}
+
+#slide-prado {
+    background-image: url(../img/fotos/lomas/publico_coworking_LOMAS_primerslide.jpg);
 }

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Nexo</title>
+    <!-- Font Awesome -->
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+    <!-- Bootstrap core CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" />
+    <!-- Material Design Bootstrap -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.5.4/css/mdb.min.css" rel="stylesheet" />
+    <!--  Estilos Generales  -->
+    <link href="css/mobile.css" rel="stylesheet" />
+    <link href="css/responsive.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/agradecimiento.css">
+</head>
+
+<body>
+
+    <!-- Full Page Intro -->
+    <div class="container mt-5">
+        <div class="row altura align-items-center justify-content-center">
+            <div class="col-10">
+                <div class="card">
+                    <!-- Grid row -->
+                    <div class="row altura2 align-items-center">
+                        <!-- Grid column -->
+                        <div class="col-9 col-md-7 relative">
+                            <div class="card w-75 mx-auto black darken-3 alturaCard">
+                                <div class="card-body text-center pt-5">
+                                    <img src="img/logoNEXOblanco.svg" alt="">
+                                    <!-- Post title -->
+                                    <h2 class="font-weight-bold mb-2 text-center white-text mt-5"><strong>Gracias</strong></h2>
+                                    <!-- Excerpt -->
+                                    <p class="text-center white-text">Hemos recibido tu correo</p>
+                                    <!-- Read more button -->
+                                    <a class="btn btn-outline-white btn-block btn-md mt-5 py-3" href="index.php">Volver al Home</a>
+                                     <p class="text-center white-text mt-4">En breve seras redireccionado al Home</p>
+                                    <p class="white-text mt-5 d-block d-md-none"> <i class="fa fa-paper-plane fa-3x" aria-hidden="true"></i></p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Grid column -->
+
+                        <!-- Grid column -->
+                        <div class="col-3 col-md-5 text-center d-none d-md-block">
+                            <!-- Featured image -->
+                            <p class=""><i class="fa fa-paper-plane fa-5x" aria-hidden="true"></i></p>
+                        </div>
+                        <!-- Grid column -->
+                    </div>
+                    <!-- Grid row -->
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <footer class="black fixed-bottom">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-10 py-4">
+                    <h6 class="text-center white-text align-self-center lato300">&copy; public.o | cowork. Todos los derechos reservados. <a href="aviso.php"> Aviso de Privacidad</a> </h6>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- JQuery -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <!-- Bootstrap tooltips -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.13.0/umd/popper.min.js"></script>
+    <!-- Bootstrap core JavaScript -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <!-- MDB core JavaScript -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.5.4/js/mdb.min.js"></script>
+    <script>
+        setTimeout(function() {
+            window.location.replace('index.php');
+        }, 5000);
+    </script>
+
+</body>
+
+</html>
