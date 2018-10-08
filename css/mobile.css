@@ -548,6 +548,7 @@ a.colorBtnCard:hover {
 }
 
 .bottom2 {
+    width: 120px;
     position: absolute;
     z-index: 100;
     bottom: 50px;
@@ -559,7 +560,7 @@ a.colorBtnCard:hover {
 }
 
 #slide-cowork {
-    background-image: url(../img/fotos/publico_coworking_COLABORADORES_primerslide.jpg);
+    background-image: url(../img/fotos/espacios_trabajo/publico_coworking_ESPACIOS-DE-TRABAJO_primerslide.jpg);
 }
 
 #slide-comedores {
@@ -617,3 +618,5 @@ a.colorBtnCard:hover {
 #slide-prado {
     background-image: url(../img/fotos/lomas/publico_coworking_LOMAS_primerslide.jpg);
 }
+
+

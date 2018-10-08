@@ -101,9 +101,9 @@
         <div class="container">
             <div class="row justify-content-center">
                <div class="col-12 offset-md-1">
-                    <p class="titulos mt-5 mb-3">
+                    <h2 class="mt-5 mb-3">
                         <span class="font-weight-bold">Cuéntanos sobre tu evento ¿Qué tienes en mente? ¡Déjalo en nuestras manos!</span>
-                    </p>
+                    </h2>
                 </div>
                 <div class="col-12">
                     <!-- Material form contact -->

@@ -57,17 +57,17 @@
             <div class="col-12 col-md-10">
                 <div class="row">
                     <div class="col-12 col-md-10 offset-md-1">
-                        <h2 class="titulos sans-bold mt-5 mb-4">Reforma, Roma y del Bosque de Chapultepec.</h2>
+                        <h2 class="titulos sans-bold mt-5 mb-4">Ubicado en Reforma, Roma y del Bosque de Chapultepec.</h2>
                         <p class="subtitulo mb-2">Un conjunto de espacios para crear en un barrio céntrico y cultural; cercano a Reforma, Avenida Chapultepec y el Bosque de Chapultepec.</p>
-                        <p class="subtitulo mb-0">Amplias y funcionales salas de juntas, oficinas privadas y terrazas únicas con una vista inigualable al Castillo de Chapultepec. #PUEBLA403 mezcla diseño arquitectónico, diseño industrial y arte como las oficinas privadas con mobiliario de PÚBLICO Industrial y nuestra terraza roja con la obra de Fabien Capello.</p>
+                        <p class="subtitulo mb-0">Amplias y funcionales salas de juntas, oficinas privadas y terrazas únicas con una vista inigualable al Castillo de Chapultepec. <span class="font-weight-bold">#PUEBLA403</span> mezcla diseño arquitectónico, diseño industrial y arte como las oficinas privadas con mobiliario de PÚBLICO Industrial y nuestra terraza roja con la obra de Fabien Capello.</p>
                     </div>
                 </div>
             </div>
         </div>
         
         <div class="row justify-content-center">
-            <div class="col-12 col-md-10 mt-4 m-botton">
-                <iframe class="alturasMapa" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.8233536257385!2d-99.17732028560424!3d19.42003688689144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff4f66c68361%3A0x89bf8e79189b4cd2!2zUMO6YmxpY28!5e0!3m2!1ses-419!2smx!4v1533755939860" width="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+            <div class="col-12 col-md-10 mt-4 mb-5">
+                <iframe class="alturasMapa" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.8233536257385!2d-99.17732028560424!3d19.42003688689144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff4f66c68361%3A0x89bf8e79189b4cd2!2zUMO6YmxpY28!5e0!3m2!1smb-5es-419!2smx!4v1533755939860" width="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
         </div>
     </div>
@@ -82,15 +82,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-lg-6">
-                    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/Bl8yi-dAunB/?utm_source=ig_embed" data-instgrm-version="9" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
-                        <div style="padding:8px;">
-                            <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:28.125% 0; text-align:center; width:100%;">
-                                <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div>
-                            </div>
-                            <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/Bl8yi-dAunB/?utm_source=ig_embed" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">Una publicación compartida de Público (@publi.co)</a> el <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-08-01T20:35:55+00:00">1 Ago, 2018 a las 1:35 PDT</time></p>
-                        </div>
-                    </blockquote>
-                    <script async defer src="//www.instagram.com/embed.js"></script>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/x36_MyzfzKg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
@@ -128,7 +120,7 @@
                                 <div class="card-body p-0">
                                     <h3 class="font-weight-bold mb-3"><strong>PÚBLICO comedor</strong></h3>
                                     <!-- Excerpt -->
-                                    <p class="card-text text-justify">El concepto que ya conoces en Polanco: cocina mexicana sencilla, accesible y rica pero con la influencia de La Condesa. <span class="font-weight-bold">PROXIMAMENTE //</span></p>
+                                    <p class="card-text text-justify">El concepto que ya conoces en Polanco: cocina mexicana sencilla, accesible y rica pero con la influencia de La Condesa. El menú de la casa está creado por el chef Pablo Salas tomando en cuenta el estilo de vida de los que habitantes del barrio. <span class="font-weight-bold">PROXIMAMENTE //</span></p>
                                 </div>
                             </div>
 

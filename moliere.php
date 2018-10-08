@@ -58,7 +58,7 @@
             <div class="col-12 col-md-10">
                 <div class="row">
                     <div class="col-12 col-md-10 offset-md-1">
-                        <h2 class="titulos sans-bold mt-4 mb-4">Público se enuentra en 2 barrios de Polanco.</h2>
+                        <h2 class="titulos sans-bold mt-4 mb-4">Público se encuentra en 2 barrios de Polanco.</h2>
                         <p class="subtitulo mb-2">Creamos un conjunto de oficinas privadas rodeadas de cultura y moda con una gran conectividad a diferentes puntos de la CDMX. <span class="font-weight-bold">#MOLIERE50</span> se trata de una propuesta que integra oficinas privadas y un concepto gastronómico que ofrece comida rica y accesible para todos los profesionistas de la zona: <a href="comedores.php" class="black-text"><span class="font-weight-bold">PÚBLICO Comedor.</span></a> </p>
                     </div>
                 </div>
@@ -80,16 +80,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-lg-6">
-                    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/Bl8yi-dAunB/?utm_source=ig_embed" data-instgrm-version="9" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
-                        <div style="padding:8px;">
-                            <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:28.125% 0; text-align:center; width:100%;">
-                                <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div>
-                            </div>
-                            <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/Bl8yi-dAunB/?utm_source=ig_embed" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">Una publicación compartida de Público (@publi.co)</a> el <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-08-01T20:35:55+00:00">1 Ago, 2018 a las 1:35 PDT</time></p>
-                        </div>
-                    </blockquote>
-                    <script async defer src="//www.instagram.com/embed.js"></script>
-                </div>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/x36_MyzfzKg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
         </div>
     </section>
@@ -124,7 +115,7 @@
                                 <div class="card-body p-0">
                                     <h3 class="font-weight-bold mb-3"><strong>Público Comedor</strong></h3>
                                     <!-- Excerpt -->
-                                    <p class="card-text text-justify">PÚBLICO / comedor nace con la finalidad de ofrecer cocina mexicana sencilla, accesible y rica. Unimos la comida de tradición casera con un entorno moderno y cómodo a través de altos estándares de trabajo y cuidado al detalle. Dirección: Moliere 50, Polanco, CDMX <span class="font-weight-bold">Teléfono:</span> 40001288</p>
+                                    <p class="card-text text-justify">PÚBLICO / comedor nace con la finalidad de ofrecer cocina mexicana sencilla, accesible y rica. Unimos la comida de tradición casera con un entorno moderno y cómodo a través de altos estándares de trabajo y cuidado al detalle. Dirección: Moliere 50, Polanco, CDMX. <span class="font-weight-bold">Teléfono:</span> 40001288</p>
                                 </div>
 
                             </div>
@@ -142,7 +133,7 @@
                         <div class="col-12 col-lg-5 order-lg-first mb-5">
                             <!-- Featured image -->
                             <div class=" overlay rounded z-depth-1 mb-lg-0 mb-4">
-                                <img class="img-fluid" src="img/comedor_Puebla.jpg" alt="Sample image">
+                                <img class="img-fluid" src="img/fotos/moliere/publico_coworking_muzquiz_comedor.jpg" alt="Sample image">
                                 <a>
                                     <div class="mask rgba-white-slight"></div>
                                 </a>

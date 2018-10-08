@@ -2,7 +2,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <link rel="shortcut icon" href="img/favicon.png" />
-<title>Publico</title>
+<title>PÚBLICO</title>
+<meta name="description" content="Renta de oficinas privadas, espacios de coworking y salas de juntas en la CDMX." />
+<meta name="keywords" content="Renta de oficinas, coworking, salas de juntas, espacios en renta" />
+<meta name="author" content="PÚBLICO Coworking" />
 <!-- Font Awesome -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <!-- Bootstrap core CSS -->

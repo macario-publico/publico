@@ -14,7 +14,7 @@
    
     <!-- Main navigation -->
 
-    <div class="separador30VH"></div>
+    <div class="separador15VH"></div>
 
     <div class="container-fluid">
         <div class="row mx-0 my-4">
@@ -34,7 +34,7 @@
 
     <section id="reservaciones" class="my-5">
         <div class="container">
-            <h2 class="titulos sans-bold mb-4"><span class="font-weight-bold">El espacio perfecto para tu evento:</span></h2>
+            <h2 class="titulos sans-bold pl-3 mb-4"><span class="font-weight-bold">El espacio perfecto para tus ideas:</span></h2>
             <div class="row justify-content-center">
 
                 <div class="col-12">
@@ -95,8 +95,8 @@
                                                 <option value="Seneca">Seneca</option>
                                                 <option value="Molier">Molier</option>
                                                 <option value="Puebla">Puebla</option>
-                                                <option value="Prado Norte 225 - proximamente otoño 19">Prado Norte 225 - próximamente otoño’19</option>
-                                                <option value="Hamburgo - proximamente otoño 19">Hamburgo - próximamente otoño’19</option>
+                                                <option value="Prado Norte 225 - proximamente otoño 19">Lomas - próximamente verano’19</option>
+                                                <option value="Hamburgo - proximamente otoño 19">Juárez - próximamente verano’19</option>
                                             </select>
                                         </div>
                                     </div>
@@ -111,6 +111,7 @@
                                                 <option value="Oficinas Privadas">Oficinas Privadas</option>
                                                 <option value="Cowork">Cowork</option>
                                                 <option value="Estudio de Fotografía">Estudio de Fotografía</option>
+                                                <option value="Evento">Evento</option>
                                             </select>
                                         </div>
                                     </div>

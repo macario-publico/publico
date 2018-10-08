@@ -6,6 +6,9 @@ header {
 .separador30VH {
     height: 30vh;
 }
+.separador15VH {
+    height: 15vh;
+}
 
 .h1-responsive {
     font-size: 3rem;

@@ -12,23 +12,23 @@
 
                 <ul class="navbar-nav align-items-center ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="http://linkedin.com/company/publicotrabajo" target="_blank"><img src="img/iconos/redes/negro/linkedin_n.svg" width="32" alt=""></a>
+                        <a class="nav-link" href="http://linkedin.com/company/publicotrabajo" target="_blank"><img src="img/iconos/redes/negro/linkedin_n.svg" width="30" class="img-fluid" alt=""></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="http://www.instagram.com/publi.co" target="_blank"><img src="img/iconos/redes/negro/ig_n.svg" width="32" alt=""></a>
+                        <a class="nav-link" href="http://www.instagram.com/publi.co" target="_blank"><img src="img/iconos/redes/negro/ig_n.svg" width="30" class="img-fluid" alt=""></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="http://facebook.com/PUBLICOtrabajo" target="_blank"><img src="img/iconos/redes/negro/facebook_n.svg" width="32" alt=""></a>
+                        <a class="nav-link" href="http://facebook.com/PUBLICOtrabajo" target="_blank"><img src="img/iconos/redes/negro/facebook_n.svg" width="30" class="img-fluid" alt=""></a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="http://twitter.com/publicotrabajo" target="_blank"><img src="img/iconos/redes/negro/twitter_n.svg" width="32" alt=""></a>
+                        <a class="nav-link" href="http://twitter.com/publicotrabajo" target="_blank"><img src="img/iconos/redes/negro/twitter_n.svg" width="30" class="img-fluid" alt=""></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="http://open.spotify.com/user/2a50j4lqb7f6as970wagzkky1?si=M7ounsSERE665Y-tPKBj-w" target="_blank"><img src="img/iconos/redes/negro/spotify_n.svg" width="32" alt=""></a>
+                        <a class="nav-link" href="http://open.spotify.com/user/2a50j4lqb7f6as970wagzkky1?si=M7ounsSERE665Y-tPKBj-w" target="_blank"><img src="img/iconos/redes/negro/spotify_n.svg" width="30" class="img-fluid" alt=""></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://www.youtube.com/channel/UCjE2rqVvUFTovcz7DQelftw/videos" target="_blank"><img src="img/iconos/redes/negro/youtube_n.svg" width="32" alt=""></a>
+                        <a class="nav-link" href="https://www.youtube.com/channel/UCjE2rqVvUFTovcz7DQelftw/videos" target="_blank"><img src="img/iconos/redes/negro/youtube_n.svg" width="30" class="img-fluid" alt=""></a>
                     </li>
                 </ul>
             </div>

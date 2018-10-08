@@ -29,7 +29,7 @@
                                     <!-- Card content -->
                                     <div class="card-body">
                                         <!-- Title -->
-                                        <h4 class="card-title">Escritorios coworking</h4>
+                                        <h4 class="card-title">Escritorios de coworking:</h4>
                                         <!-- Text -->
                                         <p class="card-text">Espacios individuales en áreas de trabajo compartidas, ideales para profesionistas que buscan un alto desempeño de sus actividades y mejorar su presencia de marca.</p>
                                         <p class="card-text">Desde <span class="font-weight-bold">$4,000</span> al mes</p>

@@ -66,21 +66,23 @@
                     </div>
                 </div>
 
-                 <!--   <div>
+                    <div>
                     <div class="row justify-content-center">
                     
                         <div class="col-12 col-md-8 my-3">
-                            <img src="img/iconos/servicios/acceso.svg" class="servIcon" alt="">
-                            <h5 class="mt-2">Control de acceso</h5>
+                            <img src="img/iconos/servicios/espacios_eventos.svg" class="servIcon" alt="">
+                            <h5 class="mt-2">Espacio para eventos</h5>
                         </div>
 
+<!--
                         <div class="col-12 col-md-8 my-3">
                             <img src="img/iconos/servicios/restaurant_in_house.svg" class="servIcon" alt="">
                             <h5 class="mt-3">Restaurant in house</h5>
                         </div>
+-->
 
                     </div>
-                </div> -->
+                </div> 
 
                 <div>
                     <div class="row justify-content-center">
@@ -103,7 +105,7 @@
                         </div>
                         <div class="col-12 col-md-8 my-3">
                             <img src="img/iconos/servicios/seguridad.svg" class="servIcon" alt="">
-                            <h5 class="mt-3">Acceso y seguridad 24/7</h5>
+                            <h5 class="mt-3">Seguridad 24/7</h5>
                         </div>
                     </div>
                 </div>

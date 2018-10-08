@@ -53,7 +53,7 @@
                                 <!-- Title -->
                                 <h4 class="card-title">Puebla 403</h4>
                                 <!-- Text -->
-                                <p class="card-text">Cerca de La Roma, Ave. Chapultepec, Reforma y el Bosque de Chapultepec.</p>
+                                <p class="card-text">Renta de oficinas privadas cerca de La Roma, Ave. Chapultepec, Reforma y el Bosque de Chapultepec.</p>
                             </div>
                         </a>
                     </div>
@@ -160,11 +160,11 @@
         <!-- Grid column -->
         <div class="col-12 col-md-6">
             <!-- Post title -->
-            <h3 class="sans-bold mb-3">Público Juárez</h3>
+            <h3 class="sans-bold mb-3">PÚBLICO Juárez</h3>
             <!-- Excerpt -->
             <p class="card-text">Verano 2019</p>
             <!-- Read more button -->
-            <a class="btn white-text mdb-color darken-4 btn-md" href="hamburgo.php">Conoce más</a>
+            <a class="btn white-text mdb-color darken-4 btn-md" href="juarez.php">Conoce más</a>
         </div>
         <!-- Grid column -->
     </div>
@@ -177,7 +177,7 @@
         <div class="col-12 col-md-6">
             <!-- Featured image -->
             <div class=" overlay rounded z-depth-1 mb-lg-0 mb-4">
-                <img class="img-fluid" src="img/fotos/home/publico_coworking_card_lomas.jpg" alt="Lomas">
+                <img class="img-fluid" src="img/fotos/lomas/publico_coworking_card_lomas.jpg" alt="Lomas">
                 <a>
                     <div class="mask rgba-white-slight"></div>
                 </a>
@@ -192,7 +192,7 @@
             <!-- Excerpt -->
             <p class="card-text">Verano 2019</p>
             <!-- Read more button -->
-            <a class="btn white-text mdb-color darken-4 btn-md" href="prado_norte.php">Conoce más</a>
+            <a class="btn white-text mdb-color darken-4 btn-md" href="lomas.php">Conoce más</a>
         </div>
         <!-- Grid column -->
     </div>

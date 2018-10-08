@@ -5,7 +5,10 @@
     <?php require('require/head.php'); ?>
 
     <style>
-        body{overflow: hidden;}
+        body {
+            overflow: hidden;
+        }
+
     </style>
 </head>
 
@@ -29,8 +32,8 @@
     <?php require('require/float-social.php'); ?>
 
     <header>
-        <img src="img/badge.png" class="bottom2" alt="">
-        
+        <img src="img/badge2.png" class="bottom2" alt="">
+
         <?php require('require/nav.php'); ?>
 
         <!-- Full Page Intro -->
@@ -49,9 +52,9 @@
                             <h3 class="mb-4">Renta de oficinas privadas, espacios de coworking y salas de juntas en la CDMX.</h3>
                         </div>
                         <!--Grid column-->
-                        
+
                         <?php require('require/social-header.php'); ?>
-                        
+
                     </div>
                     <!--Grid row-->
                     <div class="row align-items-end justify-content-center">
@@ -89,7 +92,7 @@
 
                 <div class="col-12">
                     <div class="row mt-negativo">
-                       
+
                         <div class="col-12 col-md-6 my-4">
                             <div class="row justify-content-center">
                                 <div class="col-12 col-md-10">
@@ -139,7 +142,7 @@
                                                 <!-- Title -->
                                                 <h4 class="card-title">Puebla 403</h4>
                                                 <!-- Text -->
-                                                <p class="card-text">Cerca de La Roma, Ave. Chapultepec, Reforma y el Bosque de Chapultepec.</p>
+                                                <p class="card-text">Renta de oficinas privadas cerca de La Roma, Ave. Chapultepec, Reforma y el Bosque de Chapultepec.</p>
                                             </div>
                                         </a>
                                     </div>
@@ -162,129 +165,129 @@
                                         <!-- Card image -->
                                         <a href="moliere.php">
                                             <div class="overlay">
-                                                <img class="card-img-top" src="img/fotos/home/publico_coworking_card_moliere.jpg" >
-                                                    <div class="mask rgba-white-slight"></div>
-                                                </a>
-                                            </div>
+                                                <img class="card-img-top" src="img/fotos/home/publico_coworking_card_moliere.jpg">
+                                                <div class="mask rgba-white-slight"></div>
                                         </a>
-
-                                        <!-- Card content -->
-
-                                        <a href="moliere.php" class="colorBtnCard">
-                                            <div class="card-body">
-                                                <!-- Title -->
-                                                <h4 class="card-title">Moliere 50</h4>
-                                                <!-- Text -->
-                                                <p class="card-text">Oficinas privadas rodeadas de cultura, moda y nuestra propuesta gastronómica PÚBLICO Comedor.</p>
-                                            </div>
-                                        </a>
-
                                     </div>
-                                    <!-- Card -->
+                                    </a>
+
+                                    <!-- Card content -->
+
+                                    <a href="moliere.php" class="colorBtnCard">
+                                        <div class="card-body">
+                                            <!-- Title -->
+                                            <h4 class="card-title">Moliere 50</h4>
+                                            <!-- Text -->
+                                            <p class="card-text">Oficinas privadas rodeadas de cultura, moda y nuestra propuesta gastronómica PÚBLICO Comedor.</p>
+                                        </div>
+                                    </a>
+
                                 </div>
+                                <!-- Card -->
                             </div>
                         </div>
+                    </div>
 
-                        <div class="col-12 col-md-6 my-4">
-                            <div class="row justify-content-center">
-                                <div class="col-12 col-md-10">
-                                    <!-- Card -->
-                                    <div class="card wow fadeInUp">
-                                        <!-- Card image -->
-                                        <a href="seneca.php">
-                                            <div class="overlay">
-                                                <img class="card-img-top" src="img/fotos/home/publico_coworking_card_seneca.jpg" alt="Card image cap">
-                                                <a href="#">
-                                                    <div class="mask rgba-white-slight"></div>
-                                                </a>
-                                            </div>
-                                        </a>
+                    <div class="col-12 col-md-6 my-4">
+                        <div class="row justify-content-center">
+                            <div class="col-12 col-md-10">
+                                <!-- Card -->
+                                <div class="card wow fadeInUp">
+                                    <!-- Card image -->
+                                    <a href="seneca.php">
+                                        <div class="overlay">
+                                            <img class="card-img-top" src="img/fotos/home/publico_coworking_card_seneca.jpg" alt="Card image cap">
+                                            <a href="#">
+                                                <div class="mask rgba-white-slight"></div>
+                                            </a>
+                                        </div>
+                                    </a>
 
-                                        <!-- Card content -->
-                                        <a href="seneca.php" class="colorBtnCard">
-                                            <div class="card-body">
-                                                <!-- Title -->
-                                                <h4 class="card-title">Séneca 61</h4>
-                                                <!-- Text -->
-                                                <p class="card-text">Renta de oficinas equipadas en Polanco, a unos pasos de la Avenida Presidente Masaryk.</p>
-                                            </div>
-                                        </a>
+                                    <!-- Card content -->
+                                    <a href="seneca.php" class="colorBtnCard">
+                                        <div class="card-body">
+                                            <!-- Title -->
+                                            <h4 class="card-title">Séneca 61</h4>
+                                            <!-- Text -->
+                                            <p class="card-text">Renta de oficinas equipadas en Polanco, a unos pasos de la Avenida Presidente Masaryk.</p>
+                                        </div>
+                                    </a>
 
-                                    </div>
-                                    <!-- Card -->
                                 </div>
+                                <!-- Card -->
                             </div>
                         </div>
                     </div>
                 </div>
-
-                <div class="col-12 col-md-11 mt-5">
-                    <div class="row">
-                        <div class="col-12">
-                            <h4 class="subtitulo">Próxima apertura:</h4>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-6 col-md-5 my-4">
-
-                    <!-- Grid row -->
-                    <div class="row wow fadeInUp">
-                        <!-- Grid column -->
-                        <div class="col-12 col-md-6">
-                            <!-- Featured image -->
-                            <div class="overlay rounded z-depth-1 mb-lg-0 mb-4">
-                                <img class="img-fluid" src="img/fotos/home/publico_coworking_card_hamburgo.jpg" alt="Juarez">
-                                <a>
-                                    <div class="mask rgba-white-slight"></div>
-                                </a>
-                            </div>
-                        </div>
-                        <!-- Grid column -->
-
-                        <!-- Grid column -->
-                        <div class="col-12 col-md-6">
-                            <!-- Post title -->
-                            <h3 class="sans-bold mb-3"> Público Juárez</h3>
-                            <!-- Excerpt -->
-                            <p class="card-text">Verano 2019</p>
-                            <!-- Read more button -->
-                            <a class="btn white-text mdb-color darken-4 btn-md" href="hamburgo.php">Conoce más</a>
-                        </div>
-                        <!-- Grid column -->
-                    </div>
-
-                </div>
-
-                <div class="col-6 col-md-5 my-4">
-                    <!-- Grid row -->
-                    <div class="row wow fadeInUp">
-                        <!-- Grid column -->
-                        <div class="col-12 col-md-6">
-                            <!-- Featured image -->
-                            <div class=" overlay rounded z-depth-1 mb-lg-0 mb-4">
-                                <img class="img-fluid" src="img/fotos/home/publico_coworking_card_lomas.jpg" alt="Lomas">
-                                <a>
-                                    <div class="mask rgba-white-slight"></div>
-                                </a>
-                            </div>
-                        </div>
-                        <!-- Grid column -->
-
-                        <!-- Grid column -->
-                        <div class="col-12 col-md-6">
-                            <!-- Post title -->
-                            <h3 class="sans-bold mb-3">PÚBLICO Lomas</h3>
-                            <!-- Excerpt -->
-                            <p class="card-text">Verano 2019</p>
-                            <!-- Read more button -->
-                            <a class="btn white-text mdb-color darken-4 btn-md" href="prado_norte.php">Conoce más</a>
-                        </div>
-                        <!-- Grid column -->
-                    </div>
-                </div>
-                
             </div>
+
+            <div class="col-12 col-md-11 mt-5">
+                <div class="row">
+                    <div class="col-12">
+                        <h4 class="subtitulo">Próxima apertura:</h4>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-6 col-md-5 my-4">
+
+                <!-- Grid row -->
+                <div class="row wow fadeInUp">
+                    <!-- Grid column -->
+                    <div class="col-12 col-md-6">
+                        <!-- Featured image -->
+                        <div class="overlay rounded z-depth-1 mb-lg-0 mb-4">
+                            <img class="img-fluid" src="img/fotos/home/publico_coworking_card_hamburgo.jpg" alt="Juarez">
+                            <a>
+                                <div class="mask rgba-white-slight"></div>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- Grid column -->
+
+                    <!-- Grid column -->
+                    <div class="col-12 col-md-6">
+                        <!-- Post title -->
+                        <h3 class="sans-bold mb-3">PÚBLICO Juárez</h3>
+                        <!-- Excerpt -->
+                        <p class="card-text">Verano 2019</p>
+                        <!-- Read more button -->
+                        <a class="btn white-text mdb-color darken-4 btn-md" href="juarez.php">Conoce más</a>
+                    </div>
+                    <!-- Grid column -->
+                </div>
+
+            </div>
+
+            <div class="col-6 col-md-5 my-4">
+                <!-- Grid row -->
+                <div class="row wow fadeInUp">
+                    <!-- Grid column -->
+                    <div class="col-12 col-md-6">
+                        <!-- Featured image -->
+                        <div class=" overlay rounded z-depth-1 mb-lg-0 mb-4">
+                            <img class="img-fluid" src="img/fotos/lomas/publico_coworking_card_lomas.jpg" alt="Lomas">
+                            <a>
+                                <div class="mask rgba-white-slight"></div>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- Grid column -->
+
+                    <!-- Grid column -->
+                    <div class="col-12 col-md-6">
+                        <!-- Post title -->
+                        <h3 class="sans-bold mb-3">PÚBLICO Lomas</h3>
+                        <!-- Excerpt -->
+                        <p class="card-text">Verano 2019</p>
+                        <!-- Read more button -->
+                        <a class="btn white-text mdb-color darken-4 btn-md" href="lomas.php">Conoce más</a>
+                    </div>
+                    <!-- Grid column -->
+                </div>
+            </div>
+
+        </div>
         </div>
     </section>
 
@@ -383,78 +386,7 @@
             <div class="row justify-content-center mb-5">
                 <!--                <div class="col-10 pt-5 text-center owl-colaboradores owl-carousel owl-theme">-->
                 <div class="col-10 owl-colaboradores owl-carousel owl-theme owl-theme pt-5">
-                    <div>
-                        <!-- Grid row colaborador-->
-                        <div class="row justify-content-center">
 
-                            <!-- Grid column -->
-                            <div class="col-lg-5">
-                                <!-- Featured image -->
-                                <div class="overlay rounded z-depth-1 mb-lg-0 mb-4">
-                                    <img class="img-fluid" src="img/fotos/blog/PUBLICO_COWORKING_BLOG_ONDA.jpg" alt="Sample image">
-                                    <a>
-                                        <div class="mask rgba-white-slight"></div>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- Grid column -->
-
-                            <!-- Grid column -->
-                            <div class="col-lg-5">
-                                <div class="card noShadow">
-                                    <!-- Post title -->
-                                    <div class="card-body p-0">
-                                        <h3 class="font-weight-bold mb-3"><strong>“PÚBLICO joins Onda”</strong></h3>
-                                        <!-- Excerpt -->
-                                        <p class="card-text text-justify">An exclusive platform for worldwide experiences Onda is a membership platform that connects people with selected clubs all around the world; coworking spaces, health clubs, retreats and private properties. Members of this platform can visit these curated group of spaces while they travel, creating deeper social connections. We are excited to partnered up withONDA and become their first and only coworking space in Mexico. Visit ONDA’s website here.</p>
-
-                                        <!-- Read more button -->
-                                        <a href="https://www.publi.co/blog/publico-joins-onda" class="btn btn-outline-black btn-block waves-effect"><strong>Leer más</strong></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Grid column -->
-
-                        </div>
-                        <!-- Grid row -->
-
-                    </div>
-                    <div>
-                        <!-- Grid row colaborador-->
-                        <div class="row justify-content-center">
-
-                            <!-- Grid column -->
-                            <div class="col-lg-5">
-                                <!-- Featured image -->
-                                <div class=" overlay rounded z-depth-1 mb-lg-0 mb-4">
-                                    <img class="img-fluid" src="img/fotos/home/blog/industrial.png" alt="Sample image">
-                                    <a>
-                                        <div class="mask rgba-white-slight"></div>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- Grid column -->
-
-                            <!-- Grid column -->
-                            <div class="col-lg-5">
-                                <div class="card noShadow">
-                                    <!-- Post title -->
-                                    <div class="card-body p-0">
-                                        <h3 class="font-weight-bold mb-3"><strong>“INDUSTRIAL by Público, una oda al diseño y al trabajo colaborativo”</strong></h3>
-                                        <!-- Excerpt -->
-                                        <p class="card-text text-justify">El diseño industrial ha evolucionado para ofrecer distintos productos enfocados en estética, funcionalidad y simbolismo, elementos intrínsecos en el ADN de INDUSTRIAL, una de las divisiones de negocio de PÚBLICO, empresa mexicana que desde 2013 desarrolla proyectos inmobiliarios con base en el estilo de vida de las personas. Liderados por Allan Legaspi, esta empresa tiene como pilares de su filosofía, la creación, colaboración y producción de proyectos creativos que generen experiencias integrales.</p>
-
-                                        <!-- Read more button -->
-                                        <a href="https://www.publi.co/blog/industrial-by-publico-una-oda-al-diseno-y-al-trabajo-colaborativo/" class="btn btn-outline-black btn-block waves-effect"><strong>Leer más</strong></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Grid column -->
-
-                        </div>
-                        <!-- Grid row -->
-
-                    </div>
                     <div>
                         <!-- Grid row colaborador-->
                         <div class="row justify-content-center">
@@ -476,9 +408,9 @@
                                 <div class="card noShadow">
                                     <!-- Post title -->
                                     <div class="card-body p-0">
-                                        <h3 class="font-weight-bold mb-3"><strong>“La historia detrás de la creación de Público”</strong></h3>
+                                        <h5 class="font-weight-bold mb-3"><strong>“La historia detrás de la creación de PÚBLICO”</strong></h5>
                                         <!-- Excerpt -->
-                                        <p class="card-text text-justify">Público ofrece espacios que se adaptan al estilo de vida y las necesidades de las personas que los habitan. Es por esto, que nuestros espacios se adaptan el estilo de vida y las necesidades de los emprendedores que los habitan. Formar parte de Público es compartir una visión del mundo para generar cambios positivos en comunidad. Conoce a nuestros fundadores: Andrés, Emilio y Alfonso quienes relatan la esencia y la historia de cómo Público pasó de ser una idea a una realidad para todos los emprendedores de la #CDMX.</p>
+                                        <p class="card-text text-justify">PÚBLICO ofrece espacios que se adaptan al estilo de vida y las necesidades de las personas que los habitan. Es por esto, que nuestros espacios se adaptan el estilo de vida y las necesidades de los emprendedores que los habitan. Formar parte de PÚBLICO es compartir una visión del mundo para generar cambios positivos en comunidad. Conoce a nuestros fundadores: Andrés, Emilio y Alfonso quienes relatan la esencia y la historia de cómo Público pasó de ser una idea a una realidad para todos los emprendedores de la #CDMX.</p>
                                         <!-- Read more button -->
                                         <a href="https://www.publi.co/blog/la-historia-detras-de-la-creacion-de-publico/" class="btn btn-outline-black btn-block waves-effect"><strong>Leer más</strong></a>
                                     </div>
@@ -488,8 +420,81 @@
 
                         </div>
                         <!-- Grid row -->
-
                     </div>
+
+                    <div>
+                        <!-- Grid row colaborador-->
+                        <div class="row justify-content-center">
+
+                            <!-- Grid column -->
+                            <div class="col-lg-5">
+                                <!-- Featured image -->
+                                <div class=" overlay rounded z-depth-1 mb-lg-0 mb-4">
+                                    <img class="img-fluid" src="img/fotos/home/blog/industrial.png" alt="Sample image">
+                                    <a>
+                                        <div class="mask rgba-white-slight"></div>
+                                    </a>
+                                </div>
+                            </div>
+                            <!-- Grid column -->
+
+                            <!-- Grid column -->
+                            <div class="col-lg-5">
+                                <div class="card noShadow">
+                                    <!-- Post title -->
+                                    <div class="card-body p-0">
+                                        <h5 class="font-weight-bold mb-3"><strong>“Industrial by PÚBLICO, una oda al diseño y al trabajo colaborativo”</strong></h5>
+                                        <!-- Excerpt -->
+                                        <p class="card-text text-justify">El diseño industrial ha evolucionado para ofrecer distintos productos enfocados en estética, funcionalidad y simbolismo, elementos intrínsecos en el ADN de INDUSTRIAL, una de las divisiones de negocio de PÚBLICO, empresa mexicana que desde 2013 desarrolla proyectos inmobiliarios con base en el estilo de vida de las personas. Liderados por Allan Legaspi, esta empresa tiene como pilares de su filosofía, la creación, colaboración y producción de proyectos creativos que generen experiencias integrales.</p>
+
+                                        <!-- Read more button -->
+                                        <a href="https://www.publi.co/blog/industrial-by-publico-una-oda-al-diseno-y-al-trabajo-colaborativo/" class="btn btn-outline-black btn-block waves-effect"><strong>Leer más</strong></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Grid column -->
+
+                        </div>
+                        <!-- Grid row -->
+                    </div>
+
+
+                    <div>
+                        <!-- Grid row colaborador-->
+                        <div class="row justify-content-center">
+
+                            <!-- Grid column -->
+                            <div class="col-lg-5">
+                                <!-- Featured image -->
+                                <div class="overlay rounded z-depth-1 mb-lg-0 mb-4">
+                                    <img class="img-fluid" src="img/fotos/blog/PUBLICO_COWORKING_BLOG_ONDA.jpg" alt="Sample image">
+                                    <a>
+                                        <div class="mask rgba-white-slight"></div>
+                                    </a>
+                                </div>
+                            </div>
+                            <!-- Grid column -->
+
+                            <!-- Grid column -->
+                            <div class="col-lg-5">
+                                <div class="card noShadow">
+                                    <!-- Post title -->
+                                    <div class="card-body p-0">
+                                        <h5 class="font-weight-bold mb-3"><strong>“PÚBLICO joins Onda”</strong></h5>
+                                        <!-- Excerpt -->
+                                        <p class="card-text text-justify">An exclusive platform for worldwide experiences Onda is a membership platform that connects people with selected clubs all around the world; coworking spaces, health clubs, retreats and private properties. Members of this platform can visit these curated group of spaces while they travel, creating deeper social connections. We are excited to partnered up withONDA and become their first and only coworking space in Mexico. Visit ONDA’s website here.</p>
+
+                                        <!-- Read more button -->
+                                        <a href="https://www.publi.co/blog/publico-joins-onda" class="btn btn-outline-black btn-block waves-effect"><strong>Leer más</strong></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Grid column -->
+
+                        </div>
+                        <!-- Grid row -->
+                    </div>
+
                     <div>
                         <!-- Grid row colaborador-->
                         <div class="row justify-content-center">
@@ -511,7 +516,7 @@
                                 <div class="card noShadow">
                                     <!-- Post title -->
                                     <div class="card-body p-0">
-                                        <h3 class="font-weight-bold mb-3"><strong>“ESPACIOS COLABORATIVOS: LAS OFICINAS PERFECTAS PARA SACAR TU GIRL POWER”</strong></h3>
+                                        <h5 class="font-weight-bold mb-3"><strong>“Espacios colaborativos: Las oficinas perfectas para sacar tu girl power”</strong></h5>
                                         <!-- Excerpt -->
                                         <p class="card-text text-justify">A las mujeres les gusta mantenerse al pendiente de las tendencias, por lo que en esta ocasión, PÚBLICO les comparte las últimas trends en cuestión laboral: los espacios colaborativos. Estos lugares, además de estar ubicados en edificios de arquitectura contemporánea, tener mobiliario de diseñador y ofrecer café todo el día, también se ha convertido en el sitio perfecto para desarrollar y potenciar ideas de negocio. A continuación te compartimos 5 razones por las cuales deberías considerar unirte a un espacio colaborativo que te ofrezca la atmósfera laboral y creativa que necesitas para alcanzar tus objetivos.</p>
 
@@ -523,8 +528,8 @@
                             <!-- Grid column -->
                         </div>
                         <!-- Grid row -->
-
                     </div>
+
                     <div>
                         <!-- Grid row colaborador-->
                         <div class="row justify-content-center">
@@ -546,30 +551,26 @@
                                 <div class="card noShadow">
                                     <!-- Post title -->
                                     <div class="card-body p-0">
-                                        <h3 class="font-weight-bold mb-3"><strong>“UNA MIRADA A THE BRANDING PEOPLE”</strong></h3>
+                                        <h5 class="font-weight-bold mb-3"><strong>“Una mirada a The Branding People”</strong></h5>
                                         <!-- Excerpt -->
                                         <p class="card-text text-justify">The Branding People es un estudio de diseño basado en la CDMX que se especializa en la construcción de marca y el desarrollo de elementos de comunicación visual que conecten con el usuario de cada una de las marcas a las que les han dado identidad. Funcionalidad, estética y elocuencia distingue el trabajo y filosofía de The Branding People. Estos tres pilares se reflejan en el nuevo branding de este equipo creativo.</p>
-
                                         <!-- Read more button -->
                                         <a href="https://www.publi.co/blog/una-mirada-a-the-branding-people/" class="btn btn-outline-black btn-block waves-effect"><strong>Leer más</strong></a>
                                     </div>
                                 </div>
                             </div>
                             <!-- Grid column -->
-
                         </div>
                         <!-- Grid row -->
-
                     </div>
 
-                </div>
 
+                </div>
             </div>
         </div>
     </section>
-    
-    <section id="instagram">
 
+    <section id="instagram">
         <div class="container">
             <div class="row justify-content-center mx-0 my-5">
                 <div class="col-12 col-md-10 col-lg-7">
@@ -784,16 +785,16 @@
                 </div>
 
             </div>
-           
+
         </div>
     </section>
-    
+
     <?php require('require/info-contacto.php'); ?>
-    
+
     <?php require('require/footer.php'); ?>
-    
+
     <?php require('require/scripts.php'); ?>
-    
+
     <script>
         $(window).on('load', function() {
             $('#logoPre').animate({

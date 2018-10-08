@@ -74,7 +74,7 @@
                         </div>
                         <div class="col-12 col-md-8 my-3">
                             <img src="img/iconos/servicios/seguridad.svg" class="servIcon" alt="">
-                            <h5 class="mt-3">Acceso y seguridad 24/7</h5>
+                            <h5 class="mt-3">Seguridad 24/7</h5>
                         </div>
                     </div>
                 </div>
@@ -85,15 +85,14 @@
                             <img src="img/iconos/servicios/Front_desk.svg" class="servIcon" alt="">
                             <h5 class="mt-3">Front desk bilingüe</h5>
                         </div>
-                        <!--
+                        
                         <div class="col-12 col-md-8 my-3">
                             <img src="img/iconos/servicios/restaurant_in_house.svg" class="servIcon" alt="">
                             <h5 class="mt-3">Restaurant in house</h5>
                         </div>
--->
+
                     </div>
                 </div>
-
 
                 <div>
                     <div class="row justify-content-center">

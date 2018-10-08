@@ -25,7 +25,7 @@
                         <div class="col-md-8 white-text text-center text-md-left mt-3 mb-5 pl-4 wow fadeInLeft" data-wow-delay="0.3s">
                             <h1 class="display-4 font-weight-bold mt-lg-5">Muzquiz15</h1>
                             <!--<hr class="hr-light">-->
-                            <h3 class="mb-4"><span class="font-weight-bold">Un espacio que invita a co-crear<br> con la comunidad que lo habita.</h3>
+                            <h3 class="mb-4"><span class="font-weight-bold">Un espacio que invita a co-crear<br> con la comunidad que lo habita</h3>
                         </div>
                         <!--Grid column-->
 
@@ -79,15 +79,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-lg-6">
-                    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/Bl8yi-dAunB/?utm_source=ig_embed" data-instgrm-version="9" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
-                        <div style="padding:8px;">
-                            <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:28.125% 0; text-align:center; width:100%;">
-                                <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div>
-                            </div>
-                            <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/Bl8yi-dAunB/?utm_source=ig_embed" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">Una publicación compartida de Público (@publi.co)</a> el <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-08-01T20:35:55+00:00">1 Ago, 2018 a las 1:35 PDT</time></p>
-                        </div>
-                    </blockquote>
-                    <script async defer src="//www.instagram.com/embed.js"></script>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/x36_MyzfzKg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
@@ -125,7 +117,7 @@
                                 <div class="card-body p-0">
                                     <!--                             <h3 class="font-weight-bold mb-3"><strong>Chef Pablo salas</strong></h3>-->
                                     <!-- Excerpt -->
-                                    <p class="card-text text-justify">Un espacio profesional de fotografía; ciclorama blanco, cortinas blackout y stand de maquillaje incluidos.</p>
+                                    <p class="card-text text-justify">Un espacio profesional de fotografía; ciclorama blanco, cortinas blackout y stand de maquillaje incluidos. Aquí podrás realizar sesiones de fotografía profesional de producto, moda, retrato, grabaciones en ubicación fija; las posibilidades para crear son ilimitadas en esta cómoda locación.</p>
                                 </div>
                             </div>
                             <!-- Read more button -->
@@ -181,7 +173,7 @@
                                 <div class="card-body p-0">
                                     <!--                                        <h3 class="font-weight-bold mb-3"><strong>Chef Pablo salas</strong></h3>-->
                                     <!-- Excerpt -->
-                                    <p class="card-text text-justify"><span class="font-weight-bold">foto / Itacate:</span> Inspirado en /Comedor, pero reinventado. Una barra con cocina abierta especializada en ‘itacates’: bowls de arroz o quinoa con guisados mexicanos para llevar, con el distintivo sabor de nuestro chef <span class="font-weight-bold">Pablo Salas</span>. Itacate también ofrece tortas, ensaladas, café de especialidad y cerveza, en un ambiente relajado pero cuidadosamente diseñado. <span class="font-weight-bold">Dirección:</span> Muzquiz 15, San Miguel Chapultepec, CDMX <span class="font-weight-bold">Teléfono:</span> 71608112</p>
+                                    <p class="card-text text-justify"><span class="font-weight-bold">Itacate:</span> Inspirado en / Comedor, pero reinventado. Una barra con cocina abierta especializada en ‘itacates’: bowls de arroz o quinoa con guisados mexicanos para llevar, con el distintivo sabor de nuestro chef <span class="font-weight-bold">Pablo Salas</span>. Itacate también ofrece tortas, ensaladas, café de especialidad y cerveza, en un ambiente relajado pero cuidadosamente diseñado. <span class="font-weight-bold">Dirección:</span> Muzquiz 15, San Miguel Chapultepec, CDMX. <span class="font-weight-bold">Teléfono:</span> 71608112</p>
                                 </div>
                             </div>
 

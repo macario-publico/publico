@@ -29,7 +29,7 @@
                                         <!-- Card content -->
                                         <div class="card-body">
                                             <!-- Title -->
-                                            <h4 class="card-title">Oficinas privadas</h4>
+                                            <h4 class="card-title">Oficinas privadas:</h4>
                                             <!-- Text -->
                                             <p class="card-text">Amplios espacios para equipos desde 3 hasta 20 personas en oficinas amuebladas. Privacidad y funcionalidad para la productividad de tu equipo.</p>
                                             <p class="card-text">Desde <span class="font-weight-bold">$7,400</span> al mes</p>

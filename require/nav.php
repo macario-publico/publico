@@ -31,8 +31,8 @@
                             <p class=''>Polanco, CDMX.</p>
                         </li>
                         <li class="my-md-5">
-                            <a class="menu-item pl-0" href="hamburgo.php">
-                                Público Juárez
+                            <a class="menu-item pl-0" href="juarez.php">
+                                Juárez
                             </a>
                             <p class=''>Verano 2019</p>
                         </li>
@@ -54,10 +54,10 @@
                             <p class=''>Condesa, CDMX.</p>
                         </li>
                         <li class="my-md-5">
-                            <a class="menu-item pl-0" href="prado_norte.php">
-                                Prado Norte 225
+                            <a class="menu-item pl-0" href="lomas.php">
+                                Lomas
                             </a>
-                            <p class=''>Lomas de Chapultepec, CDMX.</p>
+                            <p class=''>Verano 2019</p>
                         </li>
                     </ul>
                 </div>

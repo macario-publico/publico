@@ -86,7 +86,7 @@
                         </div>
                         <div class="col-12 col-md-8 my-3">
                             <img src="img/iconos/servicios/seguridad.svg" class="servIcon" alt="">
-                            <h5 class="mt-3">Acceso y seguridad 24/7</h5>
+                            <h5 class="mt-3">Seguridad 24/7</h5>
                         </div>
                     </div>
                 </div>

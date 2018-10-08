@@ -135,7 +135,7 @@
                                                 <option selected disabled>Cuántas horas?</option>
                                                 <option value="4hrs">Mínimo 4 hrs</option>
                                                 <option value="5-10">5-10</option>
-                                                <option value="Dia completo">día completo</option>
+                                                <option value="Dia completo">Día completo</option>
                                             </select>
                                         </div>
                                     </div>
