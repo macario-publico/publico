@@ -129,11 +129,10 @@
                                     <p class="card-text text-justify">Alfonso es cofundador y director creativo de PÚBLICO. </p>
 
                                     <!-- Read more button -->
-                                    <!--
-                                    <a href="http://protocolos.cc/equipo/
-" class="btn btn-outline-black btn-block mt-5 waves-effect" target="_blank"><strong>Conocé más</strong></a>
+                                    
+                                    <a href="https://www.facebook.com/studio.inh" class="btn btn-outline-black btn-block mt-5 waves-effect" target="_blank"><strong>Conocé más</strong></a>
                                 </div>
--->
+
                                 </div>
                             </div>
                             <!-- Grid column -->
@@ -174,10 +173,9 @@
                                     <p class="card-text text-justify">Allan Legaspi es cofundador y director de INDUSTRIAL, una de las divisiones de negocio de PÚBLICO.</p>
 
                                     <!-- Read more button -->
-                                    <!--
-                                    <a href="http://protocolos.cc/equipo/
-" class="btn btn-outline-black btn-block mt-5 waves-effect" target="_blank"><strong>Conocé más</strong></a>
--->
+                                    
+                                    <a href="https://industrialbypubli.co/" class="btn btn-outline-black btn-block mt-5 waves-effect" target="_blank"><strong>Conocé más</strong></a>
+
                                 </div>
                             </div>
                         </div>
@@ -212,10 +210,9 @@
                                     <p class="card-text text-justify">Su colaboración en PÚBLICO: el diseño y creación del interiorismo de nuestros restaurantes Público Comedor e Itacate.</p>
 
                                     <!-- Read more button -->
-                                    <!--
-                                    <a href="http://protocolos.cc/equipo/
-" class="btn btn-outline-black btn-block mt-5 waves-effect" target="_blank"><strong>Conocé más</strong></a>
--->
+                                    
+                                    <a href="https://coolhuntermx.com/cecilia-leon-de-la-barra" class="btn btn-outline-black btn-block mt-5 waves-effect" target="_blank"><strong>Conocé más</strong></a>
+
                                 </div>
                             </div>
                         </div>

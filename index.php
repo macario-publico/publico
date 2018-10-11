@@ -387,6 +387,43 @@
                 <!--                <div class="col-10 pt-5 text-center owl-colaboradores owl-carousel owl-theme">-->
                 <div class="col-10 owl-colaboradores owl-carousel owl-theme owl-theme pt-5">
 
+                        <div>
+                        <!-- Grid row colaborador-->
+                        <div class="row justify-content-center">
+
+                            <!-- Grid column -->
+                            <div class="col-lg-5">
+                                <!-- Featured image -->
+                                <div class=" overlay rounded z-depth-1 mb-lg-0 mb-4">
+                                    <img class="img-fluid" src="img/fotos/blog/PUBLICO_BLOG_NOTA.jpg" alt="PUBLICO gana el Members Choice Award 2018">
+                                    <a>
+                                        <div class="mask rgba-white-slight"></div>
+                                    </a>
+                                </div>
+                            </div>
+                            <!-- Grid column -->
+
+                            <!-- Grid column -->
+                            <div class="col-lg-5">
+                                <div class="card noShadow">
+                                    <!-- Post title -->
+                                    <div class="card-body p-0">
+                                        <h5 class="font-weight-bold mb-3"><strong>“PÚBLICO gana el Members’ Choice Award 2018 de la Ciudad de México otorgado por Coworker”</strong></h5>
+                                        <!-- Excerpt -->
+                                        <p class="card-text text-justify">PÚBLICO ha sido nombrado como el ganador de los Members’ Choice Award 2018 Mexico City, evento organizado por Coworker. Los acreedores de este reconocimiento se determinaron con base en los cientos de comentarios, votos y opiniones recopilados en un sólo año por miembros de los espacios de coworking en todo el mundo.</p>
+                                        <!-- Read more button -->
+                                        <a href="https://www.publi.co/blog/publico-gana-el-members-choice-award-2018-de-la-ciudad-de-mexico-otorgado-por-coworker/" class="btn btn-outline-black btn-block waves-effect"><strong>Leer más</strong></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Grid column -->
+
+                        </div>
+                        <!-- Grid row -->
+                    </div>
+
+
+
                     <div>
                         <!-- Grid row colaborador-->
                         <div class="row justify-content-center">

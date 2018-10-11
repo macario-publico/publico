@@ -34,7 +34,7 @@
 
     <section id="reservaciones" class="my-5">
         <div class="container">
-            <h2 class="titulos sans-bold pl-3 mb-4"><span class="font-weight-bold">El espacio perfecto para tus ideas:</span></h2>
+            <h2 class="titulos sans-bold pl-3 mb-4"><span class="font-weight-bold">El espacio perfecto para tu empresa:</span></h2>
             <div class="row justify-content-center">
 
                 <div class="col-12">

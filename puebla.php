@@ -120,7 +120,7 @@
                                 <div class="card-body p-0">
                                     <h3 class="font-weight-bold mb-3"><strong>PÚBLICO comedor</strong></h3>
                                     <!-- Excerpt -->
-                                    <p class="card-text text-justify">El concepto que ya conoces en Polanco: cocina mexicana sencilla, accesible y rica pero con la influencia de La Condesa. El menú de la casa está creado por el chef Pablo Salas tomando en cuenta el estilo de vida de los que habitantes del barrio. <span class="font-weight-bold">PROXIMAMENTE //</span></p>
+                                    <p class="card-text text-justify">El concepto que ya conoces en Polanco: cocina mexicana sencilla, accesible y rica pero con la influencia de La Condesa. El menú de la casa está creado por el chef Pablo Salas tomando en cuenta el estilo de vida de los que habitantes del barrio. <span class="font-weight-bold"> PROXIMAMENTE </span></p>
                                 </div>
                             </div>
 

@@ -480,7 +480,7 @@ select:focus {
 
 /************************************
     Estilos del Tab FAQ
-************************************/   
+************************************/
 
 .nav-pills .nav-link {
     color: #000;
@@ -489,7 +489,7 @@ select:focus {
 }
 
 .nav-pills .nav-link.active,
-.nav-pills .show > .nav-link {
+.nav-pills .show>.nav-link {
     color: #fff;
     background-color: #000;
 }
@@ -499,12 +499,13 @@ select:focus {
     Estilos del Acordeon
 ************************************/
 
-.noShadow{
-  box-shadow:none;
+.noShadow {
+    box-shadow: none;
 }
-.card-header{
-  padding: 0.75rem 0;
-  background-color:transparent;
+
+.card-header {
+    padding: 0.75rem 0;
+    background-color: transparent;
 }
 
 #accordion-style-1 .btn-link {
@@ -514,22 +515,22 @@ select:focus {
     text-decoration: none !important;
     font-size: 16px;
     font-weight: bold;
-	padding-left: 25px;
+    padding-left: 25px;
 }
 
 #accordion-style-1 .card-body {
     border-top: 2px solid #000;
 }
 
-#accordion-style-1 .card-header .btn.collapsed .fa.main{
-	display:none;
+#accordion-style-1 .card-header .btn.collapsed .fa.main {
+    display: none;
 }
 
-#accordion-style-1 .card-header .btn .fa.main{
-	  background: #000;
+#accordion-style-1 .card-header .btn .fa.main {
+    background: #000;
     padding: 7px 8px;
     color: #ffffff;
-    font-size:1.7rem;
+    font-size: 1.7rem;
     width: 42px;
     height: 42px;
     position: absolute;
@@ -537,12 +538,13 @@ select:focus {
     top: 5px;
     border-top-right-radius: 7px;
     border-bottom-right-radius: 7px;
-	  display:block;
+    display: block;
 }
 
 .colorBtnCard {
     color: #212529;
 }
+
 a.colorBtnCard:hover {
     color: #212529;
 }
@@ -555,8 +557,10 @@ a.colorBtnCard:hover {
     right: 30px;
 }
 
+/* Slides de Mobile Responsive */
+
 #slideHome {
-    background-image: url(../img/fotos/home/publico_coworking_primerslide.jpg);
+    background-image: url(../img/fotos/slide_mobile/HOME.jpg);
 }
 
 #slide-cowork {
@@ -564,7 +568,7 @@ a.colorBtnCard:hover {
 }
 
 #slide-comedores {
-    background-image: url(../img/fotos/comedores/primerslide_comedores.jpg);
+    background-image: url(../img/fotos/slide_mobile/COMEDORES.jpg);
 }
 
 #slide-about {
@@ -576,19 +580,19 @@ a.colorBtnCard:hover {
 }
 
 #slide-press {
-    background-image: url(../img/fotos/press/publico_coworking_press.jpg);
+    background-image: url(../img/fotos/slide_mobile/PRESS.jpg);
 }
 
 #slide-membresias {
-    background-image: url(../img/fotos/membresias/publico_coworking_MEMBRESIA_primerslide.jpg);
+    background-image: url(../img/fotos/slide_mobile/MEMBRESIA.jpg);
 }
 
 #slide-eventos {
-    background-image: url(../img/fotos/eventos/publico_coworking_EVENTOS_primerslide.jpg);
+    background-image: url(../img/fotos/slide_mobile/EVENTO.jpg);
 }
 
 #slide-colaboradores {
-    background-image: url(../img/fotos/colaboradores/publico_coworking_COLABORADORES_primerslide.jpg);
+    background-image: url(../img/fotos/slide_mobile/colaboradores.jpg);
 }
 
 #slide-contacto {
@@ -596,7 +600,7 @@ a.colorBtnCard:hover {
 }
 
 #slide-muzquiz {
-    background-image: url(../img/fotos/muzquiz/publico_coworking_MUZQUIZ_primerslide.jpg);
+    background-image: url(../img/fotos/slide_mobile/MUZQUIZ.jpg);
 }
 
 #slide-moliere {
@@ -608,15 +612,13 @@ a.colorBtnCard:hover {
 }
 
 #slide-seneca {
-    background-image: url(../img/fotos/seneca/publico_coworking_SENECA_primerslide.jpg);
+    background-image: url(../img/fotos/slide_mobile/SENECA.jpg);
 }
 
 #slide-hamburgo {
-    background-image: url(../img/fotos/hamburgo/publico_coworking_HAMBURGO_primerslide.jpg);
+    background-image: url(../img/fotos/slide_mobile/JUAREZ.jpg);
 }
 
 #slide-prado {
     background-image: url(../img/fotos/lomas/publico_coworking_LOMAS_primerslide.jpg);
 }
-
-

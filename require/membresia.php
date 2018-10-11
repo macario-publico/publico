@@ -20,7 +20,7 @@
                                 <div class="card p-3">
                                     <!-- Card image -->
                                     <div class="overlay">
-                                        <img class="card-img-top" src="img/fotos/muzquiz/publico_coworking_muzquiz_membresia_coworking.jpg" alt="cowork">
+                                        <img class="card-img-top" src="img/fotos/seneca/publico_coworking_SENECA_membresia_COWORKING.jpg" alt="cowork">
                                         <a href="#">
                                             <div class="mask rgba-white-slight"></div>
                                         </a>
