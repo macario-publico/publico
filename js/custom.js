@@ -157,9 +157,9 @@ $(".owl-aliados").owlCarousel({
     autoplay: true,
     margin: 50,
     stagePadding: 20,
-    autoplayTimeout: 5000,
+    autoplayTimeout: 3500,
     autoplayHoverPause: true,
-    smartSpeed: 750,
+    smartSpeed: 350,
     responsive: {
         0: {
             items: 2

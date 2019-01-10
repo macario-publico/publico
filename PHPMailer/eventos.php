@@ -32,20 +32,28 @@ $mensaje = $_POST["mensaje"];
 
 $aviso = $_POST["aviso"];
 
-$destino = "prueba@studio-8.co";
+$destino = "info@publi.co";
 
 
 
-$mail->isSMTP();                                      // Set mailer to use SMTP
-$mail->Host = 'mail.studio-8.co';  // Specify main and backup SMTP servers
+$mail->isSMTP();
+
+// Set mailer to use SMTP
+$mail->Host = 'ssl://smtp.gmail.com';  // Specify main and backup SMTP servers
 $mail->SMTPAuth = true;                               // Enable SMTP authentication
-$mail->Username = 'prueba@studio-8.co';                 // SMTP username
-$mail->Password = 'Pueb@s1540';                           // SMTP password
-$mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
+$mail->Username = 'info@publi.co';                 // SMTP username
+$mail->Password = 'publico2018';                           // SMTP password
+$mail->SMTPSecure = 'ssl';                           // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 465;                                    // TCP port to connect to
 
-$mail->setFrom('prueba@studio-8.co', 'Publico Eventos');
-$mail->addAddress($destino, $nombre);     
+//$mail->Host = 'localhost';
+//$mail->Port = 25;
+//$mail->SMTPSecure = false;
+//$mail->SMTPAutoTLS = false;
+//$mail->SMTPAuth = false;
+
+$mail->setFrom('info@publi.co', 'Publico Eventos');
+$mail->addAddress($destino, $nombre);
 
 $mail->Subject = 'Nuevo mensaje de Eventos Publico';
 $mensajeHtml = nl2br($mensaje);
@@ -110,5 +118,5 @@ if(!$mail->send()) {
     echo 'Error del mensaje: ' . $mail->ErrorInfo;
 } else {
 //    echo 'El mensaje se ha enviado correctamente';
-     header("Location:../agradecimiento.html");
+     header("Location:../agradecimiento.php");
 }

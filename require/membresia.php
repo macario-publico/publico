@@ -20,7 +20,7 @@
                                 <div class="card p-3">
                                     <!-- Card image -->
                                     <div class="overlay">
-                                        <img class="card-img-top" src="img/fotos/seneca/publico_coworking_SENECA_membresia_COWORKING.jpg" alt="cowork">
+                                        <img class="card-img-top" src="img/fotos/seneca/publico_coworking_SENECA_membresia_COWORKING.jpg" alt="Membresías Escritorios de coworking">
                                         <a href="#">
                                             <div class="mask rgba-white-slight"></div>
                                         </a>
@@ -34,7 +34,7 @@
                                         <p class="card-text">Espacios individuales en áreas de trabajo compartidas, ideales para profesionistas que buscan un alto desempeño de sus actividades y mejorar su presencia de marca.</p>
                                         <p class="card-text">Desde <span class="font-weight-bold">$3,800</span> al mes</p>
                                         <!-- Read more button -->
-                                        <a href="contacto.php" class="btn btn-outline-black btn-block waves-effect"><strong>Contáctanos</strong></a>
+                                        <a href="contacto/publico-trabajo-contacto" class="btn btn-outline-black btn-block waves-effect font-weight-bold">Contáctanos</a>
                                     </div>
 
                                 </div>
@@ -51,7 +51,7 @@
 
                                     <!-- Card image -->
                                     <div class="overlay">
-                                        <img class="card-img-top" src="img/membresia.jpg" alt="cowork">
+                                        <img class="card-img-top" src="img/membresia.jpg" alt="Membresías Oficinas Privadas">
                                         <a href="#">
                                             <div class="mask rgba-white-slight"></div>
                                         </a>
@@ -65,7 +65,7 @@
                                         <p class="card-text">Amplios espacios para equipos desde 3 hasta 20 personas en oficinas amuebladas. Privacidad y funcionalidad para la productividad de tu equipo</p>
                                         <p class="card-text">Desde <span class="font-weight-bold">$6,500</span> al mes</p>
                                         <!-- Read more button -->
-                                        <a href="contacto.php" class="btn btn-outline-black btn-block waves-effect"><strong>Contáctanos</strong></a>
+                                        <a href="contacto/publico-trabajo-contacto" class="btn btn-outline-black btn-block waves-effect font-weight-bold">Contáctanos</a>
                                     </div>
                                 </div>
                                 <!-- Card -->

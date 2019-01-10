@@ -1,0 +1,72 @@
+  .marker {
+            display: block;
+            border: none;
+            width: 30px;
+            height: 30px;
+            cursor: pointer;
+            padding: 0;
+        }
+
+
+        .mapboxgl-popup {
+            max-width: 150px;
+            font-family: 'Open Sans', sans-serif;
+            font-weight: 300;
+            font-size: 0.8rem;
+
+        }
+
+        @media only screen and (min-width:768px){
+            .mapboxgl-popup {
+                max-width: 250px;
+            }
+        }
+
+        .mapboxgl-popup img {
+            max-width: 100%;
+            display: block;
+
+        }
+
+        .mapboxgl-popup-close-button {
+            right: 5px;
+            top: 5px;
+            border-radius: 50%;
+            background-color: #212121d6;
+            color: white;
+            font-weight: 700;
+        }
+
+        .mapboxgl-popup-content {
+            padding: 0;
+            background: #fff;
+        }
+
+        .mapboxgl-popup-content .title-map {
+            text-align: center;
+            font-weight: 700;
+            padding-top: 0.3rem;
+            font-size: 1rem;
+        }
+
+        .mapboxgl-popup-content .description-map{
+            padding: 0.2rem 0.4rem;
+        }
+        .mapboxgl-popup-content .btn-map{
+            display: block;
+            width: 50%;
+            padding: 0.2rem;
+            background-color: black;
+            color: white;
+            margin: 0 auto 0.5rem;
+            text-align: center;
+        }
+
+
+        #marker, #marker2, #marker3, #marker4, #marker5, #marker6  {
+            background-image: url('https://publi.co/icon-map.png');
+            background-size: cover;
+            width: 30px;
+            height: 30px;
+            cursor: pointer;
+        }

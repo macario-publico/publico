@@ -22,16 +22,18 @@ header {
 }
 
 .alturasMapa {
-    height: 250px;
+    height: 350px;
 }
 
 .view2 {
     height: 65vh;
 }
 
+
+
 @media only screen and (min-width:768px) {
     .alturasMapa {
-        height: 400px;
+        height: 500px;
     }
     .view2 {
     height: 65vh;
@@ -43,3 +45,5 @@ header {
     height: 95vh;
     }
 }
+
+

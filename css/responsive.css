@@ -9,6 +9,10 @@
         padding: 2rem 1rem;
     }
 
+    .alturasMapa {
+        height: 450px;
+    }
+
 }
 
 /*// Medium devices (tablets, 768px and up)*/
@@ -35,8 +39,9 @@
     .logoBlack {
         position: absolute;
         top: 10px;
-        left: 46px;
+        left: 50px;
         z-index: 1;
+        display: none;
     }
 
     .mt-negativo {
@@ -56,25 +61,35 @@
     }
 
     .bottom2 {
-        width: 250px;
+        width: 150px;
         position: absolute;
         z-index: 100;
-        bottom: 50px;
-        right: 30px;
+        bottom: 30px;
+        right: 50px;
     }
+
+    .owl-theme .owl-dots,
+    .owl-theme .owl-nav {
+        display: block;
+    }
+
+    .alturasMapa {
+        height: 500px;
+    }
+
 
     /* Slides de Mobile Responsive */
 
     #slideHome {
-        background-image: url(../img/fotos/home/publico_coworking_primerslide.jpg);
+        background-image: url(../img/fotos/home/PUBLICO-Coworking-CDMX.jpg);
     }
 
     #slide-cowork {
-        background-image: url(../img/fotos/espacios_trabajo/publico_coworking_ESPACIOS-DE-TRABAJO_primerslide.jpg);
+        background-image: url(../img/fotos/espacios_trabajo/Publico-coworkings.jpg);
     }
 
     #slide-comedores {
-        background-image: url(../img/fotos/comedores/primerslide_comedores.jpg);
+        background-image: url(../img/fotos/comedores/publico_coworking_COMEDORES_primerslide.jpg);
     }
 
     #slide-about {
@@ -106,27 +121,27 @@
     }
 
     #slide-muzquiz {
-        background-image: url(../img/fotos/muzquiz/publico_coworking_MUZQUIZ_primerslide.jpg);
+        background-image: url(../img/fotos/muzquiz/Publico-Coworking-Muzquiz.jpg);
     }
 
     #slide-moliere {
-        background-image: url(../img/fotos/moliere/publico_coworking_MUZQUIZ_primerslide.jpg);
+        background-image: url(../img/fotos/moliere/Publico-Coworking-Polanco.jpg);
     }
 
     #slide-puebla {
-        background-image: url(../img/fotos/puebla/publico_coworking_PUEBLA_primerslide.jpg);
+        background-image: url(../img/fotos/puebla/Publico-Coworking-Condesa.jpg);
     }
 
     #slide-seneca {
-        background-image: url(../img/fotos/seneca/publico_coworking_SENECA_primerslide.jpg);
+        background-image: url(../img/fotos/seneca/Publico-Coworking-Seneca.jpg);
     }
 
     #slide-hamburgo {
-        background-image: url(../img/fotos/hamburgo/publico_coworking_HAMBURGO_primerslide.jpg);
+        background-image: url(../img/fotos/hamburgo/Publico-Coworking-Juarez.jpg);
     }
 
     #slide-prado {
-        background-image: url(../img/fotos/lomas/publico_coworking_LOMAS_primerslide.jpg);
+        background-image: url(../img/fotos/lomas/Publico-Coworking-Lomas-CDMX.jpg);
     }
 
 
@@ -153,6 +168,6 @@
     }
 
     .mt-negativo2 {
-        margin-top: -400px;
+        margin-top: -200px;
     }
 }

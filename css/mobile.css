@@ -77,6 +77,7 @@ header {
 
 ul.menuWhite {
     color: #000;
+    padding-left: 0.5rem !important;
 }
 
 .menu-item {
@@ -193,7 +194,6 @@ h6 {
     z-index: 1;
 }
 
-/*
 .logowhite2 {
     position: absolute;
     top: 17px;
@@ -209,7 +209,6 @@ h6 {
     z-index: 1;
     display: none;
 }
-*/
 
 
 
@@ -444,7 +443,8 @@ select:focus {
 }
 
 .servIcon {
-    width: 80px;
+    width: 50px;
+    height: 100px;
 }
 
 .noShadow {
@@ -489,7 +489,7 @@ select:focus {
 }
 
 .nav-pills .nav-link.active,
-.nav-pills .show>.nav-link {
+.nav-pills .show > .nav-link {
     color: #fff;
     background-color: #000;
 }
@@ -550,12 +550,20 @@ a.colorBtnCard:hover {
 }
 
 .bottom2 {
-    width: 120px;
+    width: 80px;
     position: absolute;
     z-index: 100;
     bottom: 50px;
     right: 30px;
 }
+
+
+.owl-theme .owl-dots,
+.owl-theme .owl-nav {
+    display: none;
+}
+
+
 
 /* Slides de Mobile Responsive */
 
@@ -564,7 +572,7 @@ a.colorBtnCard:hover {
 }
 
 #slide-cowork {
-    background-image: url(../img/fotos/espacios_trabajo/publico_coworking_ESPACIOS-DE-TRABAJO_primerslide.jpg);
+    background-image: url(../img/fotos/espacios_trabajo/Publico-coworkings.jpg);
 }
 
 #slide-comedores {
@@ -608,7 +616,7 @@ a.colorBtnCard:hover {
 }
 
 #slide-puebla {
-    background-image: url(../img/fotos/puebla/publico_coworking_PUEBLA_primerslide.jpg);
+    background-image: url(../img/fotos/puebla/Publico-Coworking-Condesa.jpg);
 }
 
 #slide-seneca {
@@ -620,5 +628,55 @@ a.colorBtnCard:hover {
 }
 
 #slide-prado {
-    background-image: url(../img/fotos/lomas/publico_coworking_LOMAS_primerslide.jpg);
+    background-image: url(../img/fotos/lomas/Publico-Coworking-Lomas-CDMX.jpg);
+}
+
+
+/* Coreccion de Size Servicios */
+.owl-services .owl-carousel .owl-item img{
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+/* Estilos de el card de testimoniales */
+
+.min-height {
+    min-height: 300px;
+}
+
+.card .card-body.testimonio .card-text {
+    min-height: 100px;
+}
+
+.card .card-body.testimonio h5{
+    height: 45px;
+
+}
+
+@media only screen and (min-width:992px) {
+    .min-height {
+        min-height: 350px;
+    }
+
+    .card .card-body.testimonio .card-text {
+        min-height: 150px;
+    }
+
+}
+
+
+.alturasMapa {
+    height: 350px;
+}
+.f-title {
+    font-size: 1.5rem !important;
+}
+
+.tagtitle {
+    font-size: 1.75rem !important;
+}
+
+.altura-serv {
+    height: 180px;
 }
