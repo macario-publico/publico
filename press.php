@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="shortcut icon" href="../img/favicon.png" />
+    <link rel="shortcut icon" href="img/favicon.png" />
 
     <title> PÚBLICO Press | Coworking CDMX | Cowork CDMX | Coworking DF</title>
     <meta name="description" content=" Press en Público, Polanco, Coworking México CDMX,  Coworking DF, Cowork CDMX, Renta de oficinas DF, Condesa, Polanco, San Miguel Chapultepec, Cowork México, Coworking CDMX" />
@@ -133,7 +133,7 @@
                                         <div class="card locationScale">
                                             <!-- Card image -->
                                             <div class="overlay">
-                                                <img class="card-img-top" src="img/fotos/press/cards/oficinas.jpg" alt="Coworking CDMX">
+                                                <img class="card-img-top" src="img/fotos/press/card/Coworking-CDMX.jpg" alt="Coworking CDMX">
                                             </div>
 
                                             <!-- Card content -->
@@ -159,7 +159,7 @@
                                         <div class="card locationScale">
                                             <!-- Card image -->
                                             <div class="overlay">
-                                                <img class="card-img-top" src="img/fotos/press/cards/corporativo.jpg" alt="Coworking México">
+                                                <img class="card-img-top" src="img/fotos/press/card/Coworking-Mexico.jpg" alt="Coworking México">
                                             </div>
                                             <!-- Card content -->
                                             <div class="card-body">
@@ -188,7 +188,7 @@
                                         <div class="card locationScale2">
                                             <!-- Card image -->
                                             <div class="overlay">
-                                                <img class="card-img-top" src="img/fotos/press/cards/CREATIVOS_ELLE_MX.jpg" alt="Cowork CDMX">
+                                                <img class="card-img-top" src="img/fotos/press/card/Cowork-CDMX.jpg" alt="Cowork CDMX">
                                             </div>
                                             <!-- Card content -->
                                             <div class="card-body">
@@ -213,7 +213,7 @@
                                         <div class="card locationScale2">
                                             <!-- Card image -->
                                             <div class="overlay">
-                                                <img class="card-img-top" src="img/fotos/press/cards/espacio2.jpg" alt="Coworking México">
+                                                <img class="card-img-top" src="img/fotos/press/card/Coworking-Mexico-2.jpg" alt="Coworking México">
 
                                             </div>
                                             <!-- Card content -->
@@ -238,7 +238,7 @@
                                         <div class="card locationScale2">
                                             <!-- Card image -->
                                             <div class="overlay">
-                                                <img class="card-img-top" src="img/fotos/press/cards/tendencias.jpg" alt="Salas de juntas CDMX">
+                                                <img class="card-img-top" src="img/fotos/press/card/Salas-de-Juntas-CDMX.jpg" alt="Salas de juntas CDMX">
                                             </div>
                                             <!-- Card content -->
                                             <div class="card-body">
@@ -263,7 +263,7 @@
                                             <!-- Card image -->
 
                                             <div class="overlay">
-                                                <img class="card-img-top" src="img/fotos/press/cards/hotbook.jpg" alt="Escritorios Coworking CDMX">
+                                                <img class="card-img-top" src="img/fotos/press/card/Escritorios-coworking-CDMX.jpg" alt="Escritorios Coworking CDMX">
 
                                             </div>
                                             <!-- Card content -->
@@ -288,7 +288,7 @@
                                         <div class="card locationScale2">
                                             <!-- Card image -->
                                             <div class="overlay">
-                                                <img class="card-img-top" src="img/fotos/press/cards/espacios61.jpg" alt="Estudio fotográfico CDMX">
+                                                <img class="card-img-top" src="img/fotos/press/card/Estudio-fotografico-CDMX.jpg" alt="Estudio fotográfico CDMX">
                                             </div>
 
                                             <!-- Card content -->
@@ -313,7 +313,7 @@
                                         <div class="card locationScale2">
                                             <!-- Card image -->
                                             <div class="overlay">
-                                                <img class="card-img-top" src="img/fotos/press/cards/Espacios_de_coworking_TIMEOUT.jpg" alt="Coworking Juárez">
+                                                <img class="card-img-top" src="img/fotos/press/card/Coworking-Juarez.jpg" alt="Coworking Juárez">
                                             </div>
 
                                             <!-- Card content -->
@@ -338,7 +338,7 @@
                                         <div class="card locationScale2">
                                             <!-- Card image -->
                                             <div class="overlay">
-                                                <img class="card-img-top" src="img/fotos/press/cards/TRAVEL.jpg" alt="Coworking  Polanco CDMX">
+                                                <img class="card-img-top" src="img/fotos/press/card/Coworking-Polanco-CDMX.jpg" alt="Coworking  Polanco CDMX">
                                             </div>
 
                                             <!-- Card content -->
@@ -363,7 +363,7 @@
                                         <div class="card locationScale2">
                                             <!-- Card image -->
                                             <div class="overlay">
-                                                <img class="card-img-top" src="img/fotos/press/cards/en_casa-ELEMPRESARIO.jpg" alt="Coworking Condesa CDMX">
+                                                <img class="card-img-top" src="img/fotos/press/card/Coworking-Condesa-CDMX.jpg" alt="Coworking Condesa CDMX">
                                             </div>
 
                                             <!-- Card content -->
@@ -388,7 +388,7 @@
                                         <div class="card locationScale2">
                                             <!-- Card image -->
                                             <div class="overlay">
-                                                <img class="card-img-top" src="img/fotos/press/cards/un_espacio_COOLHUNTER.jpg" alt="Coworking San Miguel Chapultepec">
+                                                <img class="card-img-top" src="img/fotos/press/card/Coworking-San-Miguel-Chapultepec.jpg" alt="Coworking San Miguel Chapultepec">
                                             </div>
 
                                             <!-- Card content -->
@@ -413,7 +413,7 @@
                                         <div class="card locationScale2">
                                             <!-- Card image -->
                                             <div class="overlay">
-                                                <img class="card-img-top" src="img/fotos/press/cards/Generar_experiencias_NEWCO.jpg" alt="Noticia Cowork Polanco CDMX">
+                                                <img class="card-img-top" src="img/fotos/press/card/Noticia-Cowork-Polanco-CDMX.jpg" alt="Noticia Cowork Polanco CDMX">
                                             </div>
 
                                             <!-- Card content -->
@@ -438,7 +438,7 @@
                                         <div class="card locationScale2">
                                             <!-- Card image -->
                                             <div class="overlay">
-                                                <img class="card-img-top" src="img/fotos/press/cards/comida_de_chefs.jpg" alt="Cowork México DF">
+                                                <img class="card-img-top" src="img/fotos/press/card/Cowork-Mexico-DF.jpg" alt="Cowork México DF">
                                             </div>
 
                                             <!-- Card content -->
@@ -463,7 +463,7 @@
                                         <div class="card locationScale2">
                                             <!-- Card image -->
                                             <div class="overlay">
-                                                <img class="card-img-top" src="img/fotos/press/cards/arquitectura_COOLHUNTER_MX.jpg" alt="Coworking DF">
+                                                <img class="card-img-top" src="img/fotos/press/card/Coworking-DF.jpg" alt="Coworking DF">
                                             </div>
 
                                             <!-- Card content -->
@@ -488,7 +488,7 @@
                                         <div class="card locationScale2">
                                             <!-- Card image -->
                                             <div class="overlay">
-                                                <img class="card-img-top" src="img/fotos/press/cards/FromTheMag_WARP_LA.jpg" alt="Coworking México CDMX">
+                                                <img class="card-img-top" src="img/fotos/press/card/Coworking-Mexico-CDMX.jpg" alt="Coworking México CDMX">
                                             </div>
 
                                             <!-- Card content -->
@@ -513,7 +513,7 @@
                                         <div class="card locationScale2">
                                             <!-- Card image -->
                                             <div class="overlay">
-                                                <img class="card-img-top" src="img/fotos/press/cards/Los_8_mejores_lugares_de_coworking_WARP_LA.jpg" alt="Oficinas Coworking CDMX">
+                                                <img class="card-img-top" src="img/fotos/press/card/Oficinas-Coworking-CDMX.jpg" alt="Oficinas Coworking CDMX">
                                             </div>
 
                                             <!-- Card content -->
@@ -538,7 +538,7 @@
                                         <div class="card locationScale2">
                                             <!-- Card image -->
                                             <div class="overlay">
-                                                <img class="card-img-top" src="img/fotos/press/cards/PUBLICO_UN COWORK_MAXIM.jpg" alt="Oficinas privadas CDMX">
+                                                <img class="card-img-top" src="img/fotos/press/card/Oficinas-privadas-CDMX.jpg" alt="Oficinas privadas CDMX">
                                             </div>
 
                                             <!-- Card content -->

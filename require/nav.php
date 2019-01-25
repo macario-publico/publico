@@ -2,17 +2,17 @@
     <div class="container-fluid">
 
         <a class="navbar-brand" href="/">
-            <img src="img/logoWhite.png" class="logoBlack d-block d-md-none logoSize" alt="PÚBLICO CDMX">
-            <img src="img/logoFullWhite2.svg" class="logoBlack d-none d-md-block" height="50" alt="PÚBLICO CDMX">
+            <img src="img/logoBlack.png" class="logoBlack d-block d-md-none logoSize" alt="PÚBLICO CDMX">
+            <img src="img/logoBlack2.svg" class="logoBlack d-none d-md-block" height="50" alt="PÚBLICO CDMX">
         </a>
 
         <div class="col-9 col-md-10">
             <a href="contacto/publico-trabajo-contacto" class="btn btn-white btn-menu-contacto float-right">Contacto</a>
         </div>
 
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-7" aria-controls="navbarSupportedContent-7" aria-expanded="false" aria-label="Toggle navigation">
+        <a class="navbar-toggler" data-toggle="collapse" data-target="#navbarSupportedContent-7" aria-controls="navbarSupportedContent-7" aria-expanded="false" aria-label="Toggle navigation">
             <div class="animated-icon1 menubarra" id="hamburguesa"><span></span><span></span><span></span></div>
-        </button>
+        </a>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent-7">
             <div class="row mt-5">
@@ -34,7 +34,7 @@
                             <a class="menu-item pl-0" href="coworking/coworking-cdmx-hamburgo-juarez">
                                 Juárez
                             </a>
-                            <p class=''>Verano 2019</p>
+                            <p class=''>Marzo 2019</p>
                         </li>
                     </ul>
                 </div>

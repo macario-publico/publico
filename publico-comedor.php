@@ -116,8 +116,8 @@
     <!-- Main navigation -->
 
 
-    <section id="colaboradores" class="">
-        <div class="container-fluid mt-negativo2">
+    <section id="colaboradores" class="mt-5">
+        <div class="container-fluid mt-negativo-comedor">
             <div class="row mx-0">
                 <div class="col-12 col-md-10 col-lg-7">
                     <div class="row mt-5">
@@ -145,7 +145,7 @@
                             <a href="img/menus/menu_publico_comedor.pdf" target="_blank" class="btn btn-outline-green btn-block waves-effect d-none d-lg-block mt-5 font-weight-bold">
                                 Conoce nuestro menú
                             </a>
-                            <a href="https://www.rappi.com.mx/restaurantes/publico-comedor" target="_blank" class="btn btn-outline-green btn-block waves-effect d-none d-lg-block font-weight-bold">
+                            <a href="https://www.ubereats.com/es-MX/mexico-city/food-delivery/publico-comedor/8VPb8EzdTyuZboTOlutUSg/" target="_blank" class="btn btn-outline-green btn-block waves-effect d-none d-lg-block font-weight-bold">
                                 Pide a Domicilio
                             </a>
                             <!--
@@ -160,7 +160,7 @@
                         <div class="col-lg-5 order-lg-first white wow fadeInLeft p-4 mb-5">
                             <!-- Featured image -->
                             <div class=" overlay rounded z-depth-1 mb-lg-0 mb-4">
-                                <img class="img-fluid" src="img/fotos/comedores/publico_COMEDOR.jpg" alt="Menu Público Comedor">
+                                <img class="img-fluid" src="img/fotos/comedores/Menu-Publico-Comedor.jpg" alt="Menu Público Comedor">
                                 <a>
                                     <div class="mask rgba-white-slight"></div>
                                 </a>
@@ -168,7 +168,7 @@
                             <a href="img/menus/menu_publico_comedor.pdf" target="_blank" class="btn btn-outline-green btn-block waves-effect d-block d-lg-none font-weight-bold">
                                 Conoce nuestro menú
                             </a>
-                            <a href="https://www.rappi.com.mx/restaurantes/pblico-comedor" target="_blank" class="btn btn-outline-green btn-block waves-effect d-block d-lg-none font-weight-bold">
+                            <a href="https://www.ubereats.com/es-MX/mexico-city/food-delivery/publico-comedor/8VPb8EzdTyuZboTOlutUSg/" target="_blank" class="btn btn-outline-green btn-block waves-effect d-block d-lg-none font-weight-bold">
                                 Pide a Domicilio
                             </a>
                         </div>
@@ -200,7 +200,7 @@
                             <a href="img/menus/menu_publico_itacate.pdf" target="_blank" class="btn btn-outline-green btn-block waves-effect d-none d-lg-block mt-5 font-weight-bold">
                                 Conoce nuestro menú
                             </a>
-                            <a href="https://www.rappi.com.mx/restaurantes/pblico-itacate" target="_blank" class="btn btn-outline-green btn-block waves-effect d-none d-lg-block font-weight-bold">
+                            <a href="https://www.ubereats.com/es-MX/mexico-city/food-delivery/publico-itacate/sr_n8w9xRW2UvUUPz-Ug2Q/" target="_blank" class="btn btn-outline-green btn-block waves-effect d-none d-lg-block font-weight-bold">
                                 Pide a Domicilio
                             </a>
                         </div>
@@ -210,7 +210,7 @@
                         <div class="col-lg-5 order-lg-first white wow fadeInLeft p-4 mb-5">
                             <!-- Featured image -->
                             <div class="overlay rounded z-depth-1 mb-lg-0 mb-4">
-                                <img class="img-fluid" src="img/fotos/comedores/publico_ITACATE.jpg" alt="Público Itacate CDMX">
+                                <img class="img-fluid" src="img/fotos/comedores/Publico-Itacate-CDMX.jpg" alt="Público Itacate CDMX">
                                 <a>
                                     <div class="mask rgba-white-slight"></div>
                                 </a>
@@ -218,7 +218,7 @@
                             <a href="img/menus/menu_publico_itacate.pdf" target="_blank" class="btn btn-outline-green btn-block waves-effect d-block d-lg-none font-weight-bold">
                                 Conoce nuestro menú
                             </a>
-                            <a href="https://www.rappi.com.mx/restaurantes/publico-itacate" target="_blank" class="btn btn-outline-green btn-block waves-effect d-block d-lg-none font-weight-bold">
+                            <a href="https://www.ubereats.com/es-MX/mexico-city/food-delivery/publico-itacate/sr_n8w9xRW2UvUUPz-Ug2Q/" target="_blank" class="btn btn-outline-green btn-block waves-effect d-block d-lg-none font-weight-bold">
                                 Pide a Domicilio
                             </a>
                         </div>
@@ -265,17 +265,19 @@
                         <div class="col-lg-5 order-lg-first white wow fadeInLeft p-4 mb-5">
                             <!-- Featured image -->
                             <div class=" overlay rounded z-depth-1 mb-lg-0 mb-4">
-                                <img class="img-fluid" src="img/fotos/comedores/comedor_Puebla_PROX.jpg" alt="Público Comedor Condesa">
+                                <img class="img-fluid" src="img/fotos/comedores/Publico-Comedor-Condesa.jpg" alt="Público Comedor Condesa">
                                 <a>
                                     <div class="mask rgba-white-slight"></div>
                                 </a>
                             </div>
+<!--
                             <a class="btn btn-outline-green btn-block waves-effect d-block d-lg-none font-weight-bold">
                                 Conoce nuestro menú
                             </a>
                             <a class="btn btn-outline-green btn-block waves-effect d-block d-lg-none font-weight-bold">
                                 Pide a Domicilio
                             </a>
+-->
                         </div>
                         <!-- Grid column -->
                     </div>
@@ -316,7 +318,7 @@
                         <div class="col-lg-5 order-lg-first white wow fadeInLeft p-4 mb-5">
                             <!-- Featured image -->
                             <div class=" overlay rounded z-depth-1 mb-lg-0 mb-4">
-                                <img class="img-fluid" src="img/fotos/comedores/comedor_CATERING.jpg" alt="Catering CDMX">
+                                <img class="img-fluid" src="img/fotos/comedores/Catering-CDMX.jpg" alt="Catering CDMX">
                                 <a>
                                     <div class="mask rgba-white-slight"></div>
                                 </a>
@@ -341,7 +343,7 @@
 
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-12 my-4">
+            <div class="col-12 col-md-10 my-4">
                 <div id='map' class="alturasMapa" style='width: 100%;'></div>
             </div>
         </div>
@@ -351,6 +353,8 @@
     <?php require('require/info-contacto.php'); ?>
 
     <?php require('require/footer.php'); ?>
+
+    <script src='https://api.mapbox.com/mapbox-gl-js/v0.51.0/mapbox-gl.js'></script>
 
     <?php require('require/scripts.php'); ?>
 

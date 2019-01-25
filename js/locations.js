@@ -67,7 +67,7 @@
             .setPopup(popup2) // sets a popup on this marker
             .addTo(map);
 
-         // create the marker Seneca
+         // create the marker Muzquiz
         new mapboxgl.Marker(el3)
             .setLngLat(muzquiz)
             .setPopup(popup3) // sets a popup on this marker

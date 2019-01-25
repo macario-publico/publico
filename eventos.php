@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="shortcut icon" href="../img/favicon.png" />
+    <link rel="shortcut icon" href="img/favicon.png" />
     <title> PÚBLICO Eventos | Eventos CDMX, Coworking CDMX | Cowork CDMX | Coworking DF</title>
     <meta name="description" content="Eventos, Público, Polanco, Coworking México CDMX,  Coworking DF, Cowork CDMX, Renta de oficinas DF, Condesa, Polanco, San Miguel Chapultepec, Cowork México, Coworking CDMX" />
     <meta name="keywords" content=" Eventos, Condesa CDMX, Coworking México, Cowork México, Cowork, Cowork D.F., Coworking, Coworking CDMX, Coworking DF, Coworking Ciudad de Mexico, Cowork DF, Cowork CDMX, Renta de Oficinas, Renta de Modernas Oficinas, escritorio privado, Renta tu propia oficina en CDMX, Coworking Condesa, Coworking Polanco, Coworking San Miguel Chapultepec, Oficinas virtuales, coworking en renta, estudio fotográfico, renta de oficinas en CDMX, Coworking la roma cdmx, coworking roma cdmx, coworking reforma cdmx, renta de oficinas DF ,espacio de trabajo, espacio de oficina, espacios compartidos de trabajo, oficinas compartidas, oficinas amuebladas, sala de juntas, Condesa, Polanco, San Miguel Chapultepec, estudio de fotografia, Público Comedor. Pablo Salas, chef Pablo Salas. Moliere 50 " />
@@ -127,7 +127,7 @@
                 </div>
             </div>
             <div class="col-12 text-center">
-                <img src="img/fotos/eventos/publico_coworking_EVENTOS_galeria1.jpg" alt="Espacio para eventos CDMX" class="mx-auto d-block img-fluid">
+                <img src="img/fotos/eventos/Espacio-para-eventos-CDMX.jpg" alt="Espacio para eventos CDMX" class="mx-auto d-block img-fluid">
             </div>
         </div>
     </div>

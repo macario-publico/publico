@@ -147,7 +147,7 @@
 
             <div class="row justify-content-around">
                 <div class="col-12 col-lg-10">
-                    <img src="img/fotos/about/PUBLICO_COWORKING_CREDO.jpg" alt="Acerca de Público Coworking" class="img-fluid d-block mx-auto">
+                    <img src="img/fotos/about/Acerca-de-Publico-Coworking.jpg" alt="Acerca de Público Coworking" class="img-fluid d-block mx-auto">
                     <ul class="text-body mt-5">
                         <li class="my-3"><span class="font-weight-bold">Creemos</span> en el bienestar individual y colectivo</li>
                         <li class="my-3"><span class="font-weight-bold">Creemos</span> en el debate y en la colaboración con mentes creativas.</li>
@@ -177,8 +177,22 @@
     <?php require('require/info-contacto.php'); ?>
 
     <?php require('require/footer.php'); ?>
+    <!-- JQuery -->
+    <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+    <!-- Bootstrap tooltips -->
+    <script type="text/javascript" src="js/popper.min.js"></script>
+    <!-- Bootstrap core JavaScript -->
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <!-- MDB core JavaScript -->
+    <script type="text/javascript" src="js/mdb.min.js"></script>
 
-    <?php require('require/scripts.php'); ?>
+    <script src="greensock/TweenMax.min.js"></script>
+    <script src="js/jquery.easing.1.3.min.js"></script>
+    <script src="js/animatescroll.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/jquery.bootstrap-autohidingnavbar.js"></script>
+    <script src="js/jquery.nivo.slider.min.js"></script>
+    <script src="js/custom.js"></script>
 
 
 </body>

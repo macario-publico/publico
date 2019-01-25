@@ -132,7 +132,7 @@
         </div>
         <div class="container mb-5">
             <div class="row justify-content-center ">
-                <div class="col-12 my-4">
+                <div class="col-12 col-md-10 my-4">
                     <div id='map' class="alturasMapa" style='width: 100%;'></div>
                 </div>
             </div>
@@ -182,7 +182,7 @@
                         <div class="col-12 col-lg-5 order-lg-first mb-5">
                             <!-- Featured image -->
                             <div class=" overlay rounded z-depth-1 mb-lg-0 mb-4">
-                                <img class="img-fluid" src="../img/fotos/muzquiz/Estudio-Fotografico-en-CDMX.jpg" alt="Estudio Fotográfico en CDMX">
+                                <img class="lazy img-fluid" data-src="../img/fotos/muzquiz/Estudio-Fotografico-en-CDMX.jpg" alt="Estudio Fotográfico en CDMX">
                                 <a>
                                     <div class="mask rgba-white-slight"></div>
                                 </a>
@@ -210,7 +210,7 @@
                         <div class="col-lg-5 order-lg-last">
                             <!-- Featured image -->
                             <div class=" overlay rounded z-depth-1 mb-lg-0 mb-4">
-                                <img class="img-fluid" src="../img/fotos/muzquiz/Publico-Itacate-CDMX.jpg" alt="Público Itacate CDMX">
+                                <img class="lazy img-fluid" data-src="../img/fotos/muzquiz/Publico-Itacate-CDMX.jpg" alt="Público Itacate CDMX">
                                 <a>
                                     <div class="mask rgba-white-slight"></div>
                                 </a>
@@ -233,7 +233,7 @@
                             <a href="../img/menus/publico_comedor_menu.pdf" target="_blank" class="btn btn-outline-green btn-block waves-effect mt-5 font-weight-bold">
                                 Conoce nuestro menú
                             </a>
-                            <a href="https://www.rappi.com.mx/restaurantes/pblico-comedor" target="_blank" class="btn btn-outline-green btn-block waves-effect font-weight-bold">
+                            <a href="https://www.ubereats.com/es-MX/mexico-city/food-delivery/publico-itacate/sr_n8w9xRW2UvUUPz-Ug2Q/" target="_blank" class="btn btn-outline-green btn-block waves-effect font-weight-bold">
                                 Pide a Domicilio
                             </a>
 
@@ -254,9 +254,23 @@
 
     <?php require('require2/footer.php'); ?>
 
+     <script src='https://api.mapbox.com/mapbox-gl-js/v0.51.0/mapbox-gl.js'></script>
+
     <?php require('require2/scripts.php'); ?>
 
+    <script src="require2/locations.js"></script>
 
+    <script>
+        $(function() {
+            $('.lazy').lazy({
+                combined: true,
+                delay: 3500,
+                effect: "fadeIn",
+                effectTime: 1000,
+                threshold: 0
+            });
+        });
+    </script>
 
 </body>
 

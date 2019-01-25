@@ -20,7 +20,7 @@
                                 <div class="card p-3">
                                     <!-- Card image -->
                                     <div class="overlay">
-                                        <img class="card-img-top" src="img/fotos/seneca/publico_coworking_SENECA_membresia_COWORKING.jpg" alt="Membresías Escritorios de coworking">
+                                        <img class="card-img-top" src="img/fotos/membresias/Membresias-escritorios-de-coworking.jpg" alt="Membresías Escritorios de coworking">
                                         <a href="#">
                                             <div class="mask rgba-white-slight"></div>
                                         </a>
@@ -51,7 +51,7 @@
 
                                     <!-- Card image -->
                                     <div class="overlay">
-                                        <img class="card-img-top" src="img/membresia.jpg" alt="Membresías Oficinas Privadas">
+                                        <img class="card-img-top" src="img/fotos/membresias/Membresias-Oficinas-Privadas.jpg" alt="Membresías Oficinas Privadas">
                                         <a href="#">
                                             <div class="mask rgba-white-slight"></div>
                                         </a>

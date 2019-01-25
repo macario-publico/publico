@@ -8,6 +8,8 @@
 
     <?php require('require/head.php'); ?>
     <link rel="stylesheet" href="css/muzquiz.css">
+    <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/v0.51.0/mapbox-gl.css'  />
+    <link rel="stylesheet" href="css/locations.css">
 </head>
 
 <body>
@@ -102,7 +104,7 @@
 
     <div class="container">
         <div class="row justify-content-center ">
-            <div class="col-12 my-4">
+            <div class="col-12 col-md-10 my-4">
                 <div id='map' class="alturasMapa" style='width: 100%;'></div>
             </div>
         </div>
@@ -138,7 +140,22 @@
 
     <?php include('require/footer.php'); ?>
 
+    <script src='https://api.mapbox.com/mapbox-gl-js/v0.51.0/mapbox-gl.js'></script>
+
     <?php include('require/scripts.php'); ?>
+    <script src="js/locations.js" async></script>
+
+    <script>
+        $(function() {
+            $('.lazy').lazy({
+                combined: true,
+                delay: 3500,
+                effect: "fadeIn",
+                effectTime: 1000,
+                threshold: 0
+            });
+        });
+    </script>
 
 
 </body>

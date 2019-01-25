@@ -9,7 +9,7 @@
 
                         <a href="coworking/coworking-cdmx-muzquiz">
                             <div class="overlay">
-                                <img class="card-img-top" src="img/fotos/home/Coworking-Mexico-en-San-Miguel-Chapultepec.jpg" alt="Coworking México en San Miguel Chapultepec">
+                                <img class="lazy card-img-top" src="img/fotos/home/Coworking-Mexico-en-San-Miguel-Chapultepec.jpg" alt="Coworking México en San Miguel Chapultepec">
                                 <a href="#">
                                     <div class="mask rgba-white-slight"></div>
                                 </a>
@@ -40,7 +40,7 @@
                         <!-- Card image -->
                         <a href="coworking/coworking-cdmx-puebla">
                             <div class="overlay">
-                                <img class="card-img-top" src="img/fotos/home/Coworkin-Mexico-Condesa.jpg" alt="Coworking México en Condesa">
+                                <img class="lazy card-img-top" src="img/fotos/home/Coworkin-Mexico-Condesa.jpg" alt="Coworking México en Condesa">
                                 <a href="#">
                                     <div class="mask rgba-white-slight"></div>
                                 </a>
@@ -76,7 +76,7 @@
                         <!-- Card image -->
                         <a href="coworking/coworking-cdmx-moliere">
                             <div class="overlay">
-                                <img class="card-img-top" src="img/fotos/home/Coworkin-Mexico-en-Polanco.jpg" alt="Coworking México en Polanco">
+                                <img class="lazy card-img-top" src="img/fotos/home/Coworkin-Mexico-en-Polanco.jpg" alt="Coworking México en Polanco">
                                 <a href="#">
                                     <div class="mask rgba-white-slight"></div>
                                 </a>
@@ -107,7 +107,7 @@
                         <!-- Card image -->
                         <a href="coworking/coworking-cdmx-seneca">
                             <div class="overlay">
-                                <img class="card-img-top" src="img/fotos/home/Coworking-CDMX-en-Polanco.jpg" alt="Coworking CDMX en Polanco">
+                                <img class="lazy card-img-top" src="img/fotos/home/Coworking-CDMX-en-Polanco.jpg" alt="Coworking CDMX en Polanco">
                                 <a href="#">
                                     <div class="mask rgba-white-slight"></div>
                                 </a>
@@ -149,7 +149,7 @@
         <div class="col-12 col-md-6">
             <!-- Featured image -->
             <div class="overlay rounded z-depth-1 mb-lg-0 mb-4">
-                <img class="img-fluid" src="img/fotos/home/Publico-Juarez.jpg" alt="PÚBLICO Juárez">
+                <img class="lazy img-fluid" src="img/fotos/home/Publico-Juarez.jpg" alt="PÚBLICO Juárez">
                 <a>
                     <div class="mask rgba-white-slight"></div>
                 </a>
@@ -162,7 +162,7 @@
             <!-- Post title -->
             <h1 class="sans-bold f-title mb-3">PÚBLICO Juárez</h1>
             <!-- Excerpt -->
-            <p class="card-text">Verano 2019</p>
+            <p class="card-text">Marzo 2019</p>
             <!-- Read more button -->
             <a class="btn white-text mdb-color darken-4 btn-md" href="coworking/coworking-cdmx-hamburgo-juarez">Conoce más</a>
         </div>
@@ -177,7 +177,7 @@
         <div class="col-12 col-md-6">
             <!-- Featured image -->
             <div class=" overlay rounded z-depth-1 mb-lg-0 mb-4">
-                <img class="img-fluid" src="img/fotos/home/Publico-Lomas.jpg" alt="PÚBLICO Lomas">
+                <img class="lazy img-fluid" src="img/fotos/home/Publico-Lomas.jpg" alt="PÚBLICO Lomas">
                 <a>
                     <div class="mask rgba-white-slight"></div>
                 </a>
@@ -190,7 +190,7 @@
             <!-- Post title -->
             <h1 class="sans-bold f-title mb-3">PÚBLICO Lomas</h1>
             <!-- Excerpt -->
-            <p class="card-text">Marzo 2019</p>
+            <p class="card-text">Verano 2019</p>
             <!-- Read more button -->
             <a class="btn white-text mdb-color darken-4 btn-md" href="coworking/coworking-cdmx-lomas">Conoce más</a>
         </div>

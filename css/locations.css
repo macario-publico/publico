@@ -64,9 +64,26 @@
 
 
         #marker, #marker2, #marker3, #marker4, #marker5, #marker6  {
-            background-image: url('https://publi.co/icon-map.png');
             background-size: cover;
             width: 30px;
             height: 30px;
             cursor: pointer;
         }
+#marker{
+     background-image:url(../img/map-icons/mapa-puebla.svg);
+}
+#marker2{
+     background-image:url(../img/map-icons/mapa-seneca.svg);
+}
+#marker3{
+     background-image:url(../img/map-icons/mapa-muzquiz.svg);
+}
+#marker4{
+     background-image:url(../img/map-icons/mapa-moliere.svg);
+}
+#marker5{
+     background-image:url(../img/map-icons/mapa-juarez.svg);
+}
+#marker6{
+     background-image:url(../img/map-icons/mapa-prado.svg);
+}

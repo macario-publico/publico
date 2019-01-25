@@ -51,6 +51,9 @@
     .mt-negativo2 {
         margin-top: -500px;
     }
+    .mt-negativo-comedor{
+    margin-top: -500px;
+}
 
     .mt-negativo3 {
         margin-top: -600px;
@@ -74,7 +77,7 @@
     }
 
     .alturasMapa {
-        height: 500px;
+        height: 400px;
     }
 
 
@@ -89,31 +92,31 @@
     }
 
     #slide-comedores {
-        background-image: url(../img/fotos/comedores/publico_coworking_COMEDORES_primerslide.jpg);
+        background-image: url(../img/fotos/comedores/Publico-Comedor.jpg);
     }
 
     #slide-about {
-        background-image: url(../img/fotos/about/publico_coworking_ABOUT-US-primerslide.jpg);
+        background-image: url(../img/fotos/about/Publico-Coworking-Sobre-nosotros.jpg);
     }
 
     #slide-estudio {
-        background-image: url(../img/fotos/estudio/publico_coworking_ESTUDIO-DE-FOTOGRAFIA_primerslide.jpg);
+        background-image: url(../img/fotos/estudio/Publico-Renta-de-estudio-fotografico-cdmx.jpg);
     }
 
     #slide-press {
-        background-image: url(../img/fotos/press/publico_coworking_press.jpg);
+        background-image: url(../img/fotos/press/Publico-press.jpg);
     }
 
     #slide-membresias {
-        background-image: url(../img/fotos/membresias/publico_coworking_MEMBRESIA_primerslide.jpg);
+        background-image: url(../img/fotos/membresias/Publico-membresias.jpg);
     }
 
     #slide-eventos {
-        background-image: url(../img/fotos/eventos/publico_coworking_EVENTOS_primerslide.jpg);
+        background-image: url(../img/fotos/eventos/Publico-eventos.jpg);
     }
 
     #slide-colaboradores {
-        background-image: url(../img/fotos/colaboradores/publico_coworking_COLABORADORES_primerslide.jpg);
+        background-image: url(../img/fotos/colaboradores/Publico-colaboradores.jpg);
     }
 
     #slide-contacto {
@@ -157,6 +160,9 @@
     .mt-negativo2 {
         margin-top: -500px;
     }
+    .mt-negativo-comedor{
+    margin-top: -500px;
+}
 
 }
 
@@ -170,4 +176,7 @@
     .mt-negativo2 {
         margin-top: -200px;
     }
+    .mt-negativo-comedor{
+    margin-top: -200px;
+}
 }

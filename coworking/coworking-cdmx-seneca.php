@@ -68,6 +68,7 @@
     <?php require('require2/head.php'); ?>
 
     <link rel="stylesheet" href="../css/muzquiz.css">
+
 </head>
 
 <body>
@@ -128,7 +129,7 @@
         </div>
         <div class="container mb-5">
             <div class="row justify-content-center ">
-                <div class="col-12 my-4">
+                <div class="col-12 col-md-10 my-4">
                     <div id='map' class="alturasMapa" style='width: 100%;'></div>
                 </div>
             </div>
@@ -180,6 +181,10 @@
     <?php require('require2/footer.php'); ?>
 
     <?php require('require2/scripts.php'); ?>
+
+     <script src='https://api.mapbox.com/mapbox-gl-js/v0.51.0/mapbox-gl.js'></script>
+
+    <script src="require2/locations.js"></script>
 
 </body>
 

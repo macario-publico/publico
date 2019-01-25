@@ -141,7 +141,7 @@
 
             <div class="row justify-content-center">
                 <div class="col-12 col-lg-10">
-                    <img src="../img/fotos/estudio/PUBLICO_COWORKING_estudiofoto.jpg" alt="Renta de Estudio fotográfico CDMX" class="img-fluid d-block mx-auto">
+                    <img src="../img/fotos/estudio/Renta-de-estudio-fotografico-cdmx.jpg" alt="Renta de Estudio fotográfico CDMX" class="img-fluid d-block mx-auto">
                     <h5 class="titulos sans-bold mt-5">Características</h5>
                     <p class="subtitulo">La renta de este espacio incluye:</p>
                     <ul class="subtitulo mt-3">

@@ -1,12 +1,12 @@
 <section id="galeria">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-md-8">
+            <div class="col-md-7">
                 <div class="slider-wrapper theme-default">
                     <div id="slider" class="nivoSlider">
-                        <img src="img/fotos/comedores/Pablo-Salas-en-Publico.jpg" alt="Pablo Salas en PÚBLICO" />
-                        <img src="img/fotos/comedores/Publico-Comedor.jpg" alt="PÚBLICO Comedor" />
-                        <img src="img/fotos/comedores/Itacate-CDMX.jpg" alt="Itacate CDMX" />
+                        <img class="lazy" data-src="img/fotos/home/galeria/Pablo-Salas-en-Publico.jpg" alt="Pablo Salas en PÚBLICO" />
+                        <img class="lazy" data-src="img/fotos/home/galeria/Publico-Comedor.jpg" alt="PÚBLICO Comedor" />
+                        <img class="lazy" data-src="img/fotos/home/galeria/Itacate-CDMX.jpg" alt="Itacate CDMX" />
                     </div>
 <!--
                     <div id="htmlcaption" class="nivo-html-caption">

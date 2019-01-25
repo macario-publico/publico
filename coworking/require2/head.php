@@ -13,5 +13,4 @@
 <link rel="stylesheet" href="../css/responsive.css">
 <link rel="stylesheet" href="../css/helper.css">
 <link href='https://api.mapbox.com/mapbox-gl-js/v0.51.0/mapbox-gl.css' rel='stylesheet' />
-<script src='https://api.mapbox.com/mapbox-gl-js/v0.51.0/mapbox-gl.js'></script>
 <link rel="stylesheet" href="../css/locations.css">

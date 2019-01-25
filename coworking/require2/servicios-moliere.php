@@ -15,7 +15,7 @@
                 <div>
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-8 my-3 altura-serv">
-                            <img src="../img/iconos/servicios/Accesos-a-personas-con discapacidad.svg" class="servIcon" alt="Acceso a personas con discapacidad">
+                            <img src="../img/iconos/servicios/Accesos-a-personas-con-discapacidad.svg" class="servIcon" alt="Acceso a personas con discapacidad">
                             <h5 class="mt-3">Acceso a personas con discapacidad</h5>
                         </div>
                         <div class="col-12 col-md-8 my-3 altura-serv">
@@ -97,12 +97,12 @@
                 <div>
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-8 my-3 altura-serv">
-                            <img src="../img/iconos/servicios/Terrazas-y-areas comunes.svg" class="servIcon" alt="Terrazas y áreas comunes">
+                            <img src="../img/iconos/servicios/Terrazas-y-areas-comunes.svg" class="servIcon" alt="Terrazas y áreas comunes">
                             <h5 class="mt-3">Terrazas y áreas comunes</h5>
                         </div>
                         <div class="col-12 col-md-8 my-3 altura-serv">
                             <img src="../img/iconos/servicios/Salas-de-juntas-con-equipo-de-videoconferencia-y-apple-tv.svg" class="servIcon" alt="Salas de juntas con equipo de videoconferencias y App TV">
-                            <h5 class="mt-3">Salas de juntas con equipo de videoconferencias y App TV</h5>
+                            <h5 class="mt-3">Salas de juntas con equipo de videoconferencias y Apple TV</h5>
                         </div>
                     </div>
                 </div>

@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="shortcut icon" href="../img/favicon.png" />
+    <link rel="shortcut icon" href="img/favicon.png" />
 
     <title> PÚBLICO Colaboradores | Coworking CDMX Moliere 50 | Cowork CDMX | Coworking DF</title>
     <meta name="description" content=" Colaboradores en Público, Polanco, Coworking México CDMX,  Coworking DF, Cowork CDMX, Renta de oficinas DF, Condesa, Polanco, San Miguel Chapultepec, Cowork México, Coworking CDMX" />
@@ -138,7 +138,7 @@
                         <div class="col-lg-5 p-4 white wow fadeInRight">
                             <!-- Featured image -->
                             <div class="overlay rounded z-depth-1 mb-lg-0 mb-4">
-                                <img class="img-fluid" src="img/colaboradores/Pablo_Salas_.jpg" alt="Chef Pablo Salas en Público">
+                                <img class="img-fluid" src="img/fotos/colaboradores/Chef-Pablo-Salas-en-Publico.jpg" alt="Chef Pablo Salas en Público">
                                 <a>
                                     <div class="mask rgba-white-slight"></div>
                                 </a>
@@ -171,7 +171,7 @@
                         <div class="col-lg-5 p-4 white wow fadeInRight">
                             <!-- Featured image -->
                             <div class="overlay rounded z-depth-1 mb-lg-0 mb-4">
-                                <img class="img-fluid" src="img/fotos/colaboradores/publico_coworking_colaborador_alfonso_velarde.jpg" alt="Alfonso López Velarde en Público">
+                                <img class="img-fluid" src="img/fotos/colaboradores/Alfonso-Lopez-Velarde-en-Publico.jpg" alt="Alfonso López Velarde en Público">
                                 <a>
                                     <div class="mask rgba-white-slight"></div>
                                 </a>
@@ -216,7 +216,7 @@
                         <div class="col-lg-5 p-4 white">
                             <!-- Featured image -->
                             <div class="overlay rounded z-depth-1 mb-lg-0 mb-4">
-                                <img class="img-fluid" src="img/fotos/colaboradores/publico_coworking_colaborador_allan_llegaspi.jpg" alt="Allan Legaspi en Público">
+                                <img class="img-fluid" src="img/fotos/colaboradores/Allan-Legaspi-en-Publico.jpg" alt="Allan Legaspi en Público">
                                 <a>
                                     <div class="mask rgba-white-slight"></div>
                                 </a>
@@ -253,7 +253,7 @@
                         <div class="col-lg-5 p-4 white">
                             <!-- Featured image -->
                             <div class="overlay rounded z-depth-1 mb-lg-0 mb-4">
-                                <img class="img-fluid" src="img/fotos/colaboradores/publico_coworking_colaborador_cecilia_leon_delabarra.jpg" alt="Cecilia León de la Barra en Público">
+                                <img class="img-fluid" src="img/fotos/colaboradores/Cecilia-Leon-de-la-Barra-en-Publico.jpg" alt="Cecilia León de la Barra en Público">
                                 <a>
                                     <div class="mask rgba-white-slight"></div>
                                 </a>
@@ -297,7 +297,7 @@
                         <div class="col-lg-5 p-4 white">
                             <!-- Featured image -->
                             <div class="overlay rounded z-depth-1 mb-lg-0 mb-4">
-                                <img class="img-fluid" src="img/fotos/colaboradores/publico_coworking_colaborador_Hagerman.jpg" alt="Jerónimo Hagerman en Público">
+                                <img class="img-fluid" src="img/fotos/colaboradores/Jeronimo-Hagerman-en-Publico.jpg" alt="Jerónimo Hagerman en Público">
                                 <a>
                                     <div class="mask rgba-white-slight"></div>
                                 </a>
@@ -334,7 +334,7 @@
                         <div class="col-lg-5 p-4 white wow fadeInRight">
                             <!-- Featured image -->
                             <div class="overlay rounded z-depth-1 mb-lg-0 mb-4">
-                                <img class="img-fluid" src="img/fotos/colaboradores/publico_coworking_colaborador_Pablo_Kobayashi.jpg" alt="Pablo Kobayashi en Público">
+                                <img class="img-fluid" src="img/fotos/colaboradores/Pablo-Kobayashi-en-Publico.jpg" alt="Pablo Kobayashi en Público">
                                 <a>
                                     <div class="mask rgba-white-slight"></div>
                                 </a>

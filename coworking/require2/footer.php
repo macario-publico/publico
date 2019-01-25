@@ -7,7 +7,9 @@
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent-7">
                 <ul class="navbar-nav align-items-center mr-auto">
-                    <a href="../contacto/publico-trabajo-contacto" class="btn btn-white btn-menu-contacto">Contacto</a>
+                    <li>
+                        <a href="../contacto/publico-trabajo-contacto" class="btn btn-white btn-menu-contacto">Contacto</a>
+                    </li>
                 </ul>
 
                 <ul class="navbar-nav align-items-center ml-auto">

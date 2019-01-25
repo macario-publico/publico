@@ -20,7 +20,7 @@
 
                                     <!-- Card image -->
                                     <div class="overlay">
-                                        <img class="card-img-top" src="../img/fotos/puebla/publico_coworking_PUEBLA_membresia_OFICINA_PRIVADA.jpg" alt="Membresías Oficinas Privadas">
+                                        <img class="card-img-top" src="../img/fotos/puebla/Oficinas-privadas-en-Condesa.jpg" alt="Membresías Oficinas Privadas">
                                         <a href="#">
                                             <div class="mask rgba-white-slight"></div>
                                         </a>

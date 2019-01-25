@@ -251,3 +251,12 @@ function toggleRedes() {
         tl.play();
     }
 }
+
+
+//LazyLoad Images
+
+//$(function() {
+//     $("img.lazyload").lazyload({
+//         threshold: 200
+//     });
+//});

@@ -5,9 +5,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+     <title> PÚBLICO Lomas | Coworking CDMX</title>
     <link rel="shortcut icon" href="../img/favicon.png" />
     <?php require('require2/head.php'); ?>
-    <link rel="stylesheet" href="css/muzquiz.css">
+    <link rel="stylesheet" href="../css/muzquiz.css">
 </head>
 
 <body>
@@ -68,7 +69,7 @@
         </div>
         <div class="container mb-5">
             <div class="row justify-content-center">
-                <div class="col-12 my-4">
+                <div class="col-12 col-md-10 my-4">
                     <div id='map' class="alturasMapa" style='width: 100%;'></div>
                 </div>
             </div>
@@ -78,7 +79,11 @@
 
         <?php require('require2/footer.php'); ?>
 
+         <script src='https://api.mapbox.com/mapbox-gl-js/v0.51.0/mapbox-gl.js'></script>
+
         <?php require('require2/scripts.php'); ?>
+
+        <script src="require2/locations.js"></script>
 </body>
 
 </html>
