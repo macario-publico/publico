@@ -21,7 +21,7 @@
                         <div class="col-lg-5">
                             <!-- Featured image -->
                             <div class=" overlay rounded z-depth-1 mb-lg-0 mb-4">
-                                <img class="lazy img-fluid" data-src="img/fotos/colaboradores/Cecilia-Leon-de-la-Barra-en-Publico.jpg" alt="Cecilia León de la Barra en PÚBLICO">
+                                <img class="lazy img-fluid" src="img/pixel.gif" data-src="img/fotos/colaboradores/Cecilia-Leon-de-la-Barra-en-Publico.jpg" alt="Cecilia León de la Barra en PÚBLICO">
                                 <a>
                                     <div class="mask rgba-white-slight"></div>
                                 </a>
@@ -59,7 +59,7 @@
                         <div class="col-lg-5">
                             <!-- Featured image -->
                             <div class="overlay rounded z-depth-1 mb-lg-0 mb-4">
-                                <img class="lazy img-fluid" data-src="img/fotos/colaboradores/Chef-Pablo-Salas-en-Publico.jpg" alt="Pablo Salas en PÚBLICO">
+                                <img class="lazy img-fluid" src="img/pixel.gif" data-src="img/fotos/colaboradores/Chef-Pablo-Salas-en-Publico.jpg" alt="Pablo Salas en PÚBLICO">
                                 <a>
                                     <div class="mask rgba-white-slight"></div>
                                 </a>
@@ -100,7 +100,7 @@
                         <div class="col-lg-5">
                             <!-- Featured image -->
                             <div class=" overlay rounded z-depth-1 mb-lg-0 mb-4">
-                                <img class="lazy img-fluid" data-src="img/fotos/colaboradores/Alfonso-Lopez-Velarde-en-Publico.jpg" alt="Alfonso López Velarde en PÚBLICO">
+                                <img class="lazy img-fluid" src="img/pixel.gif" data-src="img/fotos/colaboradores/Alfonso-Lopez-Velarde-en-Publico.jpg" alt="Alfonso López Velarde en PÚBLICO">
                                 <a>
                                     <div class="mask rgba-white-slight"></div>
                                 </a>
@@ -141,7 +141,7 @@
                         <div class="col-lg-5">
                             <!-- Featured image -->
                             <div class=" overlay rounded z-depth-1 mb-lg-0 mb-4">
-                                <img class="lazy img-fluid" data-src="img/fotos/colaboradores/Allan-Legaspi-en-Publico.jpg" alt="Alan Legaspi en PÚBLICO">
+                                <img class="lazy img-fluid" src="img/pixel.gif" data-src="img/fotos/colaboradores/Allan-Legaspi-en-Publico.jpg" alt="Alan Legaspi en PÚBLICO">
                                 <a>
                                     <div class="mask rgba-white-slight"></div>
                                 </a>
@@ -182,7 +182,7 @@
                         <div class="col-lg-5">
                             <!-- Featured image -->
                             <div class=" overlay rounded z-depth-1 mb-lg-0 mb-4">
-                                <img class="lazy img-fluid" data-src="img/fotos/colaboradores/Jeronimo-Hagerman-en-Publico.jpg" alt="Jerónimo Hagerman en PÚBLICO">
+                                <img class="lazy img-fluid" src="img/pixel.gif" data-src="img/fotos/colaboradores/Jeronimo-Hagerman-en-Publico.jpg" alt="Jerónimo Hagerman en PÚBLICO">
                                 <a>
                                     <div class="mask rgba-white-slight"></div>
                                 </a>

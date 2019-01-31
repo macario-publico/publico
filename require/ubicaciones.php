@@ -9,7 +9,7 @@
 
                         <a href="coworking/coworking-cdmx-muzquiz">
                             <div class="overlay">
-                                <img class="lazy card-img-top" src="img/fotos/home/Coworking-Mexico-en-San-Miguel-Chapultepec.jpg" alt="Coworking México en San Miguel Chapultepec">
+                                <img class="lazy card-img-top" src="img/fotos/home/Coworking-Mexico-en-San-Miguel-Chapultepec.jpg" alt="Coworking Mexico en San Miguel Chapultepec">
                                 <a href="#">
                                     <div class="mask rgba-white-slight"></div>
                                 </a>
@@ -40,7 +40,7 @@
                         <!-- Card image -->
                         <a href="coworking/coworking-cdmx-puebla">
                             <div class="overlay">
-                                <img class="lazy card-img-top" src="img/fotos/home/Coworkin-Mexico-Condesa.jpg" alt="Coworking México en Condesa">
+                                <img class="lazy card-img-top" src="img/fotos/home/Coworkin-Mexico-Condesa.jpg" alt="Coworking Mexico en Condesa">
                                 <a href="#">
                                     <div class="mask rgba-white-slight"></div>
                                 </a>
@@ -76,7 +76,7 @@
                         <!-- Card image -->
                         <a href="coworking/coworking-cdmx-moliere">
                             <div class="overlay">
-                                <img class="lazy card-img-top" src="img/fotos/home/Coworkin-Mexico-en-Polanco.jpg" alt="Coworking México en Polanco">
+                                <img class="lazy card-img-top" src="img/fotos/home/Coworkin-Mexico-en-Polanco.jpg" alt="Coworking Mexico en Polanco">
                                 <a href="#">
                                     <div class="mask rgba-white-slight"></div>
                                 </a>
@@ -149,7 +149,7 @@
         <div class="col-12 col-md-6">
             <!-- Featured image -->
             <div class="overlay rounded z-depth-1 mb-lg-0 mb-4">
-                <img class="lazy img-fluid" src="img/fotos/home/Publico-Juarez.jpg" alt="PÚBLICO Juárez">
+                <img class="lazy img-fluid" src="img/fotos/home/Publico-Juarez.jpg" alt="PUBLICO Juarez">
                 <a>
                     <div class="mask rgba-white-slight"></div>
                 </a>
@@ -177,7 +177,7 @@
         <div class="col-12 col-md-6">
             <!-- Featured image -->
             <div class=" overlay rounded z-depth-1 mb-lg-0 mb-4">
-                <img class="lazy img-fluid" src="img/fotos/home/Publico-Lomas.jpg" alt="PÚBLICO Lomas">
+                <img class="lazy img-fluid" src="img/fotos/home/Publico-Lomas.jpg" alt="PUBLICO Lomas">
                 <a>
                     <div class="mask rgba-white-slight"></div>
                 </a>

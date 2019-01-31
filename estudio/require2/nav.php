@@ -10,11 +10,11 @@
             <a href="../contacto/publico-trabajo-contacto" class="btn btn-white btn-menu-contacto float-right">Contacto</a>
         </div>
 
-        <a class="navbar-toggler" data-toggle="collapse" data-target="#navbarSupportedContent-7" aria-controls="navbarSupportedContent-7" aria-expanded="false" aria-label="Toggle navigation">
+        <a class="navbar-toggler" data-toggle="collapse" data-target="#navbarPublico" aria-controls="navbarPublico" aria-expanded="false" aria-label="Toggle navigation">
             <div class="animated-icon1 menubarra" id="hamburguesa"><span></span><span></span><span></span></div>
         </a>
 
-        <div class="collapse navbar-collapse" id="navbarSupportedContent-7">
+        <div class="collapse navbar-collapse" id="navbarPublico">
             <div class="row mt-5">
                 <div class="col-6 col-md-6 col-xl-3 sub-menu mb-xl-0">
                     <ul class="menuWhite">

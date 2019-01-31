@@ -2,11 +2,54 @@
 <html lang="es">
 
 <head>
+    <!-- Google Tag Manager -->
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+
+        })(window, document, 'script', 'dataLayer', 'GTM-TJSBKMF');
+
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Google Analytics Code -->
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-48286217-18', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+    <!-- Google Analytics Code -->
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="shortcut icon" href="img/favicon.png" />
-<!--    <link href='https://api.mapbox.com/mapbox-gl-js/v0.51.0/mapbox-gl.css' rel='stylesheet' />-->
+    <!--    <link href='https://api.mapbox.com/mapbox-gl-js/v0.51.0/mapbox-gl.css' rel='stylesheet' />-->
 
     <title> PÚBLICO Coworking México | Coworking CDMX | Cowork CDMX | Coworking DF</title>
     <meta name="description" content="Coworking México CDMX,  Coworking DF, Cowork CDMX, Renta de oficinas DF, Condesa, Polanco, San Miguel Chapultepec, Cowork México, Coworking CDMX" />
@@ -25,12 +68,12 @@
         {
             "@context": "http://schema.org",
             "@type": "Organization",
-            "url": “https: //publi.co",
-                "name": “Público Coworking CDMX ",
+            "url": "https: //publi.co",
+            "name": "Público Coworking CDMX ",
             "contactPoint": {
                 "@type": "ContactPoint",
-                "email": “info @publi.co ",
-                "telephone": “+525514542531 ",
+                "email": "info @publi.co ",
+                "telephone": "+525514542531 ",
                 "contactType": "Sales"
             }
         }
@@ -60,7 +103,7 @@
                 "https://twitter.com/publicotrabajo",
                 "https://www.instagram.com/publi.co/"
             ],
-            "image": "https://publi.co/wp/wp-content/uploads/2018/04/Publico_Coworking_Muzquiz15_espacios_en_renta_CDMX_San_Miguel_Chapultepec_MOBILE.jpg",
+            "image": "https://publi.co/img/fotos/muzquiz/Publico_Coworking_Muzquiz15_espacios_en_renta_CDMX_San_Miguel_Chapultepec_MOBILE.jpg",
             "priceRange": "4000-70000"
         }
 
@@ -70,20 +113,20 @@
     <link rel="stylesheet" href="css/all.min.css">
     <link rel="stylesheet" href="fonts/font.css">
     <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
     <!-- Material Design Bootstrap -->
-    <link href="css/mdb.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/mdb.min.css">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="css/nivo-slider.css">
+    <link rel="stylesheet" href="css/nivo-slider.min.css">
     <link rel="stylesheet" href="css/themes/default/default.css">
-    <link rel="stylesheet" href="css/mobile.css">
-    <link rel="stylesheet" href="css/responsive.css">
-    <link rel="stylesheet" href="css/helper.css">
-    <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/v0.51.0/mapbox-gl.css'  />
-    <link rel="stylesheet" href="css/locations.css">
+    <link rel="stylesheet" href="css/mobile.min.css">
+    <link rel="stylesheet" href="css/responsive.min.css">
+    <link rel="stylesheet" href="css/helper.min.css">
+    <link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/v0.51.0/mapbox-gl.css">
+    <link rel="stylesheet" href="css/locations.min.css">
 
-<!--
+    <!--
     <style>
         body {
             overflow: hidden;
@@ -94,6 +137,25 @@
 </head>
 
 <body>
+    <!-- Google Analytics Code -->
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-48286217-18', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+    <!-- Google Analytics Code -->
 
 <!--
     <div class='preloader-container'>
@@ -115,8 +177,8 @@
     <?php include('require/float-social.php'); ?>
 
     <header>
-        <img src="img/badge-DESKTOP.png" data-src="img/badge-DESKTOP.png" class="lazy bottom2 d-none d-md-block" alt="Member Choice Awards">
-        <img src="img/badge_MOBILE.png" data-src="img/badge_MOBILE.png" class="lazy bottom2 d-block d-md-none" alt="Member Choice Awards">
+        <img src="img/pixel.gif" data-src="img/badge-DESKTOP.png" class="lazy bottom2 d-none d-md-block" alt="Member Choice Awards">
+        <img src="img/pixel.gif" data-src="img/badge_MOBILE.png" class="lazy bottom2 d-block d-md-none" alt="Member Choice Awards">
 
         <?php require('require/nav.php'); ?>
 
@@ -131,19 +193,19 @@
                         <!--Grid column-->
                         <!--                        <div class="col-12 mt-5 py-5"></div>-->
                         <div class="col-md-6 white-text text-center text-md-left mt-3 mb-5 pl-4 wow fadeInLeft" data-wow-delay="0.3s">
-                            <h1 class="display-4 font-weight-bold mt-lg-5">PÚBLICO Coworking</h1>
+                            <h1 class="display-4 font-weight-bold mt-lg-5 titleHome">PÚBLICO <span class="coworkTitle">Coworking</span></h1>
                             <!--<hr class="hr-light">-->
-                            <h2 class="mb-4 tagtitle">Renta de oficinas privadas, espacios de coworking y salas de juntas en la CDMX.</h2>
+                            <h2 class="my-4 tagtitle">Renta de oficinas privadas, espacios de coworking y salas de juntas en la CDMX.</h2>
                         </div>
                         <!--Grid column-->
 
-                        <?php require('require/social-header.php'); ?>
+                        <?php require("require/social-header.php"); ?>
 
                     </div>
                     <!--Grid row-->
                     <div class="row align-items-end justify-content-center">
                         <div class="col-10 col-md-6 col-lg-3 text-center mt-5 bottom">
-                            <div class='icon-scroll'></div>
+                            <div class="icon-scroll"></div>
                         </div>
                     </div>
                     <!-- Content -->
@@ -185,7 +247,7 @@
                                         <a href="coworking/coworking-cdmx-muzquiz">
                                             <!-- Card image -->
                                             <div class="overlay">
-                                                <img class="lazy card-img-top" data-src="img/fotos/home/Coworking-Mexico-en-San-Miguel-Chapultepec.jpg" alt="Coworking México en San Miguel Chapultepec">
+                                                <img class="lazy card-img-top" data-src="img/fotos/home/Coworking-Mexico-en-San-Miguel-Chapultepec.jpg" src="img/pixel.gif" alt="Coworking Mexico en San Miguel Chapultepec">
 
                                                 <div class="mask rgba-white-slight"></div>
 
@@ -214,7 +276,7 @@
                                         <!-- Card image -->
                                         <a href="coworking/coworking-cdmx-puebla">
                                             <div class="overlay">
-                                                <img class="lazy card-img-top" data-src="img/fotos/home/Coworkin-Mexico-Condesa.jpg" alt="Coworking México en Condesa">
+                                                <img class="lazy card-img-top" data-src="img/fotos/home/Coworkin-Mexico-Condesa.jpg" src="img/pixel.gif" alt="Coworking Mexico en Condesa">
 
                                                 <div class="mask rgba-white-slight"></div>
 
@@ -249,7 +311,7 @@
                                         <!-- Card image -->
                                         <a href="coworking/coworking-cdmx-moliere">
                                             <div class="overlay">
-                                                <img class="lazy card-img-top" data-src="img/fotos/home/Coworkin-Mexico-en-Polanco.jpg" alt="Coworking México en Polanco">
+                                                <img class="lazy card-img-top" data-src="img/fotos/home/Coworkin-Mexico-en-Polanco.jpg" src="img/pixel.gif" alt="Coworking Mexico en Polanco">
                                                 <div class="mask rgba-white-slight"></div>
                                             </div>
                                         </a>
@@ -281,7 +343,7 @@
                                         <!-- Card image -->
                                         <a href="coworking/coworking-cdmx-seneca">
                                             <div class="overlay">
-                                                <img class="lazy card-img-top" data-src="img/fotos/home/Coworking-CDMX-en-Polanco.jpg" alt="Coworking CDMX en Polanco">
+                                                <img class="lazy card-img-top" data-src="img/fotos/home/Coworking-CDMX-en-Polanco.jpg" src="img/pixel.gif" alt="Coworking CDMX en Polanco">
 
                                                 <div class="mask rgba-white-slight"></div>
 
@@ -322,7 +384,7 @@
                         <div class="col-12 col-md-6">
                             <!-- Featured image -->
                             <div class="overlay rounded z-depth-1 mb-lg-0 mb-4">
-                                <img class="lazy img-fluid" data-src="img/fotos/home/Publico-Juarez.jpg" alt="PÚBLICO Juárez">
+                                <img class="lazy img-fluid" src="img/pixel.gif" data-src="img/fotos/home/Publico-Juarez.jpg" alt="Publico Juarez">
                                 <a>
                                     <div class="mask rgba-white-slight"></div>
                                 </a>
@@ -351,7 +413,7 @@
                         <div class="col-12 col-md-6">
                             <!-- Featured image -->
                             <div class="overlay rounded z-depth-1 mb-lg-0 mb-4">
-                                <img class="lazy img-fluid" data-src="img/fotos/home/Publico-Lomas.jpg" alt="Público Lomas">
+                                <img class="lazy img-fluid" src="img/pixel.gif" data-src="img/fotos/home/Publico-Lomas.jpg" alt="Publico Lomas">
                                 <a>
                                     <div class="mask rgba-white-slight"></div>
                                 </a>
@@ -376,15 +438,15 @@
         </div>
     </section>
 
-   <div class="container">
-        <div class="row justify-content-center ">
+    <div class="container">
+        <div class="row justify-content-center">
             <div class="col-12 col-md-10 my-4">
-                <div id='map' class="alturasMapa" style='width: 100%;'></div>
+                <div id="map" class="alturasMapa"></div>
             </div>
         </div>
     </div>
 
-    <?php include('require/servicios.php'); ?>
+    <?php include("require/servicios.php"); ?>
 
     <section id="comedor" class="pb-5 overflow">
         <div class="container-fluid">
@@ -403,14 +465,14 @@
                 </div>
             </div>
 
-            <?php include('require/galeria-comedores.php'); ?>
+            <?php include("require/galeria-comedores.php"); ?>
 
         </div>
     </section>
 
-    <?php include('require/testimoniales.php'); ?>
+    <?php include("require/testimoniales.php"); ?>
 
-    <?php include('require/colaboradores.php'); ?>
+    <?php include("require/colaboradores.php"); ?>
 
     <section id="lideres" class="pb-5">
         <div class="container-fluid">
@@ -427,168 +489,168 @@
             <div class="row justify-content-center mb-5">
                 <div class="col-12 col-md-10 pt-5 text-center owl-aliados owl-carousel owl-theme">
                     <div>
-                        <img class="lazy" data-src="img/aliados/masschallenge.jpg" alt="Masschallenge">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/masschallenge.jpg" alt="Masschallenge">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/tedx.jpg" alt="Tedx">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/tedx.jpg" alt="Tedx">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/airbnb.jpg" alt="airbnb">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/airbnb.jpg" alt="airbnb">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/designweekmexico.jpg" alt="Design Week México">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/designweekmexico.jpg" alt="Design Week Mexico">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/mercedes.jpg" alt="Mercedes Benz">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/mercedes.jpg" alt="Mercedes Benz">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/macario.jpg" alt="Macario">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/macario.jpg" alt="Macario">
                     </div>
                     <div>
-                        <img data-src="img/aliados/abiertoMexicano.jpg" class="lazy w-responsive img-fluid" alt="Abierto Mexicano de Diseño">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/abiertoMexicano.jpg" alt="Abierto Mexicano de Diseño">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/academia-metropolitana.jpg" alt="Academia Metropolitana de Teatro">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/academia-metropolitana.jpg" alt="Academia Metropolitana de Teatro">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/actium.jpg" alt="ACTIUM">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/actium.jpg" alt="ACTIUM">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/antonio-saucedo.jpg" alt="Antonio Saucedo Fotografo">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/antonio-saucedo.jpg" alt="Antonio Saucedo Fotografo">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/arvizu-asociados.jpg" alt="Arvizu Asociados">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/arvizu-asociados.jpg" alt="Arvizu Asociados">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/bartholomeow.jpg" alt="Bartholomeow">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/bartholomeow.jpg" alt="Bartholomeow">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/bengala.jpg" alt="Bengala">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/bengala.jpg" alt="Bengala">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/betahaus.jpg" alt="betahaus">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/betahaus.jpg" alt="betahaus">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/betrep.jpg" alt="BeTrep">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/betrep.jpg" alt="BeTrep">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/bw.jpg" alt="BW">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/bw.jpg" alt="BW">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/cheirblair.jpg" alt="Cheir Blair">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/cheirblair.jpg" alt="Cheir Blair">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/chilakatazo.jpg" alt="Chilakatazo Film">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/chilakatazo.jpg" alt="Chilakatazo Film">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/chilango.jpg" alt="Chilango">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/chilango.jpg" alt="Chilango">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/CM.jpg" alt="CM">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/CM.jpg" alt="CM">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/coolhunterMX.jpg" alt="Cool Hunter MX">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/coolhunterMX.jpg" alt="Cool Hunter MX">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/dondeIR.jpg" alt="DONDE IR">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/dondeIR.jpg" alt="DONDE IR">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/effect.jpg" alt="EFFECT">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/effect.jpg" alt="EFFECT">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/ekta.jpg" alt="EKTA">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/ekta.jpg" alt="EKTA">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/euforia.jpg" alt="euforia">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/euforia.jpg" alt="euforia">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/evoka.jpg" alt="EVOKA GALLERY">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/evoka.jpg" alt="EVOKA GALLERY">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/expansive.jpg" alt="EXPANSIVE">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/expansive.jpg" alt="EXPANSIVE">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/fondea.jpg" alt="fondea">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/fondea.jpg" alt="fondea">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/gatopardo.jpg" alt="GATOPARDO">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/gatopardo.jpg" alt="GATOPARDO">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/impact.jpg" alt="imp!act">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/impact.jpg" alt="impact">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/ISD.jpg" alt="ISD">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/ISD.jpg" alt="ISD">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/limon.jpg" alt="limon">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/limon.jpg" alt="limon">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/local.jpg" alt="local">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/local.jpg" alt="local">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/lumbre.jpg" alt="lumbre">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/lumbre.jpg" alt="lumbre">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/maison.jpg" alt="MAISON MANILA">
-                    </div>
-
-                    <div>
-                        <img class="lazy" data-src="img/aliados/mercedes.jpg" alt="MERCEDES BENZ">
-                    </div>
-                    <div>
-                        <img class="lazy" data-src="img/aliados/new.jpg" alt="New Co">
-                    </div>
-                    <div>
-                        <img class="lazy" data-src="img/aliados/origami.jpg" alt="origamiocho">
-                    </div>
-                    <div>
-                        <img class="lazy" data-src="img/aliados/pasteTV.jpg" alt="pasteTV">
-                    </div>
-                    <div>
-                        <img class="lazy" data-src="img/aliados/penninsula.jpg" alt="penninsula">
-                    </div>
-                    <div>
-                        <img class="lazy" data-src="img/aliados/peraj-mexico.jpg" alt="Peraj-México">
-                    </div>
-                    <div>
-                        <img class="lazy" data-src="img/aliados/polen.jpg" alt="Polen">
-                    </div>
-                    <div>
-                        <img class="lazy" data-src="img/aliados/premios-metropolitanos.jpg" alt="Premios Metropolitanos de Teatro">
-                    </div>
-                    <div>
-                        <img class="lazy" data-src="img/aliados/propeler.jpg" alt="propeler">
-                    </div>
-                    <div>
-                        <img class="lazy" data-src="img/aliados/reset.jpg" alt="reset">
-                    </div>
-                    <div>
-                        <img class="lazy" data-src="img/aliados/s2g.jpg" alt="s2g">
-                    </div>
-                    <div>
-                        <img class="lazy" data-src="img/aliados/spacetime.jpg" alt="SPACETIME">
-                    </div>
-                    <div>
-                        <img class="lazy" data-src="img/aliados/squadrom.jpg" alt="SQUADRON MEDIA">
-                    </div>
-                    <div>
-                        <img class="lazy" data-src="img/aliados/tack.jpg" alt="tack">
-                    </div>
-                    <div>
-                        <img class="lazy" data-src="img/aliados/TBP.jpg" alt="the branding people">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/maison.jpg" alt="MAISON MANILA">
                     </div>
 
                     <div>
-                        <img class="lazy" data-src="img/aliados/timeout.jpg" alt="TimeOut">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/mercedes.jpg" alt="MERCEDES BENZ">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/travesias.jpg" alt="Travesías">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/new.jpg" alt="New Co">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/warp.jpg" alt="WARP">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/origami.jpg" alt="origamiocho">
                     </div>
                     <div>
-                        <img class="lazy" data-src="img/aliados/waterpeople.jpg" alt="Water People">
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/pasteTV.jpg" alt="pasteTV">
+                    </div>
+                    <div>
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/penninsula.jpg" alt="penninsula">
+                    </div>
+                    <div>
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/peraj-mexico.jpg" alt="Peraj-Mexico">
+                    </div>
+                    <div>
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/polen.jpg" alt="Polen">
+                    </div>
+                    <div>
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/premios-metropolitanos.jpg" alt="Premios Metropolitanos de Teatro">
+                    </div>
+                    <div>
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/propeler.jpg" alt="propeler">
+                    </div>
+                    <div>
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/reset.jpg" alt="reset">
+                    </div>
+                    <div>
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/s2g.jpg" alt="s2g">
+                    </div>
+                    <div>
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/spacetime.jpg" alt="SPACETIME">
+                    </div>
+                    <div>
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/squadrom.jpg" alt="SQUADRON MEDIA">
+                    </div>
+                    <div>
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/tack.jpg" alt="tack">
+                    </div>
+                    <div>
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/TBP.jpg" alt="the branding people">
+                    </div>
+
+                    <div>
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/timeout.jpg" alt="TimeOut">
+                    </div>
+                    <div>
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/travesias.jpg" alt="Travesías">
+                    </div>
+                    <div>
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/warp.jpg" alt="WARP">
+                    </div>
+                    <div>
+                        <img class="lazy" src="img/pixel.gif" data-src="img/aliados/waterpeople.jpg" alt="Water People">
                     </div>
                 </div>
 
@@ -603,12 +665,12 @@
             <div class="row justify-content-center">
                 <div class="col-12 col-lg-8">
                     <div class="card">
-                        <div class="card-body z-depth-1 ">
+                        <div class="card-body z-depth-1">
                             <h2 class="titulos my-4 text-center">Realiza tu evento en PÚBLICO</h2>
                             <p class="subtitulo text-center">Contamos con <span class="font-weight-bold">espacios únicos</span> con todas las comodidades para hospedar eventos de todo tipo: conversatorios, lanzamientos de productos, conferencias, etc. No tienes que ser miembro de PÚBLICO para ser parte de la comunidad creativa que lleva a cabo eventos en nuestros espacios.</p>
                             <!-- Avatar -->
                             <div class="avatar white my-4">
-                                <img data-src="img/fotos/home/Eventos-en-Publico-CDMX.jpg" class="lazy img-fluid d-block mx-auto" alt="Eventos en PÚBLICO CDMX">
+                                <img src="img/pixel.gif" data-src="img/fotos/home/Eventos-en-Publico-CDMX.jpg" class="lazy img-fluid d-block mx-auto" alt="Eventos en PUBLICO CDMX">
                             </div>
                             <!-- Read more button -->
                             <a class="btn btn-outline-black btn-block font-weight-bold waves-effect" href="eventos">Conoce más</a>
@@ -641,8 +703,8 @@
                             <!-- Grid column -->
                             <div class="col-lg-5">
                                 <!-- Featured image -->
-                                <div class=" overlay rounded z-depth-1 mb-lg-0 mb-4">
-                                    <img class="lazy img-fluid" data-src="img/fotos/blog/PUBLICO-gana-el-Members-Choice-Award-2018.jpg" alt="PUBLICO gana el Members Choice Award 2018">
+                                <div class="overlay rounded z-depth-1 mb-lg-0 mb-4">
+                                    <img class="lazy img-fluid" src="img/pixel.gif" data-src="img/fotos/blog/PUBLICO-gana-el-Members-Choice-Award-2018.jpg" alt="PUBLICO gana el Members Choice Award 2018">
                                     <a>
                                         <div class="mask rgba-white-slight"></div>
                                     </a>
@@ -676,8 +738,8 @@
                             <!-- Grid column -->
                             <div class="col-lg-5">
                                 <!-- Featured image -->
-                                <div class=" overlay rounded z-depth-1 mb-lg-0 mb-4">
-                                    <img class="lazy img-fluid" data-src="img/fotos/blog/PUBLICO-COWORKING-BLOG-HISTORIA.jpg" alt="Sample image">
+                                <div class="overlay rounded z-depth-1 mb-lg-0 mb-4">
+                                    <img class="lazy img-fluid" src="img/pixel.gif" data-src="img/fotos/blog/PUBLICO-COWORKING-BLOG-HISTORIA.jpg" alt="PUBLICO-COWORKING-BLOG-HISTORIA">
                                     <a>
                                         <div class="mask rgba-white-slight"></div>
                                     </a>
@@ -712,7 +774,7 @@
                             <div class="col-lg-5">
                                 <!-- Featured image -->
                                 <div class=" overlay rounded z-depth-1 mb-lg-0 mb-4">
-                                    <img class="lazy img-fluid" data-src="img/fotos/blog/PUBLICO-COWORKING-BLOG-INDUSTRIAL.jpg" alt="Sample image">
+                                    <img class="lazy img-fluid" src="img/pixel.gif" data-src="img/fotos/blog/PUBLICO-COWORKING-BLOG-INDUSTRIAL.jpg" alt="PUBLICO COWORKING BLOG INDUSTRIAL">
                                     <a>
                                         <div class="mask rgba-white-slight"></div>
                                     </a>
@@ -749,7 +811,7 @@
                             <div class="col-lg-5">
                                 <!-- Featured image -->
                                 <div class="overlay rounded z-depth-1 mb-lg-0 mb-4">
-                                    <img class="lazy img-fluid" data-src="img/fotos/blog/PUBLICO-COWORKING-BLOG-ONDA.jpg" alt="Sample image">
+                                    <img class="lazy img-fluid" src="img/pixel.gif" data-src="img/fotos/blog/PUBLICO-COWORKING-BLOG-ONDA.jpg" alt="PUBLICO COWORKING BLOG ONDA">
                                     <a>
                                         <div class="mask rgba-white-slight"></div>
                                     </a>
@@ -785,7 +847,7 @@
                             <div class="col-lg-5">
                                 <!-- Featured image -->
                                 <div class=" overlay rounded z-depth-1 mb-lg-0 mb-4">
-                                    <img class="lazy img-fluid" data-src="img/fotos/blog/PUBLICO-COWORKING-BLOG-GIRLPOWER.jpg" alt="Sample image">
+                                    <img class="lazy img-fluid" src="img/pixel.gif" data-src="img/fotos/blog/PUBLICO-COWORKING-BLOG-GIRLPOWER.jpg" alt="PUBLICO COWORKING BLOG GIRLPOWER">
                                     <a>
                                         <div class="mask rgba-white-slight"></div>
                                     </a>
@@ -819,8 +881,8 @@
                             <!-- Grid column -->
                             <div class="col-lg-5">
                                 <!-- Featured image -->
-                                <div class=" overlay rounded z-depth-1 mb-lg-0 mb-4">
-                                    <img class="lazy img-fluid" data-src="img/fotos/blog/PUBLICO-COWORKING-BLOG-TBP.jpg" alt="Sample image">
+                                <div class="overlay rounded z-depth-1 mb-lg-0 mb-4">
+                                    <img class="lazy img-fluid" src="img/pixel.gif" data-src="img/fotos/blog/PUBLICO-COWORKING-BLOG-TBP.jpg" alt="PUBLICO COWORKING BLOG TBP">
                                     <a>
                                         <div class="mask rgba-white-slight"></div>
                                     </a>
@@ -852,69 +914,70 @@
         </div>
     </section>
 
-    <section id="instagram">
+    <section id="insta">
         <div class="container">
             <div class="row justify-content-center mx-0 my-5">
                 <div class="col-12 col-md-10 col-lg-7">
                     <div class="row">
                         <div class="col-12 text-center">
-                            <img class="lazy" data-src="img/iconos/redes/negro/ig_n.svg" alt="Publico en Instagram">
+                            <img class="lazy" data-src="img/iconos/redes/negro/ig_n.svg" src="img/pixel.gif" alt="Publico en Instagram">
                         </div>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-6 col-md-3 mb-4">
-                    <a href="https://www.instagram.com/p/Bg2c_4WlExG/?taken-by=publi.co" target="_blank"><img data-src="img/insta/1.jpg" class="lazy img-fluid" alt=""></a>
+                    <a href="https://www.instagram.com/p/Bg2c_4WlExG/?taken-by=publi.co" target="_blank"><img data-src="img/insta/1.jpg" src="img/pixel.gif" class="lazy img-fluid" alt=""></a>
                 </div>
                 <div class="col-6 col-md-3 mb-4">
-                    <a href="https://www.instagram.com/p/BkLgNpVlw8j/?taken-by=publi.co" target="_blank"><img data-src="img/insta/2.jpg" class="lazy img-fluid" alt=""></a>
+                    <a href="https://www.instagram.com/p/BkLgNpVlw8j/?taken-by=publi.co" target="_blank"><img data-src="img/insta/2.jpg" src="img/pixel.gif" class="lazy img-fluid" alt=""></a>
                 </div>
                 <div class="col-6 col-md-3 mb-4">
-                    <a href="https://www.instagram.com/p/BhhgQEbF83A/?taken-by=publi.co" target="_blank"><img data-src="img/insta/3.jpg" class="lazy img-fluid" alt=""></a>
+                    <a href="https://www.instagram.com/p/BhhgQEbF83A/?taken-by=publi.co" target="_blank"><img data-src="img/insta/3.jpg" src="img/pixel.gif" class="lazy img-fluid" alt=""></a>
                 </div>
                 <div class="col-6 col-md-3 mb-4">
-                    <a href="https://www.instagram.com/p/BfGmNRgF4CK/?taken-by=publi.co" target="_blank"><img data-src="img/insta/4.jpg" class="lazy img-fluid" alt=""></a>
+                    <a href="https://www.instagram.com/p/BfGmNRgF4CK/?taken-by=publi.co" target="_blank"><img data-src="img/insta/4.jpg" src="img/pixel.gif" class="lazy img-fluid" alt=""></a>
                 </div>
                 <div class="col-6 col-md-3 mb-4 d-none d-md-block">
-                    <a href="https://www.instagram.com/p/BiowIPmFoE8/?taken-by=publi.co" target="_blank"><img data-src="img/insta/5.jpg" class="lazy img-fluid" alt=""></a>
+                    <a href="https://www.instagram.com/p/BiowIPmFoE8/?taken-by=publi.co" target="_blank"><img data-src="img/insta/5.jpg" src="img/pixel.gif" class="lazy img-fluid" alt=""></a>
                 </div>
                 <div class="col-6 col-md-3 mb-4 d-none d-md-block">
-                    <a href="https://www.instagram.com/p/BnEXncLF5bb/?taken-by=publi.co" target="_blank"><img data-src="img/insta/6.jpg" class="lazy img-fluid" alt=""></a>
+                    <a href="https://www.instagram.com/p/BnEXncLF5bb/?taken-by=publi.co" target="_blank"><img data-src="img/insta/6.jpg" src="img/pixel.gif" class="lazy img-fluid" alt=""></a>
                 </div>
                 <div class="col-6 col-md-3 mb-4 d-none d-md-block">
-                    <a href="https://www.instagram.com/p/BjeEj4sF2HL/?taken-by=publi.co" target="_blank"><img data-src="img/insta/7.jpg" class="lazy img-fluid" alt=""></a>
+                    <a href="https://www.instagram.com/p/BjeEj4sF2HL/?taken-by=publi.co" target="_blank"><img data-src="img/insta/7.jpg" src="img/pixel.gif" class="lazy img-fluid" alt=""></a>
                 </div>
                 <div class="col-6 col-md-3 mb-4 d-none d-md-block">
-                    <a href="https://www.instagram.com/p/BktrOa3leFh/?taken-by=publi.co" target="_blank"><img data-src="img/insta/8.jpg" class="lazy img-fluid" alt=""></a>
+                    <a href="https://www.instagram.com/p/BktrOa3leFh/?taken-by=publi.co" target="_blank"><img data-src="img/insta/8.jpg" src="img/pixel.gif" class="lazy img-fluid" alt=""></a>
                 </div>
             </div>
         </div>
     </section>
 
-    <?php include('require/info-contacto.php'); ?>
+    <?php include("require/info-contacto.php"); ?>
 
-    <?php include('require/footer.php'); ?>
+    <?php include("require/footer.php"); ?>
 
-    <script src='https://api.mapbox.com/mapbox-gl-js/v0.51.0/mapbox-gl.js'></script>
+    <script src="https://api.mapbox.com/mapbox-gl-js/v0.51.0/mapbox-gl.js"></script>
 
-    <?php include('require/scripts.php'); ?>
+    <?php include("require/scripts.php"); ?>
     <script src="js/locations.js" async></script>
 
 
     <script>
         $(function() {
-            $('.lazy').lazy({
+            $(".lazy").lazy({
                 combined: true,
-                delay: 3500,
+                delay: 1500,
                 effect: "fadeIn",
-                effectTime: 1000,
+                effectTime: 350,
                 threshold: 0
             });
         });
+
     </script>
 
-<!--
+    <!--
     <script>
         $(window).on('load', function() {
             $('#logoPre').animate({

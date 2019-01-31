@@ -4,9 +4,9 @@
             <div class="col-md-7">
                 <div class="slider-wrapper theme-default">
                     <div id="slider" class="nivoSlider">
-                        <img class="lazy" data-src="img/fotos/home/galeria/Pablo-Salas-en-Publico.jpg" alt="Pablo Salas en PÚBLICO" />
-                        <img class="lazy" data-src="img/fotos/home/galeria/Publico-Comedor.jpg" alt="PÚBLICO Comedor" />
-                        <img class="lazy" data-src="img/fotos/home/galeria/Itacate-CDMX.jpg" alt="Itacate CDMX" />
+                        <img class="lazy" src="img/pixel.gif" data-src="img/fotos/home/galeria/Pablo-Salas-en-Publico.jpg" alt="Pablo Salas en PUBLICO" />
+                        <img class="lazy" src="img/pixel.gif" data-src="img/fotos/home/galeria/Publico-Comedor.jpg" alt="PUBLICO Comedor" />
+                        <img class="lazy" src="img/pixel.gif" data-src="img/fotos/home/galeria/Itacate-CDMX.jpg" alt="Itacate CDMX" />
                     </div>
 <!--
                     <div id="htmlcaption" class="nivo-html-caption">

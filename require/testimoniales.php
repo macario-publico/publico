@@ -22,7 +22,7 @@
                                 <h5 class="card-title text-realce">Entrepreneur</h5>
                                 <!-- Avatar -->
                                 <div class="w-responsive avatar mx-auto white">
-                                <img data-src="img/fotos/home/testimoniales/entrepreneur_test.png" class="lazy rounded-circle" width="100" alt="Entrepreneur en PÚBLICO">
+                                <img src="img/pixel.gif" data-src="img/fotos/home/testimoniales/entrepreneur_test.png" class="lazy rounded-circle" width="100" alt="Entrepreneur en PUBLICO">
                                 </div>
                             </div>
                         </div>
@@ -35,7 +35,7 @@
                                 <h5 class="card-title text-realce">Revista Warp</h5>
                                 <!-- Avatar -->
                                 <div class="w-responsive avatar mx-auto white">
-                                <img data-src="img/fotos/home/testimoniales/warp_test.png" class="lazy rounded-circle" width="100" alt="Revista Warp en PÚBLICO">
+                                <img src="img/pixel.gif" data-src="img/fotos/home/testimoniales/warp_test.png" class="lazy rounded-circle" width="100" alt="Revista Warp en PUBLICO">
                                 </div>
                             </div>
                         </div>
@@ -48,7 +48,7 @@
                                 <h5 class="card-title text-realce">El Economista</h5>
                                 <!-- Avatar -->
                                 <div class="w-responsive avatar mx-auto white">
-                                <img data-src="img/fotos/home/testimoniales/el_economista_test.png" class="lazy rounded-circle" width="100" alt="El Economista en PÚBLICO">
+                                <img src="img/pixel.gif" data-src="img/fotos/home/testimoniales/el_economista_test.png" class="lazy rounded-circle" width="100" alt="El Economista en PUBLICO">
                                 </div>
                             </div>
                         </div>
@@ -61,7 +61,7 @@
                                 <h5 class="card-title text-realce">ELLE</h5>
                                 <!-- Avatar -->
                                 <div class="w-responsive avatar mx-auto white">
-                                <img data-src="img/fotos/home/testimoniales/elle_test.png" class="lazy rounded-circle" width="100" alt="ELLE en PÚBLICO">
+                                <img src="img/pixel.gif" data-src="img/fotos/home/testimoniales/elle_test.png" class="lazy rounded-circle" width="100" alt="ELLE en PUBLICO">
                                 </div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                                 <h5 class="card-title text-realce">Elina Corona Co-founder de Archivo Moda Mexicana</h5>
                                 <!-- Avatar -->
                                 <div class="w-responsive avatar mx-auto white">
-                                <img data-src="img/fotos/home/testimoniales/archivomodamexicana_test.png" class="lazy rounded-circle" width="100" alt="Archivo Moda Mexicana en PÚBLICO">
+                                <img src="img/pixel.gif" data-src="img/fotos/home/testimoniales/archivomodamexicana_test.png" class="lazy rounded-circle" width="100" alt="Archivo Moda Mexicana en PUBLICO">
                                 </div>
                             </div>
                         </div>
@@ -87,7 +87,7 @@
                                 <h5 class="card-title text-realce">Mario Cortés, Country Manager de Mercadoni.</h5>
                                 <!-- Avatar -->
                                 <div class="w-responsive avatar mx-auto white">
-                                <img data-src="img/fotos/home/testimoniales/mercadoni_test.png" class="lazy rounded-circle" width="100" alt="Mercadoni en PÚBLICO">
+                                <img src="img/pixel.gif" data-src="img/fotos/home/testimoniales/mercadoni_test.png" class="lazy rounded-circle" width="100" alt="Mercadoni en PUBLICO">
                                 </div>
                             </div>
                         </div>
@@ -100,7 +100,7 @@
                                 <h5 class="card-title text-realce">Rosa Hanhausen, Torres + Hanhausen.</h5>
                                 <!-- Avatar -->
                                 <div class="w-responsive avatar mx-auto white">
-                                <img data-src="img/fotos/home/testimoniales/rosa_test.png" class="lazy rounded-circle" width="100" alt="Torres + Hanhausen en PÚBLICO">
+                                <img src="img/pixel.gif" data-src="img/fotos/home/testimoniales/rosa_test.png" class="lazy rounded-circle" width="100" alt="Torres Hanhausen en PUBLICO">
                                 </div>
                             </div>
                         </div>
@@ -115,7 +115,7 @@
                                 <h5 class="card-title text-realce">POLEN - Diseño Vivo</h5>
                                 <!-- Avatar -->
                                 <div class="w-responsive avatar mx-auto white">
-                                <img data-src="img/fotos/home/testimoniales/polen_test.png" class="lazy rounded-circle" width="100" alt="Diseño Vivo en PÚBLICO">
+                                <img src="img/pixel.gif" data-src="img/fotos/home/testimoniales/polen_test.png" class="lazy rounded-circle" width="100" alt="Diseño Vivo en PUBLICO">
                                 </div>
                             </div>
                         </div>
@@ -128,7 +128,7 @@
                                 <h5 class="card-title text-realce">Coolhunter</h5>
                                 <!-- Avatar -->
                                 <div class="w-responsive avatar mx-auto white">
-                                <img data-src="img/fotos/home/testimoniales/coolhuntexmx_test.png" class="lazy rounded-circle" width="100" alt="Coolhunter en PÚBLICO">
+                                <img src="img/pixel.gif" data-src="img/fotos/home/testimoniales/coolhuntexmx_test.png" class="lazy rounded-circle" width="100" alt="Coolhunter en PUBLICO">
                                 </div>
                             </div>
                         </div>
@@ -141,7 +141,7 @@
                                 <h5 class="card-title text-realce">Maxim</h5>
                                 <!-- Avatar -->
                                 <div class="w-responsive avatar mx-auto white">
-                                <img data-src="img/fotos/home/testimoniales/maxim_test.png" class="lazy rounded-circle" width="100" alt="Maxim en PÚBLICO">
+                                <img src="img/pixel.gif" data-src="img/fotos/home/testimoniales/maxim_test.png" class="lazy rounded-circle" width="100" alt="Maxim en PUBLICO">
                                 </div>
                             </div>
                         </div>

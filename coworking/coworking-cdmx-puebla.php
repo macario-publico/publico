@@ -2,6 +2,49 @@
 <html lang="es">
 
 <head>
+       <!-- Google Tag Manager -->
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+
+        })(window, document, 'script', 'dataLayer', 'GTM-TJSBKMF');
+
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Google Analytics Code -->
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-48286217-18', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+    <!-- Google Analytics Code -->
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -23,12 +66,12 @@
         {
             "@context": "http://schema.org",
             "@type": "Organization",
-            "url": “https: //publi.co",
-                "name": “Público Coworking CDMX ",
+            "url": "https: //publi.co",
+                "name": "Público Coworking CDMX ",
             "contactPoint": {
                 "@type": "ContactPoint",
-                "email": “info @publi.co ",
-                "telephone": “+525514542531 ",
+                "email": "info @publi.co ",
+                "telephone": "+525514542531 ",
                 "contactType": "Sales"
             }
         }
@@ -66,10 +109,30 @@
 
 
     <?php require('require2/head.php'); ?>
-    <link rel="stylesheet" href="../css/muzquiz.css">
+    <link rel="stylesheet" href="../css/muzquiz.min.css">
 </head>
 
 <body>
+        <!-- Google Analytics Code -->
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-48286217-18', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+    <!-- Google Analytics Code -->
+
 
     <?php require('require2/float-social.php'); ?>
 

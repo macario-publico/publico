@@ -26,25 +26,25 @@ function toggleMenu() {
 
 
 
-$(window).scroll(function () {
-    toogleClass();
-});
+//$(window).scroll(function () {
+//    toogleClass();
+//});
 
-function toogleClass() {
-
-    if ($('nav').hasClass('top-nav-collapse')) {
-        $('.logoWhite').fadeOut();
-        $('.logoBlack').fadeIn();
-        $('.logoWhite2').fadeOut();
-        $('.logoBlack2').fadeIn();
-    } else {
-        //No tiene la clase 
-        $('.logoWhite').fadeIn();
-        $('.logoBlack').fadeOut();
-        $('.logoWhite2').fadeIn();
-        $('.logoBlack2').fadeOut();
-    }
-}
+//function toogleClass() {
+//
+//    if ($('nav').hasClass('top-nav-collapse')) {
+//        $('.logoWhite').fadeOut();
+//        $('.logoBlack').fadeIn();
+//        $('.logoWhite2').fadeOut();
+//        $('.logoBlack2').fadeIn();
+//    } else {
+//        //No tiene la clase
+//        $('.logoWhite').fadeIn();
+//        $('.logoBlack').fadeOut();
+//        $('.logoWhite2').fadeIn();
+//        $('.logoBlack2').fadeOut();
+//    }
+//}
 
 
 $(window).scroll(function () {
